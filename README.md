@@ -54,11 +54,11 @@ as described in the [SBC Ck Data Source README](https://github.com/SOLV-Code/Sca
 The data needed to feed into that processing repo comes from 2 sources: 
 
 * raw spawner records by site from the nuSEDS database. Current database holdings are available upon request from DFO's regional nuSEDS team on short notice any time of year. However, the data entry of new records by area staff typically occurs *WHEN?* once estimates have been finalized. Some manual changes to the nuSEDS query extract are currently required to prepare the input file, but could be automated.
-* records of spawner enumaration and broodstock collection by SEP hatchery staff from the EPAD database. Current database holdings are available upon request from DFO's regional nuSEDS team on short notice any time of year. However, the data entry of new records by hatchery staff typically occurs *WHEN?* once estimates have been finalized. Some manual changes to the nuSEDS query extract are currently required to prepare the input file, but could be automated.
+* records of spawner enumaration and broodstock collection by SEP hatchery staff from the EPAD database. Current database holdings are available upon request from DFO's regional SEP team on short notice any time of year. However, the data entry of new records by hatchery staff typically occurs *WHEN?* once estimates have been finalized. Some manual changes to the EPAD query extract are currently required to prepare the input file, but could be automated.
 
 Subsequent steps are fully automated (record matching  between data bases, quality filtering, infilling), but generate a large amount of diagnostic information that needs to be reviewed for each major update, typically leading to several iterations of tweaking data and/or settings. 
 
-Site-specific settings, such as sites to include in each CU time series, should be reviewed periodically to ensure that assumptions and scoping decisions are still valid.   
+Site-specific settings should be reviewed periodically to ensure that assumptions and scoping decisions are still valid. These include: (1) which sites to include in each CU time series, (2) classifications of data quality, and (3) classifications of enhancement level.  
 
 Important notes:
 
