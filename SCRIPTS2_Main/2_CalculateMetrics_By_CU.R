@@ -180,8 +180,8 @@ if( dim(cu.lookup.sub)[1]==1){ # do only if have exactly 1 matching CU_ID in the
                               #cyclic.bm.sub= cyclic.bm.sub,
                               tracing = TRUE)
 
-  calcPercChangeMCMC(cu.series)
-  cu.series
+  #calcPercChangeMCMC(cu.series)
+  #cu.series
 
 
 
