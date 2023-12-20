@@ -431,7 +431,7 @@ for(cu.plot in cu.list){
 
 
       #############################################################
-      # PANEL 3: GRID OF METRICS AND STATUSES
+      # PANEL 5: GRID OF METRICS AND STATUSES
       ###########################################################
 
         par(mai=c(1,3.5,1.5,2))
