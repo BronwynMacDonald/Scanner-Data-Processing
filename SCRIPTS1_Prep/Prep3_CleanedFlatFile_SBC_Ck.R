@@ -22,7 +22,7 @@ library(tidyverse)
 # Recruits_Wild =   NA
 
 
-sbc.ck.bypop.raw <- read.csv("DATA_IN/SOURCES/SBC Chinook/FlatFile_For_COSEWIC_BySite.csv",stringsAsFactors = FALSE)
+sbc.ck.bypop.raw <- read.csv("DATA_IN/SOURCES/SBC Chinook/FlatFile_For_SalmonScanner_BySite.csv",stringsAsFactors = FALSE)
 names(sbc.ck.bypop.raw )
 
 
@@ -77,7 +77,7 @@ all_included <- rbind(P_sites, DD_included_sites)
 sbc.ck.bypop.cleaned <-  sbc.ck.bypop.raw  %>%
                                               filter(UseYear) %>%
                                               filter(Pop_ID %in% all_included$POP_ID) %>%  # this now only includes 'P' sites included in CU data (& Chilliwack and NThompson)
-                                              rbind(stage_1_DD_data) %>%                   # attach the 'DD' site data NOT included in the CU data
+                                              bind_rows(stage_1_DD_data) %>%                   # attach the 'DD' site data NOT included in the CU data
                                               rename(SpnForTrend_Total = TotalInfilled,
                                                      SpnForTrend_Wild = TotalInfilledAdj)  %>%
                                               mutate(SpnForAbd_Total =  SpnForTrend_Total,
@@ -121,7 +121,7 @@ names(sbc.ck.bypop.cleaned)
 # Recruits_Wild =   NA
 
 
-sbc.ck.bycu.raw <- read.csv("DATA_IN/SOURCES/SBC Chinook/FlatFile_For_COSEWIC_ByCU.csv",stringsAsFactors = FALSE)
+sbc.ck.bycu.raw <- read.csv("DATA_IN/SOURCES/SBC Chinook/FlatFile_For_SalmonScanner.csv",stringsAsFactors = FALSE)
 names(sbc.ck.bycu.raw )
 
 
