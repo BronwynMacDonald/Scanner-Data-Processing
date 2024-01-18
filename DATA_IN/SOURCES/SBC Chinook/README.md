@@ -8,8 +8,8 @@ This folder requires 6 files:
 * *Esc_Enh-Data_Stage2_QualFiltered_CleanedforDB.csv*
 * *Esc_Enh-Data_Stage3_Infilled_CleanedforDB.csv*
 * *SBC_Chinook_VerifiedSiteLookup.csv*
-* *FlatFile_For_COSEWIC_ByCU.csv*
-* *FlatFile_For_COSEWIC_BySite.csv*
+* *FlatFile_For_SalmonScanner.csv*
+* *FlatFile_For_SalmonScanner_BySite.csv*
 
 ### Where do these files come from?
 

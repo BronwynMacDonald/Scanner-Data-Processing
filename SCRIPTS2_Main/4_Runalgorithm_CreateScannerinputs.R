@@ -34,6 +34,7 @@ cu.data.group <- cu.data %>%
                     mutate(CU_ID = gsub("_","-",CU_ID)) %>% 
                     dplyr::filter(!is.na(CU_Name)) %>%
                     left_join(cu.lookup %>% select(CU_Name,Group), by="CU_Name" )
+
 pop.data <- read.csv("DATA_PROCESSING/MERGED_ESC_BY_POP_SUB.csv")
 
 # Retrospective metrics
@@ -264,7 +265,7 @@ pop.clean <- pop.data %>% select(-c(SpnForTrend_Total, SpnForTrend_Wild)) %>%
                           select(-CU_ID_Alt2_CULookup) %>%                       
                           mutate(Escapement_Wild = case_when(CU_ID == "CO_02" ~ Escapement_Total, TRUE ~  Escapement_Wild)) # Note this is the CU_ID from the WSP process not NuSEDs
 
-
+pop.data[c(5,54),]
 
 
 

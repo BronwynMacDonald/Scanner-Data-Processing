@@ -38,7 +38,7 @@ write.csv(ok.sk.clean, "DATA_PROCESSING/Cleaned_FlatFile_ByCU_OkanaganSockeye.cs
 
 
 
-if(TRUE){ # START OK SK CSAS SCENARIOS VERSION
+if(FALSE){ # START OK SK CSAS SCENARIOS VERSION
   
   
   ok.sk.src <- read_csv("DATA_IN/SOURCES/Okanagan Sockeye/OkanaganSk_AltScenarios.csv") %>% 
