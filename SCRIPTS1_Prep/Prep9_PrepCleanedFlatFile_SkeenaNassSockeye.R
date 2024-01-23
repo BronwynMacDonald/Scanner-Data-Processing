@@ -35,6 +35,9 @@ skeenanass.sk.clean <- skeenanass.sk.src %>%
 head(skeenanass.sk.clean)
 
 
+skeenanass.sk.clean %>% dplyr::filter(CU_Name == "Damdochax")
+
+
 write.csv(skeenanass.sk.clean, "DATA_PROCESSING/Cleaned_FlatFile_ByCU_SkeenaNassSockeye.csv",row.names=FALSE)
 
 

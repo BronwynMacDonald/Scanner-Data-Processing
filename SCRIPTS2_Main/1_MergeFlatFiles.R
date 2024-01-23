@@ -39,6 +39,9 @@ flat.ok.sk.cu <- read.csv("DATA_PROCESSING/Cleaned_FlatFile_ByCU_OkanaganSockeye
 
 
 
+flat.skeenanass.sk.cu %>% dplyr::filter(CU_Name == "Damdochax")
+flat.skeenanass.sk.cu %>% dplyr::filter(CU_Name == "Alastair")
+
 # find common variables
 # vars.use <-intersect(intersect(intersect(intersect( intersect(
 #                                 intersect(names(flat.fr.sk.cu),names(flat.sbc.ck.cu)),names(flat.fr.co.cu)),
@@ -65,6 +68,9 @@ flat.merged.cu <- bind_rows(list(Sk_Fraser= select(flat.fr.sk.cu,any_of(vars.use
                               .id = "DataSet")
 
 sort(unique(flat.merged.cu$CU_Name))
+
+flat.merged.cu %>% dplyr::filter(CU_Name == "Damdochax")
+
 sum(flat.merged.cu$CU_Name=="OsoyoosLake-V1",na.rm=TRUE)
 
 # GP ADDED March 2023: Filter out any records before CU-specific start year
@@ -79,6 +85,10 @@ flat.merged.cu <- flat.merged.cu %>%
                       left_join(start.yrs.df, by = "CU_ID_Report") %>%
                       mutate(UseYear = Year >= Abd_StartYr) %>% dplyr::filter(UseYear)
 head(flat.merged.cu)
+
+
+sort(unique(flat.merged.cu$CU_Name))
+
 
 
 sort(unique(flat.merged.cu$CU_Name))
