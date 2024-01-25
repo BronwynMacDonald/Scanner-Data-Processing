@@ -264,7 +264,11 @@ if( dim(cu.lookup.sub)[1]==1){ # do only if have exactly 1 matching CU_ID in the
     if(!cu.slope.specs$slope.smooth){trend.series <- cu.series}
 
     if(FALSE){ # for debug only
-    test.out  <- WSPMetrics::calcPercChangeMCMC(vec.in = log(tail(trend.series,12)),
+      
+      num.yrs.use <- (cu.avggen *cu.slope.specs$num.gen) + cu.slope.specs$extra.yrs
+      num.yrs.use  
+      
+    test.out  <- WSPMetrics::calcPercChangeMCMC(vec.in = log(tail(trend.series,num.yrs.use)),
                                    method = "jags",
                                    model.in = NULL, # this defaults to the BUGS code in the built in function trend.bugs.1()
                                    perc.change.bm = -25,
