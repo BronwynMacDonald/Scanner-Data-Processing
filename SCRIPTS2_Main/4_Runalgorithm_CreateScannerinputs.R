@@ -140,12 +140,12 @@ names(retro.summary.tbl)
 #Sockeye	Sk	SkeenaNass_15b	Maxan
 
 
-bulkley.df <- data.frame(CU_ID= "SkeenaNass_15", Species= "Sockeye",
+bulkley.df <- data.frame(CU_ID= "SkeenaNass-15", Species= "Sockeye",
                          Stock = "Upper Bulkley Lakes", Year = 1995:2022,
                          RapidStatus = "Ext", BinLabel = "Ext",BinPath = "Ext",
                          RapidScore = NA, ConfidenceRating5 = NA, ConfidenceRating3 = NA,
                          ConfidenceRating2 = NA  )
-maxan.df <- data.frame(CU_ID= "SkeenaNass_15b", Species= "Sockeye",
+maxan.df <- data.frame(CU_ID= "SkeenaNass-15b", Species= "Sockeye",
                          Stock = "Maxan", Year = 1995:2022,
                          RapidStatus = "Ext", BinLabel = "Ext",BinPath = "Ext",
                          RapidScore = NA, ConfidenceRating5 = NA, ConfidenceRating3 = NA,
@@ -158,14 +158,14 @@ retro.summary.tbl.mod <- bind_rows(retro.summary.tbl,bulkley.df,maxan.df)
 mcdonnel.src <- retro.summary.tbl %>% dplyr::filter(Stock == "Mcdonell") %>%
                     select(Year,Stock,RapidStatus,RapidScore) %>% 
                     dplyr::rename(ProxySource= Stock)
-aldrich.df <- data.frame(CU_ID= "SkeenaNass_13b", Species= "Sockeye",
+aldrich.df <- data.frame(CU_ID= "SkeenaNass-13b", Species= "Sockeye",
                       Stock = "Aldrich", Year = 1995:2022,
                       BinLabel = "Proxy",BinPath = "Proxy",
                       ConfidenceRating5 = "Low", ConfidenceRating3 = "Low",
                       ConfidenceRating2 = "Low"  ) %>% 
                       left_join(mcdonnel.src,by="Year")
 
-dennis.df <- data.frame(CU_ID= "SkeenaNass_13c", Species= "Sockeye",
+dennis.df <- data.frame(CU_ID= "SkeenaNass-13c", Species= "Sockeye",
                          Stock = "Dennis", Year = 1995:2022,
                          BinLabel = "Proxy",BinPath = "Proxy",
                          ConfidenceRating5 = "Low", ConfidenceRating3 = "Low",

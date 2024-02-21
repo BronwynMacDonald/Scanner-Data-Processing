@@ -1985,115 +1985,115 @@
 "CU-16","Sockeye","Widgeon_RT","Abs_Abd",2019,176,88,NA,0.17474223653108,50,-35.2981,58.6,0.2537,NA,0.017474223653108,4,"SK-Fraser_RT","Red","Node3","Data Type is AbsAbd AND AbsLBM < 1.5",5,NA,"Red","Red","Red",NA,"Amber",NA,"Red",NA,"Red",NA,NA,NA,NA,"High","High","High",NA,NA,NA,NA
 "CU-16","Sockeye","Widgeon_RT","Abs_Abd",2020,237.356,94,NA,0.174992704358686,43,-70.139,93.1,0.2206,NA,0.0174992704358686,4,"SK-Fraser_RT","Red","Node3","Data Type is AbsAbd AND AbsLBM < 1.5",5,NA,"Red","Red","Red",NA,"Red",NA,"Red",NA,"Red",NA,NA,NA,NA,"High","High","High",NA,NA,NA,NA
 "CU-16","Sockeye","Widgeon_RT","Abs_Abd",2021,124,62,NA,0.172517306717657,42,-83.0653,99.6333,0.2319,NA,0.0172517306717657,4,"SK-Fraser_RT","Red","Node3","Data Type is AbsAbd AND AbsLBM < 1.5",5,NA,"Red","Red","Red",NA,"Red",NA,"Red",NA,"Red",NA,NA,NA,NA,"High","High","High",NA,NA,NA,NA
-"SkeenaNass_15","Sockeye","Upper Bulkley Lakes",NA,1995,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15","Sockeye","Upper Bulkley Lakes",NA,1996,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15","Sockeye","Upper Bulkley Lakes",NA,1997,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15","Sockeye","Upper Bulkley Lakes",NA,1998,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15","Sockeye","Upper Bulkley Lakes",NA,1999,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15","Sockeye","Upper Bulkley Lakes",NA,2000,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15","Sockeye","Upper Bulkley Lakes",NA,2001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15","Sockeye","Upper Bulkley Lakes",NA,2002,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15","Sockeye","Upper Bulkley Lakes",NA,2003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15","Sockeye","Upper Bulkley Lakes",NA,2004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15","Sockeye","Upper Bulkley Lakes",NA,2005,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15","Sockeye","Upper Bulkley Lakes",NA,2006,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15","Sockeye","Upper Bulkley Lakes",NA,2007,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15","Sockeye","Upper Bulkley Lakes",NA,2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15","Sockeye","Upper Bulkley Lakes",NA,2009,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15","Sockeye","Upper Bulkley Lakes",NA,2010,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15","Sockeye","Upper Bulkley Lakes",NA,2011,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15","Sockeye","Upper Bulkley Lakes",NA,2012,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15","Sockeye","Upper Bulkley Lakes",NA,2013,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15","Sockeye","Upper Bulkley Lakes",NA,2014,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15","Sockeye","Upper Bulkley Lakes",NA,2015,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15","Sockeye","Upper Bulkley Lakes",NA,2016,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15","Sockeye","Upper Bulkley Lakes",NA,2017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15","Sockeye","Upper Bulkley Lakes",NA,2018,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15","Sockeye","Upper Bulkley Lakes",NA,2019,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15","Sockeye","Upper Bulkley Lakes",NA,2020,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15","Sockeye","Upper Bulkley Lakes",NA,2021,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15","Sockeye","Upper Bulkley Lakes",NA,2022,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15b","Sockeye","Maxan",NA,1995,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15b","Sockeye","Maxan",NA,1996,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15b","Sockeye","Maxan",NA,1997,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15b","Sockeye","Maxan",NA,1998,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15b","Sockeye","Maxan",NA,1999,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15b","Sockeye","Maxan",NA,2000,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15b","Sockeye","Maxan",NA,2001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15b","Sockeye","Maxan",NA,2002,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15b","Sockeye","Maxan",NA,2003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15b","Sockeye","Maxan",NA,2004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15b","Sockeye","Maxan",NA,2005,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15b","Sockeye","Maxan",NA,2006,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15b","Sockeye","Maxan",NA,2007,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15b","Sockeye","Maxan",NA,2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15b","Sockeye","Maxan",NA,2009,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15b","Sockeye","Maxan",NA,2010,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15b","Sockeye","Maxan",NA,2011,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15b","Sockeye","Maxan",NA,2012,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15b","Sockeye","Maxan",NA,2013,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15b","Sockeye","Maxan",NA,2014,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15b","Sockeye","Maxan",NA,2015,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15b","Sockeye","Maxan",NA,2016,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15b","Sockeye","Maxan",NA,2017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15b","Sockeye","Maxan",NA,2018,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15b","Sockeye","Maxan",NA,2019,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15b","Sockeye","Maxan",NA,2020,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15b","Sockeye","Maxan",NA,2021,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_15b","Sockeye","Maxan",NA,2022,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SkeenaNass_13b","Sockeye","Aldrich",NA,1995,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"None","Proxy","Proxy",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13b","Sockeye","Aldrich",NA,1996,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"None","Proxy","Proxy",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13b","Sockeye","Aldrich",NA,1997,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"None","Proxy","Proxy",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13b","Sockeye","Aldrich",NA,1998,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"None","Proxy","Proxy",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13b","Sockeye","Aldrich",NA,1999,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"None","Proxy","Proxy",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13b","Sockeye","Aldrich",NA,2000,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"None","Proxy","Proxy",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13b","Sockeye","Aldrich",NA,2001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"None","Proxy","Proxy",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13b","Sockeye","Aldrich",NA,2002,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"None","Proxy","Proxy",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13b","Sockeye","Aldrich",NA,2003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"None","Proxy","Proxy",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13b","Sockeye","Aldrich",NA,2004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"None","Proxy","Proxy",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13b","Sockeye","Aldrich",NA,2005,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"None","Proxy","Proxy",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13b","Sockeye","Aldrich",NA,2006,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13b","Sockeye","Aldrich",NA,2007,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13b","Sockeye","Aldrich",NA,2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13b","Sockeye","Aldrich",NA,2009,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13b","Sockeye","Aldrich",NA,2010,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13b","Sockeye","Aldrich",NA,2011,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13b","Sockeye","Aldrich",NA,2012,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13b","Sockeye","Aldrich",NA,2013,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13b","Sockeye","Aldrich",NA,2014,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13b","Sockeye","Aldrich",NA,2015,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13b","Sockeye","Aldrich",NA,2016,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13b","Sockeye","Aldrich",NA,2017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13b","Sockeye","Aldrich",NA,2018,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13b","Sockeye","Aldrich",NA,2019,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13b","Sockeye","Aldrich",NA,2020,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13b","Sockeye","Aldrich",NA,2021,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13b","Sockeye","Aldrich",NA,2022,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13c","Sockeye","Dennis",NA,1995,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"None","Proxy","Proxy",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13c","Sockeye","Dennis",NA,1996,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"None","Proxy","Proxy",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13c","Sockeye","Dennis",NA,1997,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"None","Proxy","Proxy",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13c","Sockeye","Dennis",NA,1998,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"None","Proxy","Proxy",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13c","Sockeye","Dennis",NA,1999,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"None","Proxy","Proxy",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13c","Sockeye","Dennis",NA,2000,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"None","Proxy","Proxy",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13c","Sockeye","Dennis",NA,2001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"None","Proxy","Proxy",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13c","Sockeye","Dennis",NA,2002,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"None","Proxy","Proxy",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13c","Sockeye","Dennis",NA,2003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"None","Proxy","Proxy",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13c","Sockeye","Dennis",NA,2004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"None","Proxy","Proxy",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13c","Sockeye","Dennis",NA,2005,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"None","Proxy","Proxy",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13c","Sockeye","Dennis",NA,2006,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13c","Sockeye","Dennis",NA,2007,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13c","Sockeye","Dennis",NA,2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13c","Sockeye","Dennis",NA,2009,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13c","Sockeye","Dennis",NA,2010,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13c","Sockeye","Dennis",NA,2011,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13c","Sockeye","Dennis",NA,2012,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13c","Sockeye","Dennis",NA,2013,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13c","Sockeye","Dennis",NA,2014,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13c","Sockeye","Dennis",NA,2015,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13c","Sockeye","Dennis",NA,2016,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13c","Sockeye","Dennis",NA,2017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13c","Sockeye","Dennis",NA,2018,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13c","Sockeye","Dennis",NA,2019,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13c","Sockeye","Dennis",NA,2020,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13c","Sockeye","Dennis",NA,2021,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
-"SkeenaNass_13c","Sockeye","Dennis",NA,2022,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-15","Sockeye","Upper Bulkley Lakes",NA,1995,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15","Sockeye","Upper Bulkley Lakes",NA,1996,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15","Sockeye","Upper Bulkley Lakes",NA,1997,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15","Sockeye","Upper Bulkley Lakes",NA,1998,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15","Sockeye","Upper Bulkley Lakes",NA,1999,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15","Sockeye","Upper Bulkley Lakes",NA,2000,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15","Sockeye","Upper Bulkley Lakes",NA,2001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15","Sockeye","Upper Bulkley Lakes",NA,2002,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15","Sockeye","Upper Bulkley Lakes",NA,2003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15","Sockeye","Upper Bulkley Lakes",NA,2004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15","Sockeye","Upper Bulkley Lakes",NA,2005,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15","Sockeye","Upper Bulkley Lakes",NA,2006,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15","Sockeye","Upper Bulkley Lakes",NA,2007,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15","Sockeye","Upper Bulkley Lakes",NA,2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15","Sockeye","Upper Bulkley Lakes",NA,2009,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15","Sockeye","Upper Bulkley Lakes",NA,2010,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15","Sockeye","Upper Bulkley Lakes",NA,2011,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15","Sockeye","Upper Bulkley Lakes",NA,2012,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15","Sockeye","Upper Bulkley Lakes",NA,2013,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15","Sockeye","Upper Bulkley Lakes",NA,2014,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15","Sockeye","Upper Bulkley Lakes",NA,2015,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15","Sockeye","Upper Bulkley Lakes",NA,2016,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15","Sockeye","Upper Bulkley Lakes",NA,2017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15","Sockeye","Upper Bulkley Lakes",NA,2018,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15","Sockeye","Upper Bulkley Lakes",NA,2019,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15","Sockeye","Upper Bulkley Lakes",NA,2020,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15","Sockeye","Upper Bulkley Lakes",NA,2021,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15","Sockeye","Upper Bulkley Lakes",NA,2022,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15b","Sockeye","Maxan",NA,1995,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15b","Sockeye","Maxan",NA,1996,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15b","Sockeye","Maxan",NA,1997,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15b","Sockeye","Maxan",NA,1998,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15b","Sockeye","Maxan",NA,1999,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15b","Sockeye","Maxan",NA,2000,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15b","Sockeye","Maxan",NA,2001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15b","Sockeye","Maxan",NA,2002,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15b","Sockeye","Maxan",NA,2003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15b","Sockeye","Maxan",NA,2004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15b","Sockeye","Maxan",NA,2005,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15b","Sockeye","Maxan",NA,2006,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15b","Sockeye","Maxan",NA,2007,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15b","Sockeye","Maxan",NA,2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15b","Sockeye","Maxan",NA,2009,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15b","Sockeye","Maxan",NA,2010,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15b","Sockeye","Maxan",NA,2011,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15b","Sockeye","Maxan",NA,2012,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15b","Sockeye","Maxan",NA,2013,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15b","Sockeye","Maxan",NA,2014,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15b","Sockeye","Maxan",NA,2015,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15b","Sockeye","Maxan",NA,2016,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15b","Sockeye","Maxan",NA,2017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15b","Sockeye","Maxan",NA,2018,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15b","Sockeye","Maxan",NA,2019,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15b","Sockeye","Maxan",NA,2020,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15b","Sockeye","Maxan",NA,2021,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-15b","Sockeye","Maxan",NA,2022,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ext","Ext","Ext",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SkeenaNass-13b","Sockeye","Aldrich",NA,1995,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"None","Proxy","Proxy",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13b","Sockeye","Aldrich",NA,1996,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"None","Proxy","Proxy",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13b","Sockeye","Aldrich",NA,1997,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"None","Proxy","Proxy",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13b","Sockeye","Aldrich",NA,1998,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"None","Proxy","Proxy",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13b","Sockeye","Aldrich",NA,1999,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"None","Proxy","Proxy",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13b","Sockeye","Aldrich",NA,2000,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"None","Proxy","Proxy",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13b","Sockeye","Aldrich",NA,2001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"None","Proxy","Proxy",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13b","Sockeye","Aldrich",NA,2002,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"None","Proxy","Proxy",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13b","Sockeye","Aldrich",NA,2003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"None","Proxy","Proxy",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13b","Sockeye","Aldrich",NA,2004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"None","Proxy","Proxy",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13b","Sockeye","Aldrich",NA,2005,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"None","Proxy","Proxy",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13b","Sockeye","Aldrich",NA,2006,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13b","Sockeye","Aldrich",NA,2007,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13b","Sockeye","Aldrich",NA,2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13b","Sockeye","Aldrich",NA,2009,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13b","Sockeye","Aldrich",NA,2010,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13b","Sockeye","Aldrich",NA,2011,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13b","Sockeye","Aldrich",NA,2012,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13b","Sockeye","Aldrich",NA,2013,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13b","Sockeye","Aldrich",NA,2014,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13b","Sockeye","Aldrich",NA,2015,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13b","Sockeye","Aldrich",NA,2016,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13b","Sockeye","Aldrich",NA,2017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13b","Sockeye","Aldrich",NA,2018,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13b","Sockeye","Aldrich",NA,2019,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13b","Sockeye","Aldrich",NA,2020,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13b","Sockeye","Aldrich",NA,2021,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13b","Sockeye","Aldrich",NA,2022,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13c","Sockeye","Dennis",NA,1995,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"None","Proxy","Proxy",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13c","Sockeye","Dennis",NA,1996,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"None","Proxy","Proxy",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13c","Sockeye","Dennis",NA,1997,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"None","Proxy","Proxy",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13c","Sockeye","Dennis",NA,1998,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"None","Proxy","Proxy",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13c","Sockeye","Dennis",NA,1999,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"None","Proxy","Proxy",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13c","Sockeye","Dennis",NA,2000,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"None","Proxy","Proxy",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13c","Sockeye","Dennis",NA,2001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"None","Proxy","Proxy",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13c","Sockeye","Dennis",NA,2002,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"None","Proxy","Proxy",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13c","Sockeye","Dennis",NA,2003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"None","Proxy","Proxy",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13c","Sockeye","Dennis",NA,2004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"None","Proxy","Proxy",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13c","Sockeye","Dennis",NA,2005,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"None","Proxy","Proxy",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13c","Sockeye","Dennis",NA,2006,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13c","Sockeye","Dennis",NA,2007,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13c","Sockeye","Dennis",NA,2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13c","Sockeye","Dennis",NA,2009,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13c","Sockeye","Dennis",NA,2010,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13c","Sockeye","Dennis",NA,2011,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13c","Sockeye","Dennis",NA,2012,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13c","Sockeye","Dennis",NA,2013,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13c","Sockeye","Dennis",NA,2014,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13c","Sockeye","Dennis",NA,2015,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13c","Sockeye","Dennis",NA,2016,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13c","Sockeye","Dennis",NA,2017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13c","Sockeye","Dennis",NA,2018,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13c","Sockeye","Dennis",NA,2019,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13c","Sockeye","Dennis",NA,2020,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13c","Sockeye","Dennis",NA,2021,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
+"SkeenaNass-13c","Sockeye","Dennis",NA,2022,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amber","Proxy","Proxy",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Low","Low","Low",NA,NA,NA,"Mcdonell"
