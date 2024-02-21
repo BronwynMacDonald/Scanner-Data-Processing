@@ -8,7 +8,7 @@ if(!dir.exists("OUTPUT/TimelinePlots")){dir.create("OUTPUT/TimelinePlots")}
 cu.info <- read_csv("DATA_LOOKUP_FILES/MOD_MAIN_CU_LOOKUP_FOR_SOS.csv") %>%
   dplyr::mutate(CU_ID = gsub("_","-",CU_ID))
 
-retro.summary.tbl <- read_csv("DATA_OUT/Retro_Synoptic_Details.csv")  
+retro.summary.tbl <- read_csv("DATA_OUT/Retro_Synoptic_Details_SkeenaMODS.csv")  
 
 plot.specs <- read_csv("DATA_LOOKUP_FILES/TimelinePlot_Specs.csv") 
 plot.specs
@@ -72,16 +72,16 @@ text(rep(retro.yrs[1]-4,length(grp.labels$GroupIndex)),
 for(cu.plot in specs.do$CU_ID){
 print(cu.plot)
 
-#if(cu.plot == "CK-33"){stop()}
+#if(cu.plot == "SkeenaNass-13b"){stop()}
   
 specs.sub <- specs.do %>% dplyr::filter(CU_ID == cu.plot)
 specs.sub
 
 #retro.sub <- retro.summary.tbl %>% dplyr::filter(CU_ID == cu.plot, Year <= 2019) %>% select(Year,RapidStatus)
-retro.sub <- retro.summary.tbl %>% dplyr::filter(CU_ID == cu.plot) %>% select(Year,RapidStatus)
+retro.sub <- retro.summary.tbl %>% dplyr::filter(CU_ID == cu.plot) %>% select(Year,RapidStatus,BinLabel)
 retro.sub
 
-red.df <- retro.sub %>% dplyr::filter(RapidStatus == "Red")
+red.df <- retro.sub %>% dplyr::filter(RapidStatus == "Red" & BinLabel != "Proxy")
 red.df
 
 if(dim(red.df)[1]>0){
@@ -89,7 +89,17 @@ if(dim(red.df)[1]>0){
   text(red.df$Year,-rep(specs.sub$CUIndex,dim(red.df)[1]),"R",font=2,col="darkblue",cex=0.8)
 }
 
-amber.df <- retro.sub %>% dplyr::filter(RapidStatus == "Amber")
+red.proxy.df <- retro.sub %>% dplyr::filter(RapidStatus == "Red" & BinLabel == "Proxy")
+red.proxy.df
+
+if(dim(red.proxy.df)[1]>0){
+  points(red.proxy.df$Year,-rep(specs.sub$CUIndex,dim(red.proxy.df)[1]),pch=22,col ="firebrick1",bg= red.use,cex=2.6)
+  text(red.proxy.df$Year,-rep(specs.sub$CUIndex,dim(red.proxy.df)[1]),"R*",font=2,col="darkblue",cex=0.8)
+}
+
+
+
+amber.df <- retro.sub %>% dplyr::filter(RapidStatus == "Amber" & BinLabel != "Proxy")
 amber.df
 
 if(dim(amber.df)[1]>0){
@@ -98,13 +108,37 @@ text(amber.df$Year,-rep(specs.sub$CUIndex,dim(amber.df)[1]),"A",font=2,col="dark
 }
 
 
-green.df <- retro.sub %>% dplyr::filter(RapidStatus == "Green")
+amber.proxy.df <- retro.sub %>% dplyr::filter(RapidStatus == "Amber" & BinLabel == "Proxy")
+amber.proxy.df
+
+if(dim(amber.proxy.df)[1]>0){
+  points(amber.proxy.df$Year,-rep(specs.sub$CUIndex,dim(amber.proxy.df)[1]),pch=22,col ="orange",bg= amber.use,cex=2.6)
+  text(amber.proxy.df$Year,-rep(specs.sub$CUIndex,dim(amber.proxy.df)[1]),"A*",font=2,col="darkblue",cex=0.8)
+}
+
+
+
+
+green.df <- retro.sub %>% dplyr::filter(RapidStatus == "Green" & BinLabel != "Proxy")
 green.df
 
 if(dim(green.df)[1]>0){
   points(green.df$Year,-rep(specs.sub$CUIndex,dim(green.df)[1]),pch=22,col ="green",bg= green.use,cex=2.6)
   text(green.df$Year,-rep(specs.sub$CUIndex,dim(green.df)[1]),"G",font=2,col="darkblue",cex=0.8)
   }
+
+
+
+green.proxy.df <- retro.sub %>% dplyr::filter(RapidStatus == "Green" & BinLabel == "Proxy")
+green.proxy.df
+
+if(dim(green.proxy.df)[1]>0){
+  points(green.proxy.df$Year,-rep(specs.sub$CUIndex,dim(green.proxy.df)[1]),pch=22,col ="green",bg= green.use,cex=2.6)
+  text(green.proxy.df$Year,-rep(specs.sub$CUIndex,dim(green.proxy.df)[1]),"G*",font=2,col="darkblue",cex=0.8)
+}
+
+
+
 
 unk.df <- retro.sub %>% dplyr::filter(RapidStatus == "None")
 unk.df
@@ -118,6 +152,20 @@ if(dim(unk.df)[1]>0){
   points(unk.df$Year,-rep(specs.sub$CUIndex,dim(unk.df)[1]),pch=22,col ="darkgrey",bg= "lightgrey",cex=2.6)
   text(x = unk.df$Year,y = -rep(specs.sub$CUIndex,dim(unk.df)[1]),labels = "?",font=2,col="darkblue",cex=0.8)
 }
+
+
+
+ext.df <- retro.sub %>% dplyr::filter(RapidStatus == "Ext")
+ext.df
+
+
+if(dim(ext.df)[1]>0){
+  #points(ext.df$Year,-rep(specs.sub$CUIndex,dim(ext.df)[1]),pch=22,col ="darkgrey",bg= "lightgrey",cex=2.6)
+  text(x = ext.df$Year,y = -rep(specs.sub$CUIndex,dim(ext.df)[1]),labels = "X",font=2,col="black",cex=0.4)
+}
+
+
+
 
 
 
