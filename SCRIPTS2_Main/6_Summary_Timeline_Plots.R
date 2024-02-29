@@ -149,8 +149,8 @@ unk.df <- data.frame(Year = retro.yrs[1]:unk.end,RapidStatus = "None")
 
 
 if(dim(unk.df)[1]>0){
-  points(unk.df$Year,-rep(specs.sub$CUIndex,dim(unk.df)[1]),pch=22,col ="darkgrey",bg= "lightgrey",cex=2.6)
-  text(x = unk.df$Year,y = -rep(specs.sub$CUIndex,dim(unk.df)[1]),labels = "?",font=2,col="darkblue",cex=0.8)
+  points(unk.df$Year,-rep(specs.sub$CUIndex,dim(unk.df)[1]),pch=22,col ="darkgrey",bg= "grey95",cex=2.6)
+  text(x = unk.df$Year,y = -rep(specs.sub$CUIndex,dim(unk.df)[1]),labels = "?",font=1,col="darkblue",cex=0.8)
 }
 
 
@@ -161,7 +161,7 @@ ext.df
 
 if(dim(ext.df)[1]>0){
   #points(ext.df$Year,-rep(specs.sub$CUIndex,dim(ext.df)[1]),pch=22,col ="darkgrey",bg= "lightgrey",cex=2.6)
-  text(x = ext.df$Year,y = -rep(specs.sub$CUIndex,dim(ext.df)[1]),labels = "X",font=2,col="black",cex=0.4)
+  text(x = ext.df$Year,y = -rep(specs.sub$CUIndex,dim(ext.df)[1]),labels = "X",font=2,col="black",cex=0.5)
 }
 
 
