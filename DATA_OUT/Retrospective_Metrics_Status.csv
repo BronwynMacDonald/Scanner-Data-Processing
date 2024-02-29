@@ -78,7 +78,7 @@
 "CU-6","Sockeye","Chilko_S_ES",2017,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6
 "CU-6","Sockeye","Chilko_S_ES",2018,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6
 "CU-6","Sockeye","Chilko_S_ES",2019,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6
-"CU-6","Sockeye","Chilko_S_ES",2020,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6
+"CU-6","Sockeye","Chilko_S_ES",2020,"Abs_Abd","Amber","Green","Green","Amber",NA,"Green","Amber","Green","Amber","Green",6
 "CU-6","Sockeye","Chilko_S_ES",2021,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6
 "CU-17","Sockeye","Chilliwack_ES",1995,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
 "CU-17","Sockeye","Chilliwack_ES",1996,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
@@ -538,7 +538,7 @@
 "CU-21","Sockeye","Takla_Trem_S_S",2018,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6
 "CU-21","Sockeye","Takla_Trem_S_S",2019,"Abs_Abd","Amber","Green","Green","Amber",NA,"Green","Amber","Green","Amber","Green",6
 "CU-21","Sockeye","Takla_Trem_S_S",2020,"Abs_Abd","Amber","Green","Green","Amber",NA,"Green","Amber","Green","Amber","Green",6
-"CU-21","Sockeye","Takla_Trem_S_S",2021,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6
+"CU-21","Sockeye","Takla_Trem_S_S",2021,"Abs_Abd","Amber","Green","Green","Amber",NA,"Green","Amber","Green","Amber","Green",6
 "CU-15","Sockeye","Taseko_ES",1995,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
 "CU-15","Sockeye","Taseko_ES",1996,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
 "CU-15","Sockeye","Taseko_ES",1997,"Rel_Idx",NA,NA,"Red",NA,NA,"Amber",NA,NA,NA,NA,1
@@ -598,8 +598,8 @@
 "CK-03","Chinook","Lower Fraser River_FA_0.3",1997,"Abs_Abd","Amber","Green",NA,"Red",NA,NA,"Amber","Green","Amber","Green",5
 "CK-03","Chinook","Lower Fraser River_FA_0.3",1998,"Abs_Abd","Amber","Green","Amber","Green",NA,NA,"Amber","Green","Amber","Green",6
 "CK-03","Chinook","Lower Fraser River_FA_0.3",1999,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6
-"CK-03","Chinook","Lower Fraser River_FA_0.3",2000,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6
-"CK-03","Chinook","Lower Fraser River_FA_0.3",2001,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6
+"CK-03","Chinook","Lower Fraser River_FA_0.3",2000,"Abs_Abd","Green","Green","Green","Amber",NA,NA,"Green","Green","Green","Green",6
+"CK-03","Chinook","Lower Fraser River_FA_0.3",2001,"Abs_Abd","Green","Green","Green","Amber",NA,NA,"Green","Green","Green","Green",6
 "CK-03","Chinook","Lower Fraser River_FA_0.3",2002,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6
 "CK-03","Chinook","Lower Fraser River_FA_0.3",2003,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6
 "CK-03","Chinook","Lower Fraser River_FA_0.3",2004,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6
@@ -621,16 +621,16 @@
 "CK-03","Chinook","Lower Fraser River_FA_0.3",2020,"Abs_Abd","Red","Green","Amber","Red",NA,NA,"Red","Green","Red","Green",6
 "CK-03","Chinook","Lower Fraser River_FA_0.3",2021,"Abs_Abd","Red","Green","Amber","Red",NA,NA,"Red","Green","Red","Green",6
 "CK-03","Chinook","Lower Fraser River_FA_0.3",2022,"Abs_Abd","Amber","Green","Amber","Red",NA,NA,"Amber","Green","Amber","Green",6
-"CK-04","Chinook","Lower Fraser River_SP_1.3",1995,"Rel_Idx",NA,NA,"Green","Amber",NA,NA,NA,NA,NA,NA,2
-"CK-04","Chinook","Lower Fraser River_SP_1.3",1996,"Rel_Idx",NA,NA,"Green","Red",NA,NA,NA,NA,NA,NA,2
-"CK-04","Chinook","Lower Fraser River_SP_1.3",1997,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2
-"CK-04","Chinook","Lower Fraser River_SP_1.3",1998,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2
-"CK-04","Chinook","Lower Fraser River_SP_1.3",1999,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2
-"CK-04","Chinook","Lower Fraser River_SP_1.3",2000,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2
-"CK-04","Chinook","Lower Fraser River_SP_1.3",2001,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2
-"CK-04","Chinook","Lower Fraser River_SP_1.3",2002,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2
-"CK-04","Chinook","Lower Fraser River_SP_1.3",2003,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2
-"CK-04","Chinook","Lower Fraser River_SP_1.3",2004,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2
+"CK-04","Chinook","Lower Fraser River_SP_1.3",1995,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"CK-04","Chinook","Lower Fraser River_SP_1.3",1996,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"CK-04","Chinook","Lower Fraser River_SP_1.3",1997,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"CK-04","Chinook","Lower Fraser River_SP_1.3",1998,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"CK-04","Chinook","Lower Fraser River_SP_1.3",1999,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"CK-04","Chinook","Lower Fraser River_SP_1.3",2000,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"CK-04","Chinook","Lower Fraser River_SP_1.3",2001,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"CK-04","Chinook","Lower Fraser River_SP_1.3",2002,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"CK-04","Chinook","Lower Fraser River_SP_1.3",2003,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"CK-04","Chinook","Lower Fraser River_SP_1.3",2004,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
 "CK-04","Chinook","Lower Fraser River_SP_1.3",2005,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2
 "CK-04","Chinook","Lower Fraser River_SP_1.3",2006,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2
 "CK-04","Chinook","Lower Fraser River_SP_1.3",2007,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2
@@ -646,7 +646,7 @@
 "CK-04","Chinook","Lower Fraser River_SP_1.3",2017,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2
 "CK-04","Chinook","Lower Fraser River_SP_1.3",2018,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2
 "CK-04","Chinook","Lower Fraser River_SP_1.3",2019,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2
-"CK-04","Chinook","Lower Fraser River_SP_1.3",2020,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2
+"CK-04","Chinook","Lower Fraser River_SP_1.3",2020,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2
 "CK-04","Chinook","Lower Fraser River_SP_1.3",2021,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2
 "CK-04","Chinook","Lower Fraser River_SP_1.3",2022,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2
 "CK-05","Chinook","Lower Fraser River-Upper Pitt_SU_1.3",1995,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
@@ -671,9 +671,9 @@
 "CK-05","Chinook","Lower Fraser River-Upper Pitt_SU_1.3",2017,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
 "CK-05","Chinook","Lower Fraser River-Upper Pitt_SU_1.3",2018,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
 "CK-05","Chinook","Lower Fraser River-Upper Pitt_SU_1.3",2019,"Rel_Idx",NA,NA,"Amber",NA,NA,NA,NA,NA,NA,NA,1
-"CK-05","Chinook","Lower Fraser River-Upper Pitt_SU_1.3",2020,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
-"CK-05","Chinook","Lower Fraser River-Upper Pitt_SU_1.3",2021,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
-"CK-05","Chinook","Lower Fraser River-Upper Pitt_SU_1.3",2022,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"CK-05","Chinook","Lower Fraser River-Upper Pitt_SU_1.3",2020,"Rel_Idx",NA,NA,"Amber",NA,NA,NA,NA,NA,NA,NA,1
+"CK-05","Chinook","Lower Fraser River-Upper Pitt_SU_1.3",2021,"Rel_Idx",NA,NA,"Amber",NA,NA,NA,NA,NA,NA,NA,1
+"CK-05","Chinook","Lower Fraser River-Upper Pitt_SU_1.3",2022,"Rel_Idx",NA,NA,"Red",NA,NA,NA,NA,NA,NA,NA,1
 "CK-06","Chinook","Lower Fraser River_SU_1.3",1995,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
 "CK-06","Chinook","Lower Fraser River_SU_1.3",1996,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
 "CK-06","Chinook","Lower Fraser River_SU_1.3",1997,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
@@ -700,8 +700,8 @@
 "CK-06","Chinook","Lower Fraser River_SU_1.3",2018,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
 "CK-06","Chinook","Lower Fraser River_SU_1.3",2019,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
 "CK-06","Chinook","Lower Fraser River_SU_1.3",2020,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
-"CK-06","Chinook","Lower Fraser River_SU_1.3",2021,"Rel_Idx",NA,NA,"Green",NA,NA,NA,NA,NA,NA,NA,1
-"CK-06","Chinook","Lower Fraser River_SU_1.3",2022,"Rel_Idx",NA,NA,"Amber",NA,NA,NA,NA,NA,NA,NA,1
+"CK-06","Chinook","Lower Fraser River_SU_1.3",2021,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"CK-06","Chinook","Lower Fraser River_SU_1.3",2022,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
 "CK-07","Chinook","Maria Slough_SU_0.3",1995,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
 "CK-07","Chinook","Maria Slough_SU_0.3",1996,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
 "CK-07","Chinook","Maria Slough_SU_0.3",1997,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
@@ -723,7 +723,7 @@
 "CK-07","Chinook","Maria Slough_SU_0.3",2013,"Rel_Idx",NA,NA,"Green",NA,NA,NA,NA,NA,NA,NA,1
 "CK-07","Chinook","Maria Slough_SU_0.3",2014,"Rel_Idx",NA,NA,"Green",NA,NA,NA,NA,NA,NA,NA,1
 "CK-07","Chinook","Maria Slough_SU_0.3",2015,"Rel_Idx",NA,NA,"Green",NA,NA,NA,NA,NA,NA,NA,1
-"CK-07","Chinook","Maria Slough_SU_0.3",2016,"Rel_Idx",NA,NA,"Green","Red",NA,NA,NA,NA,NA,NA,2
+"CK-07","Chinook","Maria Slough_SU_0.3",2016,"Rel_Idx",NA,NA,"Green","Amber",NA,NA,NA,NA,NA,NA,2
 "CK-07","Chinook","Maria Slough_SU_0.3",2017,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2
 "CK-07","Chinook","Maria Slough_SU_0.3",2018,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2
 "CK-07","Chinook","Maria Slough_SU_0.3",2019,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2
@@ -736,23 +736,23 @@
 "CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",1998,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
 "CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2000,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
 "CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2001,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
-"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2002,"Abs_Abd",NA,"Red",NA,NA,NA,NA,NA,"Red",NA,"Red",2
-"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2003,"Abs_Abd",NA,"Red",NA,NA,NA,NA,NA,"Red",NA,"Red",2
-"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2004,"Abs_Abd",NA,"Red",NA,NA,NA,NA,NA,"Red",NA,"Red",2
-"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2009,"Abs_Abd",NA,"Red",NA,NA,NA,NA,NA,"Red",NA,"Red",2
-"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2010,"Abs_Abd",NA,"Red",NA,NA,NA,NA,NA,"Red",NA,"Red",2
-"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2011,"Abs_Abd",NA,"Red",NA,"Red",NA,NA,NA,"Red",NA,"Red",3
-"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2012,"Abs_Abd",NA,"Red",NA,"Red",NA,NA,NA,"Red",NA,"Red",3
-"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2013,"Abs_Abd",NA,"Red",NA,"Red",NA,NA,NA,"Red",NA,"Red",3
-"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2014,"Abs_Abd",NA,"Red",NA,"Red",NA,NA,NA,"Red",NA,"Red",3
-"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2015,"Abs_Abd",NA,"Red",NA,"Red",NA,NA,NA,"Red",NA,"Red",3
-"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2016,"Abs_Abd",NA,"Red","Amber","Red",NA,NA,NA,"Red",NA,"Red",4
-"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2017,"Abs_Abd",NA,"Red","Red","Red",NA,NA,NA,"Red",NA,"Red",4
-"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2018,"Abs_Abd",NA,"Red","Red","Red",NA,NA,NA,"Red",NA,"Red",4
-"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2019,"Abs_Abd",NA,"Red","Amber","Green",NA,NA,NA,"Red",NA,"Red",4
-"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2020,"Abs_Abd",NA,"Red","Green","Green",NA,NA,NA,"Red",NA,"Red",4
-"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2021,"Abs_Abd",NA,"Red","Green","Green",NA,NA,NA,"Red",NA,"Red",4
-"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2022,"Abs_Abd",NA,"Red","Green","Green",NA,NA,NA,"Red",NA,"Red",4
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2002,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2003,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2004,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2009,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2010,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2011,"Abs_Abd",NA,NA,NA,"Red",NA,NA,NA,NA,NA,NA,1
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2012,"Abs_Abd",NA,NA,NA,"Red",NA,NA,NA,NA,NA,NA,1
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2013,"Abs_Abd",NA,NA,NA,"Red",NA,NA,NA,NA,NA,NA,1
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2014,"Abs_Abd",NA,NA,NA,"Red",NA,NA,NA,NA,NA,NA,1
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2015,"Abs_Abd",NA,NA,NA,"Red",NA,NA,NA,NA,NA,NA,1
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2016,"Abs_Abd",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2017,"Abs_Abd",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2018,"Abs_Abd",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2019,"Abs_Abd",NA,NA,"Amber","Green",NA,NA,NA,NA,NA,NA,2
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2020,"Abs_Abd",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2021,"Abs_Abd",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2022,"Abs_Abd",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2
 "CK-09","Chinook","Middle Fraser River-Portage_FA_1.3",1995,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
 "CK-09","Chinook","Middle Fraser River-Portage_FA_1.3",1996,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
 "CK-09","Chinook","Middle Fraser River-Portage_FA_1.3",1997,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
@@ -795,20 +795,20 @@
 "CK-10","Chinook","Middle Fraser River_SP_1.3",2006,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
 "CK-10","Chinook","Middle Fraser River_SP_1.3",2007,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
 "CK-10","Chinook","Middle Fraser River_SP_1.3",2008,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
-"CK-10","Chinook","Middle Fraser River_SP_1.3",2009,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2
+"CK-10","Chinook","Middle Fraser River_SP_1.3",2009,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2
 "CK-10","Chinook","Middle Fraser River_SP_1.3",2010,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2
-"CK-10","Chinook","Middle Fraser River_SP_1.3",2011,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2
+"CK-10","Chinook","Middle Fraser River_SP_1.3",2011,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2
 "CK-10","Chinook","Middle Fraser River_SP_1.3",2012,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2
 "CK-10","Chinook","Middle Fraser River_SP_1.3",2013,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2
-"CK-10","Chinook","Middle Fraser River_SP_1.3",2014,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2
-"CK-10","Chinook","Middle Fraser River_SP_1.3",2015,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2
-"CK-10","Chinook","Middle Fraser River_SP_1.3",2016,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2
-"CK-10","Chinook","Middle Fraser River_SP_1.3",2017,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2
+"CK-10","Chinook","Middle Fraser River_SP_1.3",2014,"Rel_Idx",NA,NA,"Green","Red",NA,NA,NA,NA,NA,NA,2
+"CK-10","Chinook","Middle Fraser River_SP_1.3",2015,"Rel_Idx",NA,NA,"Green","Red",NA,NA,NA,NA,NA,NA,2
+"CK-10","Chinook","Middle Fraser River_SP_1.3",2016,"Rel_Idx",NA,NA,"Green","Red",NA,NA,NA,NA,NA,NA,2
+"CK-10","Chinook","Middle Fraser River_SP_1.3",2017,"Rel_Idx",NA,NA,"Green","Red",NA,NA,NA,NA,NA,NA,2
 "CK-10","Chinook","Middle Fraser River_SP_1.3",2018,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2
 "CK-10","Chinook","Middle Fraser River_SP_1.3",2019,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2
 "CK-10","Chinook","Middle Fraser River_SP_1.3",2020,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2
-"CK-10","Chinook","Middle Fraser River_SP_1.3",2021,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2
-"CK-10","Chinook","Middle Fraser River_SP_1.3",2022,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2
+"CK-10","Chinook","Middle Fraser River_SP_1.3",2021,"Rel_Idx",NA,NA,"Red","Amber",NA,NA,NA,NA,NA,NA,2
+"CK-10","Chinook","Middle Fraser River_SP_1.3",2022,"Rel_Idx",NA,NA,"Amber","Amber",NA,NA,NA,NA,NA,NA,2
 "CK-11","Chinook","Middle Fraser River_SU_1.3",1995,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
 "CK-11","Chinook","Middle Fraser River_SU_1.3",1996,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
 "CK-11","Chinook","Middle Fraser River_SU_1.3",1997,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
@@ -860,7 +860,7 @@
 "CK-12","Chinook","Upper Fraser River_SP_1.3",2015,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2
 "CK-12","Chinook","Upper Fraser River_SP_1.3",2016,"Rel_Idx",NA,NA,"Green","Red",NA,NA,NA,NA,NA,NA,2
 "CK-12","Chinook","Upper Fraser River_SP_1.3",2017,"Rel_Idx",NA,NA,"Green","Red",NA,NA,NA,NA,NA,NA,2
-"CK-12","Chinook","Upper Fraser River_SP_1.3",2018,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2
+"CK-12","Chinook","Upper Fraser River_SP_1.3",2018,"Rel_Idx",NA,NA,"Green","Red",NA,NA,NA,NA,NA,NA,2
 "CK-12","Chinook","Upper Fraser River_SP_1.3",2019,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2
 "CK-12","Chinook","Upper Fraser River_SP_1.3",2020,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2
 "CK-12","Chinook","Upper Fraser River_SP_1.3",2021,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2
@@ -887,8 +887,8 @@
 "CK-13","Chinook","South Thompson_SU_0.3",2014,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2
 "CK-13","Chinook","South Thompson_SU_0.3",2015,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2
 "CK-13","Chinook","South Thompson_SU_0.3",2016,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2
-"CK-13","Chinook","South Thompson_SU_0.3",2017,"Rel_Idx",NA,NA,"Green","Amber",NA,NA,NA,NA,NA,NA,2
-"CK-13","Chinook","South Thompson_SU_0.3",2018,"Rel_Idx",NA,NA,"Green","Red",NA,NA,NA,NA,NA,NA,2
+"CK-13","Chinook","South Thompson_SU_0.3",2017,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2
+"CK-13","Chinook","South Thompson_SU_0.3",2018,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2
 "CK-13","Chinook","South Thompson_SU_0.3",2019,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2
 "CK-13","Chinook","South Thompson_SU_0.3",2020,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2
 "CK-13","Chinook","South Thompson_SU_0.3",2021,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2
@@ -921,34 +921,34 @@
 "CK-14","Chinook","South Thompson_SU_1.3",2020,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2
 "CK-14","Chinook","South Thompson_SU_1.3",2021,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2
 "CK-14","Chinook","South Thompson_SU_1.3",2022,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2
-"CK-15","Chinook","Shuswap River_SU_0.3",1995,"Abs_Abd",NA,"Green",NA,"Green",NA,NA,NA,"Green",NA,"Green",3
-"CK-15","Chinook","Shuswap River_SU_0.3",1996,"Abs_Abd",NA,"Green",NA,"Green",NA,NA,NA,"Green",NA,"Green",3
-"CK-15","Chinook","Shuswap River_SU_0.3",1997,"Abs_Abd",NA,"Green","Green","Green",NA,NA,NA,"Green",NA,"Green",4
-"CK-15","Chinook","Shuswap River_SU_0.3",1998,"Abs_Abd",NA,"Green","Green","Green",NA,NA,NA,"Green",NA,"Green",4
-"CK-15","Chinook","Shuswap River_SU_0.3",1999,"Abs_Abd",NA,"Green","Green","Green",NA,NA,NA,"Green",NA,"Green",4
-"CK-15","Chinook","Shuswap River_SU_0.3",2000,"Abs_Abd",NA,"Green","Green","Green",NA,NA,NA,"Green",NA,"Green",4
-"CK-15","Chinook","Shuswap River_SU_0.3",2001,"Abs_Abd",NA,"Green","Green","Green",NA,NA,NA,"Green",NA,"Green",4
-"CK-15","Chinook","Shuswap River_SU_0.3",2002,"Abs_Abd",NA,"Green","Green","Green",NA,NA,NA,"Green",NA,"Green",4
-"CK-15","Chinook","Shuswap River_SU_0.3",2003,"Abs_Abd",NA,"Green","Green","Green",NA,NA,NA,"Green",NA,"Green",4
-"CK-15","Chinook","Shuswap River_SU_0.3",2004,"Abs_Abd",NA,"Green","Green","Green",NA,NA,NA,"Green",NA,"Green",4
-"CK-15","Chinook","Shuswap River_SU_0.3",2005,"Abs_Abd",NA,"Green","Green","Green",NA,NA,NA,"Green",NA,"Green",4
-"CK-15","Chinook","Shuswap River_SU_0.3",2006,"Abs_Abd",NA,"Green","Green","Green",NA,NA,NA,"Green",NA,"Green",4
-"CK-15","Chinook","Shuswap River_SU_0.3",2007,"Abs_Abd",NA,"Green","Green","Green",NA,NA,NA,"Green",NA,"Green",4
-"CK-15","Chinook","Shuswap River_SU_0.3",2008,"Abs_Abd",NA,"Green","Green","Red",NA,NA,NA,"Green",NA,"Green",4
-"CK-15","Chinook","Shuswap River_SU_0.3",2009,"Abs_Abd",NA,"Green","Green","Red",NA,NA,NA,"Green",NA,"Green",4
-"CK-15","Chinook","Shuswap River_SU_0.3",2010,"Abs_Abd",NA,"Green","Green","Amber",NA,NA,NA,"Green",NA,"Green",4
-"CK-15","Chinook","Shuswap River_SU_0.3",2011,"Abs_Abd",NA,"Green","Green","Amber",NA,NA,NA,"Green",NA,"Green",4
-"CK-15","Chinook","Shuswap River_SU_0.3",2012,"Abs_Abd",NA,"Green","Green","Red",NA,NA,NA,"Green",NA,"Green",4
-"CK-15","Chinook","Shuswap River_SU_0.3",2013,"Abs_Abd",NA,"Green","Green","Red",NA,NA,NA,"Green",NA,"Green",4
-"CK-15","Chinook","Shuswap River_SU_0.3",2014,"Abs_Abd",NA,"Green","Green","Green",NA,NA,NA,"Green",NA,"Green",4
-"CK-15","Chinook","Shuswap River_SU_0.3",2015,"Abs_Abd",NA,"Green","Green","Green",NA,NA,NA,"Green",NA,"Green",4
-"CK-15","Chinook","Shuswap River_SU_0.3",2016,"Abs_Abd",NA,"Green","Green","Red",NA,NA,NA,"Green",NA,"Green",4
-"CK-15","Chinook","Shuswap River_SU_0.3",2017,"Abs_Abd",NA,"Green","Green","Red",NA,NA,NA,"Green",NA,"Green",4
-"CK-15","Chinook","Shuswap River_SU_0.3",2018,"Abs_Abd",NA,"Green","Green","Red",NA,NA,NA,"Green",NA,"Green",4
-"CK-15","Chinook","Shuswap River_SU_0.3",2019,"Abs_Abd",NA,"Green","Amber","Amber",NA,NA,NA,"Green",NA,"Green",4
-"CK-15","Chinook","Shuswap River_SU_0.3",2020,"Abs_Abd",NA,"Green","Green","Red",NA,NA,NA,"Green",NA,"Green",4
-"CK-15","Chinook","Shuswap River_SU_0.3",2021,"Abs_Abd",NA,"Green","Green","Green",NA,NA,NA,"Green",NA,"Green",4
-"CK-15","Chinook","Shuswap River_SU_0.3",2022,"Abs_Abd",NA,"Green","Green","Green",NA,NA,NA,"Green",NA,"Green",4
+"CK-15","Chinook","Shuswap River_SU_0.3",1995,"Abs_Abd","Green","Green",NA,"Green",NA,NA,"Green","Green","Green","Green",5
+"CK-15","Chinook","Shuswap River_SU_0.3",1996,"Abs_Abd","Green","Green",NA,"Green",NA,NA,"Green","Green","Green","Green",5
+"CK-15","Chinook","Shuswap River_SU_0.3",1997,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6
+"CK-15","Chinook","Shuswap River_SU_0.3",1998,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6
+"CK-15","Chinook","Shuswap River_SU_0.3",1999,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6
+"CK-15","Chinook","Shuswap River_SU_0.3",2000,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6
+"CK-15","Chinook","Shuswap River_SU_0.3",2001,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6
+"CK-15","Chinook","Shuswap River_SU_0.3",2002,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6
+"CK-15","Chinook","Shuswap River_SU_0.3",2003,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6
+"CK-15","Chinook","Shuswap River_SU_0.3",2004,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6
+"CK-15","Chinook","Shuswap River_SU_0.3",2005,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6
+"CK-15","Chinook","Shuswap River_SU_0.3",2006,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6
+"CK-15","Chinook","Shuswap River_SU_0.3",2007,"Abs_Abd","Green","Green","Green","Red",NA,NA,"Green","Green","Green","Green",6
+"CK-15","Chinook","Shuswap River_SU_0.3",2008,"Abs_Abd","Green","Green","Green","Red",NA,NA,"Green","Green","Green","Green",6
+"CK-15","Chinook","Shuswap River_SU_0.3",2009,"Abs_Abd","Green","Green","Green","Red",NA,NA,"Green","Green","Green","Green",6
+"CK-15","Chinook","Shuswap River_SU_0.3",2010,"Abs_Abd","Green","Green","Green","Amber",NA,NA,"Green","Green","Green","Green",6
+"CK-15","Chinook","Shuswap River_SU_0.3",2011,"Abs_Abd","Green","Green","Green","Amber",NA,NA,"Green","Green","Green","Green",6
+"CK-15","Chinook","Shuswap River_SU_0.3",2012,"Abs_Abd","Green","Green","Green","Red",NA,NA,"Green","Green","Green","Green",6
+"CK-15","Chinook","Shuswap River_SU_0.3",2013,"Abs_Abd","Green","Green","Green","Red",NA,NA,"Green","Green","Green","Green",6
+"CK-15","Chinook","Shuswap River_SU_0.3",2014,"Abs_Abd","Green","Green","Green","Amber",NA,NA,"Green","Green","Green","Green",6
+"CK-15","Chinook","Shuswap River_SU_0.3",2015,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6
+"CK-15","Chinook","Shuswap River_SU_0.3",2016,"Abs_Abd","Green","Green","Green","Red",NA,NA,"Green","Green","Green","Green",6
+"CK-15","Chinook","Shuswap River_SU_0.3",2017,"Abs_Abd","Green","Green","Green","Red",NA,NA,"Green","Green","Green","Green",6
+"CK-15","Chinook","Shuswap River_SU_0.3",2018,"Abs_Abd","Green","Green","Amber","Red",NA,NA,"Green","Green","Green","Green",6
+"CK-15","Chinook","Shuswap River_SU_0.3",2019,"Abs_Abd","Green","Green","Amber","Amber",NA,NA,"Green","Green","Green","Green",6
+"CK-15","Chinook","Shuswap River_SU_0.3",2020,"Abs_Abd","Green","Green","Green","Red",NA,NA,"Green","Green","Green","Green",6
+"CK-15","Chinook","Shuswap River_SU_0.3",2021,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6
+"CK-15","Chinook","Shuswap River_SU_0.3",2022,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6
 "CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2",1995,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
 "CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2",1996,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
 "CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2",1997,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
@@ -970,40 +970,40 @@
 "CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2",2013,"Rel_Idx",NA,NA,"Red",NA,NA,NA,NA,NA,NA,NA,1
 "CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2",2014,"Rel_Idx",NA,NA,"Red",NA,NA,NA,NA,NA,NA,NA,1
 "CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2",2015,"Rel_Idx",NA,NA,"Green",NA,NA,NA,NA,NA,NA,NA,1
-"CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2",2016,"Rel_Idx",NA,NA,"Amber",NA,NA,NA,NA,NA,NA,NA,1
+"CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2",2016,"Rel_Idx",NA,NA,"Green",NA,NA,NA,NA,NA,NA,NA,1
 "CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2",2017,"Rel_Idx",NA,NA,"Red",NA,NA,NA,NA,NA,NA,NA,1
 "CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2",2018,"Rel_Idx",NA,NA,"Red",NA,NA,NA,NA,NA,NA,NA,1
 "CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2",2019,"Rel_Idx",NA,NA,"Red",NA,NA,NA,NA,NA,NA,NA,1
 "CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2",2021,"Rel_Idx",NA,NA,"Red",NA,NA,NA,NA,NA,NA,NA,1
 "CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2",2022,"Rel_Idx",NA,NA,"Red",NA,NA,NA,NA,NA,NA,NA,1
-"CK-17","Chinook","Lower Thompson_SP_1.2",1995,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
-"CK-17","Chinook","Lower Thompson_SP_1.2",1996,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
-"CK-17","Chinook","Lower Thompson_SP_1.2",1997,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
-"CK-17","Chinook","Lower Thompson_SP_1.2",1998,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
-"CK-17","Chinook","Lower Thompson_SP_1.2",1999,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
-"CK-17","Chinook","Lower Thompson_SP_1.2",2000,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
-"CK-17","Chinook","Lower Thompson_SP_1.2",2001,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
-"CK-17","Chinook","Lower Thompson_SP_1.2",2002,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
-"CK-17","Chinook","Lower Thompson_SP_1.2",2003,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
-"CK-17","Chinook","Lower Thompson_SP_1.2",2004,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
-"CK-17","Chinook","Lower Thompson_SP_1.2",2005,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
-"CK-17","Chinook","Lower Thompson_SP_1.2",2006,"Rel_Idx",NA,NA,NA,"Green",NA,NA,NA,NA,NA,NA,1
-"CK-17","Chinook","Lower Thompson_SP_1.2",2007,"Rel_Idx",NA,NA,NA,"Red",NA,NA,NA,NA,NA,NA,1
-"CK-17","Chinook","Lower Thompson_SP_1.2",2008,"Rel_Idx",NA,NA,NA,"Red",NA,NA,NA,NA,NA,NA,1
-"CK-17","Chinook","Lower Thompson_SP_1.2",2009,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2
-"CK-17","Chinook","Lower Thompson_SP_1.2",2010,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2
-"CK-17","Chinook","Lower Thompson_SP_1.2",2011,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2
-"CK-17","Chinook","Lower Thompson_SP_1.2",2012,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2
-"CK-17","Chinook","Lower Thompson_SP_1.2",2013,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2
-"CK-17","Chinook","Lower Thompson_SP_1.2",2014,"Rel_Idx",NA,NA,"Green","Red",NA,NA,NA,NA,NA,NA,2
-"CK-17","Chinook","Lower Thompson_SP_1.2",2015,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2
-"CK-17","Chinook","Lower Thompson_SP_1.2",2016,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2
-"CK-17","Chinook","Lower Thompson_SP_1.2",2017,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2
-"CK-17","Chinook","Lower Thompson_SP_1.2",2018,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2
-"CK-17","Chinook","Lower Thompson_SP_1.2",2019,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2
-"CK-17","Chinook","Lower Thompson_SP_1.2",2020,"Rel_Idx",NA,NA,"Amber","Green",NA,NA,NA,NA,NA,NA,2
-"CK-17","Chinook","Lower Thompson_SP_1.2",2021,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2
-"CK-17","Chinook","Lower Thompson_SP_1.2",2022,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2
+"CK-17","Chinook","Lower Thompson_SP_1.2",1995,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"CK-17","Chinook","Lower Thompson_SP_1.2",1996,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"CK-17","Chinook","Lower Thompson_SP_1.2",1997,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"CK-17","Chinook","Lower Thompson_SP_1.2",1998,"Abs_Abd","Amber","Amber",NA,NA,NA,NA,"Amber","Amber","Amber","Amber",4
+"CK-17","Chinook","Lower Thompson_SP_1.2",1999,"Abs_Abd","Amber","Amber",NA,NA,NA,NA,"Amber","Amber","Amber","Amber",4
+"CK-17","Chinook","Lower Thompson_SP_1.2",2000,"Abs_Abd","Amber","Amber",NA,NA,NA,NA,"Amber","Amber","Amber","Amber",4
+"CK-17","Chinook","Lower Thompson_SP_1.2",2001,"Abs_Abd","Amber","Amber",NA,NA,NA,NA,"Amber","Amber","Amber","Amber",4
+"CK-17","Chinook","Lower Thompson_SP_1.2",2002,"Abs_Abd","Amber","Amber",NA,NA,NA,NA,"Amber","Amber","Amber","Amber",4
+"CK-17","Chinook","Lower Thompson_SP_1.2",2003,"Abs_Abd","Green","Amber",NA,NA,NA,NA,"Green","Amber","Green","Amber",4
+"CK-17","Chinook","Lower Thompson_SP_1.2",2004,"Abs_Abd","Green","Amber",NA,NA,NA,NA,"Green","Amber","Green","Amber",4
+"CK-17","Chinook","Lower Thompson_SP_1.2",2005,"Abs_Abd","Green","Amber",NA,NA,NA,NA,"Green","Amber","Green","Amber",4
+"CK-17","Chinook","Lower Thompson_SP_1.2",2006,"Abs_Abd","Amber","Amber",NA,"Green",NA,NA,"Amber","Amber","Amber","Amber",5
+"CK-17","Chinook","Lower Thompson_SP_1.2",2007,"Abs_Abd","Amber","Amber",NA,"Red",NA,NA,"Amber","Amber","Amber","Amber",5
+"CK-17","Chinook","Lower Thompson_SP_1.2",2008,"Abs_Abd","Amber","Amber",NA,"Red",NA,NA,"Amber","Amber","Amber","Amber",5
+"CK-17","Chinook","Lower Thompson_SP_1.2",2009,"Abs_Abd","Amber","Amber","Amber","Red",NA,NA,"Amber","Amber","Amber","Amber",6
+"CK-17","Chinook","Lower Thompson_SP_1.2",2010,"Abs_Abd","Amber","Amber","Amber","Red",NA,NA,"Amber","Amber","Amber","Amber",6
+"CK-17","Chinook","Lower Thompson_SP_1.2",2011,"Abs_Abd","Amber","Amber","Amber","Red",NA,NA,"Amber","Amber","Amber","Amber",6
+"CK-17","Chinook","Lower Thompson_SP_1.2",2012,"Abs_Abd","Amber","Amber","Amber","Red",NA,NA,"Amber","Amber","Amber","Amber",6
+"CK-17","Chinook","Lower Thompson_SP_1.2",2013,"Abs_Abd","Amber","Amber","Amber","Red",NA,NA,"Amber","Amber","Amber","Amber",6
+"CK-17","Chinook","Lower Thompson_SP_1.2",2014,"Abs_Abd","Amber","Amber","Green","Red",NA,NA,"Amber","Amber","Amber","Amber",6
+"CK-17","Chinook","Lower Thompson_SP_1.2",2015,"Abs_Abd","Amber","Amber","Green","Green",NA,NA,"Amber","Amber","Amber","Amber",6
+"CK-17","Chinook","Lower Thompson_SP_1.2",2016,"Abs_Abd","Amber","Amber","Green","Green",NA,NA,"Amber","Amber","Amber","Amber",6
+"CK-17","Chinook","Lower Thompson_SP_1.2",2017,"Abs_Abd","Amber","Amber","Green","Green",NA,NA,"Amber","Amber","Amber","Amber",6
+"CK-17","Chinook","Lower Thompson_SP_1.2",2018,"Abs_Abd","Amber","Amber","Amber","Amber",NA,NA,"Amber","Amber","Amber","Amber",6
+"CK-17","Chinook","Lower Thompson_SP_1.2",2019,"Abs_Abd","Red","Amber","Red","Red",NA,NA,"Red","Amber","Red","Amber",6
+"CK-17","Chinook","Lower Thompson_SP_1.2",2020,"Abs_Abd","Red","Amber","Red","Red",NA,NA,"Red","Amber","Red","Amber",6
+"CK-17","Chinook","Lower Thompson_SP_1.2",2021,"Abs_Abd","Red","Amber","Red","Red",NA,NA,"Red","Amber","Red","Amber",6
+"CK-17","Chinook","Lower Thompson_SP_1.2",2022,"Abs_Abd","Amber","Amber","Amber","Red",NA,NA,"Amber","Amber","Amber","Amber",6
 "CK-18","Chinook","North Thompson_SP_1.3",1995,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
 "CK-18","Chinook","North Thompson_SP_1.3",1996,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
 "CK-18","Chinook","North Thompson_SP_1.3",1997,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
@@ -1076,7 +1076,7 @@
 "CK-29","Chinook","East Vancouver Island-North_FA_0.x",2008,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
 "CK-29","Chinook","East Vancouver Island-North_FA_0.x",2009,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
 "CK-29","Chinook","East Vancouver Island-North_FA_0.x",2010,"Rel_Idx",NA,NA,NA,"Red",NA,NA,NA,NA,NA,NA,1
-"CK-29","Chinook","East Vancouver Island-North_FA_0.x",2011,"Rel_Idx",NA,NA,NA,"Green",NA,NA,NA,NA,NA,NA,1
+"CK-29","Chinook","East Vancouver Island-North_FA_0.x",2011,"Rel_Idx",NA,NA,NA,"Amber",NA,NA,NA,NA,NA,NA,1
 "CK-29","Chinook","East Vancouver Island-North_FA_0.x",2012,"Rel_Idx",NA,NA,NA,"Green",NA,NA,NA,NA,NA,NA,1
 "CK-29","Chinook","East Vancouver Island-North_FA_0.x",2013,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2
 "CK-29","Chinook","East Vancouver Island-North_FA_0.x",2014,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2
@@ -1135,7 +1135,7 @@
 "CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",2012,"Abs_Abd","Red",NA,"Amber","Red",NA,NA,"Red",NA,"Red",NA,4
 "CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",2013,"Abs_Abd","Red",NA,"Amber","Red",NA,NA,"Red",NA,"Red",NA,4
 "CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",2014,"Abs_Abd","Red",NA,"Amber","Red",NA,NA,"Red",NA,"Red",NA,4
-"CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",2015,"Abs_Abd","Red",NA,"Green","Green",NA,NA,"Red",NA,"Red",NA,4
+"CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",2015,"Abs_Abd","Amber",NA,"Green","Green",NA,NA,"Amber",NA,"Amber",NA,4
 "CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",2016,"Abs_Abd","Amber",NA,"Green","Green",NA,NA,"Amber",NA,"Amber",NA,4
 "CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",2017,"Abs_Abd","Amber",NA,"Green","Green",NA,NA,"Amber",NA,"Amber",NA,4
 "CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",2018,"Abs_Abd","Green",NA,"Green","Green",NA,NA,"Green",NA,"Green",NA,4
@@ -1156,20 +1156,20 @@
 "CK-33","Chinook","West Vancouver Island-North_FA_0.x",2005,"Abs_Abd","Green",NA,NA,NA,NA,NA,"Green",NA,"Green",NA,2
 "CK-33","Chinook","West Vancouver Island-North_FA_0.x",2006,"Abs_Abd","Green",NA,NA,NA,NA,NA,"Green",NA,"Green",NA,2
 "CK-33","Chinook","West Vancouver Island-North_FA_0.x",2007,"Abs_Abd","Green",NA,NA,"Amber",NA,NA,"Green",NA,"Green",NA,3
-"CK-33","Chinook","West Vancouver Island-North_FA_0.x",2008,"Abs_Abd","Green",NA,NA,"Amber",NA,NA,"Green",NA,"Green",NA,3
-"CK-33","Chinook","West Vancouver Island-North_FA_0.x",2009,"Abs_Abd","Green",NA,NA,"Amber",NA,NA,"Green",NA,"Green",NA,3
+"CK-33","Chinook","West Vancouver Island-North_FA_0.x",2008,"Abs_Abd","Green",NA,NA,"Red",NA,NA,"Green",NA,"Green",NA,3
+"CK-33","Chinook","West Vancouver Island-North_FA_0.x",2009,"Abs_Abd","Green",NA,NA,"Red",NA,NA,"Green",NA,"Green",NA,3
 "CK-33","Chinook","West Vancouver Island-North_FA_0.x",2010,"Abs_Abd","Green",NA,"Green","Green",NA,NA,"Green",NA,"Green",NA,4
 "CK-33","Chinook","West Vancouver Island-North_FA_0.x",2011,"Abs_Abd","Green",NA,"Green","Green",NA,NA,"Green",NA,"Green",NA,4
 "CK-33","Chinook","West Vancouver Island-North_FA_0.x",2012,"Abs_Abd","Green",NA,"Green","Green",NA,NA,"Green",NA,"Green",NA,4
-"CK-33","Chinook","West Vancouver Island-North_FA_0.x",2013,"Abs_Abd","Green",NA,"Green","Red",NA,NA,"Green",NA,"Green",NA,4
+"CK-33","Chinook","West Vancouver Island-North_FA_0.x",2013,"Abs_Abd","Green",NA,"Amber","Red",NA,NA,"Green",NA,"Green",NA,4
 "CK-33","Chinook","West Vancouver Island-North_FA_0.x",2014,"Abs_Abd","Green",NA,"Amber","Red",NA,NA,"Green",NA,"Green",NA,4
 "CK-33","Chinook","West Vancouver Island-North_FA_0.x",2015,"Abs_Abd","Green",NA,"Amber","Red",NA,NA,"Green",NA,"Green",NA,4
-"CK-33","Chinook","West Vancouver Island-North_FA_0.x",2016,"Abs_Abd","Green",NA,"Amber","Red",NA,NA,"Green",NA,"Green",NA,4
+"CK-33","Chinook","West Vancouver Island-North_FA_0.x",2016,"Abs_Abd","Green",NA,"Amber","Amber",NA,NA,"Green",NA,"Green",NA,4
 "CK-33","Chinook","West Vancouver Island-North_FA_0.x",2017,"Abs_Abd","Green",NA,"Green","Green",NA,NA,"Green",NA,"Green",NA,4
-"CK-33","Chinook","West Vancouver Island-North_FA_0.x",2018,"Abs_Abd","Green",NA,"Green","Red",NA,NA,"Green",NA,"Green",NA,4
+"CK-33","Chinook","West Vancouver Island-North_FA_0.x",2018,"Abs_Abd","Green",NA,"Green","Amber",NA,NA,"Green",NA,"Green",NA,4
 "CK-33","Chinook","West Vancouver Island-North_FA_0.x",2019,"Abs_Abd","Green",NA,"Green","Green",NA,NA,"Green",NA,"Green",NA,4
 "CK-33","Chinook","West Vancouver Island-North_FA_0.x",2020,"Abs_Abd","Green",NA,"Green","Red",NA,NA,"Green",NA,"Green",NA,4
-"CK-33","Chinook","West Vancouver Island-North_FA_0.x",2021,"Abs_Abd","Green",NA,"Amber","Amber",NA,NA,"Green",NA,"Green",NA,4
+"CK-33","Chinook","West Vancouver Island-North_FA_0.x",2021,"Abs_Abd","Green",NA,"Amber","Green",NA,NA,"Green",NA,"Green",NA,4
 "CK-33","Chinook","West Vancouver Island-North_FA_0.x",2022,"Abs_Abd","Green",NA,"Green","Green",NA,NA,"Green",NA,"Green",NA,4
 "CK-82","Chinook","Upper Adams River_SU_x.x",1995,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
 "CK-82","Chinook","Upper Adams River_SU_x.x",1996,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
@@ -1392,7 +1392,7 @@
 "CM-02","Chum","Lower Fraser Chum",2014,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
 "CM-02","Chum","Lower Fraser Chum",2015,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
 "CM-02","Chum","Lower Fraser Chum",2016,"Rel_Idx",NA,NA,NA,"Red",NA,NA,NA,NA,NA,NA,1
-"CM-02","Chum","Lower Fraser Chum",2017,"Rel_Idx",NA,NA,NA,"Red",NA,NA,NA,NA,NA,NA,1
+"CM-02","Chum","Lower Fraser Chum",2017,"Rel_Idx",NA,NA,NA,"Amber",NA,NA,NA,NA,NA,NA,1
 "CM-02","Chum","Lower Fraser Chum",2018,"Rel_Idx",NA,NA,NA,"Green",NA,NA,NA,NA,NA,NA,1
 "CM-02","Chum","Lower Fraser Chum",2019,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2
 "CM-02","Chum","Lower Fraser Chum",2020,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2
@@ -1508,7 +1508,7 @@
 "SkeenaNass-19","Sockeye","Babine Late Wild",2019,"Abs_Abd","Amber","Green","Amber","Red",NA,"Red","Amber","Green","Amber","Green",6
 "SkeenaNass-19","Sockeye","Babine Late Wild",2020,"Abs_Abd","Amber","Green","Amber","Amber",NA,"Red","Amber","Green","Amber","Green",6
 "SkeenaNass-19","Sockeye","Babine Late Wild",2021,"Abs_Abd","Red","Green","Amber","Amber",NA,"Red","Red","Green","Red","Green",6
-"SkeenaNass-19","Sockeye","Babine Late Wild",2022,"Abs_Abd","Red","Green","Amber","Amber",NA,"Red","Red","Green","Red","Green",6
+"SkeenaNass-19","Sockeye","Babine Late Wild",2022,"Abs_Abd","Red","Green","Amber","Red",NA,"Red","Red","Green","Red","Green",6
 "SkeenaNass-20","Sockeye","Babine Mid Wild",1995,"Abs_Abd","Amber","Green","Green","Green",NA,"Amber","Amber","Green","Amber","Green",6
 "SkeenaNass-20","Sockeye","Babine Mid Wild",1996,"Abs_Abd","Amber","Amber","Green","Green",NA,"Amber","Amber","Amber","Amber","Amber",6
 "SkeenaNass-20","Sockeye","Babine Mid Wild",1997,"Abs_Abd","Amber","Green","Green","Green",NA,"Amber","Amber","Green","Amber","Green",6
@@ -1582,7 +1582,7 @@
 "SkeenaNass-6","Sockeye","Damdochax",2009,"Abs_Abd","Amber","Amber","Red","Red",NA,"Red","Amber","Amber","Amber","Amber",6
 "SkeenaNass-6","Sockeye","Damdochax",2010,"Abs_Abd","Amber","Amber","Amber","Red",NA,"Red","Amber","Amber","Amber","Amber",6
 "SkeenaNass-6","Sockeye","Damdochax",2011,"Abs_Abd","Amber","Amber","Amber","Red",NA,"Amber","Amber","Amber","Amber","Amber",6
-"SkeenaNass-6","Sockeye","Damdochax",2012,"Abs_Abd","Amber","Amber","Green","Amber",NA,"Amber","Amber","Amber","Amber","Amber",6
+"SkeenaNass-6","Sockeye","Damdochax",2012,"Abs_Abd","Amber","Amber","Green","Green",NA,"Amber","Amber","Amber","Amber","Amber",6
 "SkeenaNass-6","Sockeye","Damdochax",2013,"Abs_Abd","Amber","Amber","Green","Green",NA,"Amber","Amber","Amber","Amber","Amber",6
 "SkeenaNass-6","Sockeye","Damdochax",2014,"Abs_Abd","Amber","Amber","Green","Green",NA,"Amber","Amber","Amber","Amber","Amber",6
 "SkeenaNass-6","Sockeye","Damdochax",2015,"Abs_Abd","Amber","Amber","Green","Green",NA,"Amber","Amber","Amber","Amber","Amber",6
@@ -1931,7 +1931,7 @@
 "SkeenaNass-28","Sockeye","Sustut",2022,"Abs_Abd","Green","Amber","Green","Green",NA,"Green","Green","Amber","Green","Amber",6
 "SkeenaNass-17","Sockeye","Stephens",1995,"Abs_Abd","Green","Green","Green",NA,NA,"Green","Green","Green","Green","Green",5
 "SkeenaNass-17","Sockeye","Stephens",1996,"Abs_Abd","Green","Green","Green",NA,NA,"Green","Green","Green","Green","Green",5
-"SkeenaNass-17","Sockeye","Stephens",1997,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6
+"SkeenaNass-17","Sockeye","Stephens",1997,"Abs_Abd","Green","Green","Green","Amber",NA,"Green","Green","Green","Green","Green",6
 "SkeenaNass-17","Sockeye","Stephens",1998,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6
 "SkeenaNass-17","Sockeye","Stephens",1999,"Abs_Abd","Green","Green","Green","Red",NA,"Green","Green","Green","Green","Green",6
 "SkeenaNass-17","Sockeye","Stephens",2000,"Abs_Abd","Green","Green","Amber","Red",NA,"Amber","Green","Green","Green","Green",6
