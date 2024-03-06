@@ -89,7 +89,7 @@ slope.samples <- list(Label = "OK CK")
 
 
 
-for(yr.do in 2017:2022){
+for(yr.do in 2017:2023){
   
 data.retro <- data.sub %>% dplyr::filter(Year <= yr.do)
 data.retro
