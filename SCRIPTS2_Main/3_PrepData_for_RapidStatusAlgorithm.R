@@ -88,6 +88,9 @@ metrics.synoptic.values[["NumStdMetrics"]] <-  rowSums(!is.na(metrics.synoptic.v
 metrics.synoptic.status[["NumStdMetrics"]] <-  rowSums(!is.na(metrics.synoptic.status[,std.metrics]))
 
 
+metrics.synoptic.values$GenAvgUsed <- metrics.synoptic.values$AbsLBM *1000 # back calculate from the Ratio relative to 1,000 BM
+
+
 # Write files for running the algorithms in retro
 write.csv( metrics.synoptic.values,"DATA_OUT/Retrospective_Metrics_Values.csv", row.names = FALSE)
 write.csv( metrics.synoptic.status,"DATA_OUT/Retrospective_Metrics_Status.csv", row.names = FALSE)                     
