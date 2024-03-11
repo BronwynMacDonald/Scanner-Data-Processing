@@ -78,7 +78,7 @@
 "CU-6","Sockeye","Chilko_S_ES",2017,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6
 "CU-6","Sockeye","Chilko_S_ES",2018,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6
 "CU-6","Sockeye","Chilko_S_ES",2019,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6
-"CU-6","Sockeye","Chilko_S_ES",2020,"Abs_Abd","Amber","Green","Green","Amber",NA,"Green","Amber","Green","Amber","Green",6
+"CU-6","Sockeye","Chilko_S_ES",2020,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6
 "CU-6","Sockeye","Chilko_S_ES",2021,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6
 "CU-17","Sockeye","Chilliwack_ES",1995,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
 "CU-17","Sockeye","Chilliwack_ES",1996,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
@@ -641,7 +641,7 @@
 "CK-04","Chinook","Lower Fraser River_SP_1.3",2012,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2
 "CK-04","Chinook","Lower Fraser River_SP_1.3",2013,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2
 "CK-04","Chinook","Lower Fraser River_SP_1.3",2014,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2
-"CK-04","Chinook","Lower Fraser River_SP_1.3",2015,"Rel_Idx",NA,NA,"Green","Red",NA,NA,NA,NA,NA,NA,2
+"CK-04","Chinook","Lower Fraser River_SP_1.3",2015,"Rel_Idx",NA,NA,"Green","Amber",NA,NA,NA,NA,NA,NA,2
 "CK-04","Chinook","Lower Fraser River_SP_1.3",2016,"Rel_Idx",NA,NA,"Green","Red",NA,NA,NA,NA,NA,NA,2
 "CK-04","Chinook","Lower Fraser River_SP_1.3",2017,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2
 "CK-04","Chinook","Lower Fraser River_SP_1.3",2018,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2
@@ -801,14 +801,14 @@
 "CK-10","Chinook","Middle Fraser River_SP_1.3",2012,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2
 "CK-10","Chinook","Middle Fraser River_SP_1.3",2013,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2
 "CK-10","Chinook","Middle Fraser River_SP_1.3",2014,"Rel_Idx",NA,NA,"Green","Red",NA,NA,NA,NA,NA,NA,2
-"CK-10","Chinook","Middle Fraser River_SP_1.3",2015,"Rel_Idx",NA,NA,"Green","Red",NA,NA,NA,NA,NA,NA,2
-"CK-10","Chinook","Middle Fraser River_SP_1.3",2016,"Rel_Idx",NA,NA,"Green","Red",NA,NA,NA,NA,NA,NA,2
+"CK-10","Chinook","Middle Fraser River_SP_1.3",2015,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2
+"CK-10","Chinook","Middle Fraser River_SP_1.3",2016,"Rel_Idx",NA,NA,"Green","Amber",NA,NA,NA,NA,NA,NA,2
 "CK-10","Chinook","Middle Fraser River_SP_1.3",2017,"Rel_Idx",NA,NA,"Green","Red",NA,NA,NA,NA,NA,NA,2
-"CK-10","Chinook","Middle Fraser River_SP_1.3",2018,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2
+"CK-10","Chinook","Middle Fraser River_SP_1.3",2018,"Rel_Idx",NA,NA,"Green","Amber",NA,NA,NA,NA,NA,NA,2
 "CK-10","Chinook","Middle Fraser River_SP_1.3",2019,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2
-"CK-10","Chinook","Middle Fraser River_SP_1.3",2020,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2
-"CK-10","Chinook","Middle Fraser River_SP_1.3",2021,"Rel_Idx",NA,NA,"Red","Amber",NA,NA,NA,NA,NA,NA,2
-"CK-10","Chinook","Middle Fraser River_SP_1.3",2022,"Rel_Idx",NA,NA,"Amber","Amber",NA,NA,NA,NA,NA,NA,2
+"CK-10","Chinook","Middle Fraser River_SP_1.3",2020,"Rel_Idx",NA,NA,"Red","Amber",NA,NA,NA,NA,NA,NA,2
+"CK-10","Chinook","Middle Fraser River_SP_1.3",2021,"Rel_Idx",NA,NA,"Red","Green",NA,NA,NA,NA,NA,NA,2
+"CK-10","Chinook","Middle Fraser River_SP_1.3",2022,"Rel_Idx",NA,NA,"Amber","Green",NA,NA,NA,NA,NA,NA,2
 "CK-11","Chinook","Middle Fraser River_SU_1.3",1995,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
 "CK-11","Chinook","Middle Fraser River_SU_1.3",1996,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
 "CK-11","Chinook","Middle Fraser River_SU_1.3",1997,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
@@ -937,7 +937,7 @@
 "CK-15","Chinook","Shuswap River_SU_0.3",2008,"Abs_Abd","Green","Green","Green","Red",NA,NA,"Green","Green","Green","Green",6
 "CK-15","Chinook","Shuswap River_SU_0.3",2009,"Abs_Abd","Green","Green","Green","Red",NA,NA,"Green","Green","Green","Green",6
 "CK-15","Chinook","Shuswap River_SU_0.3",2010,"Abs_Abd","Green","Green","Green","Amber",NA,NA,"Green","Green","Green","Green",6
-"CK-15","Chinook","Shuswap River_SU_0.3",2011,"Abs_Abd","Green","Green","Green","Red",NA,NA,"Green","Green","Green","Green",6
+"CK-15","Chinook","Shuswap River_SU_0.3",2011,"Abs_Abd","Green","Green","Green","Amber",NA,NA,"Green","Green","Green","Green",6
 "CK-15","Chinook","Shuswap River_SU_0.3",2012,"Abs_Abd","Green","Green","Green","Red",NA,NA,"Green","Green","Green","Green",6
 "CK-15","Chinook","Shuswap River_SU_0.3",2013,"Abs_Abd","Green","Green","Green","Red",NA,NA,"Green","Green","Green","Green",6
 "CK-15","Chinook","Shuswap River_SU_0.3",2014,"Abs_Abd","Green","Green","Green","Amber",NA,NA,"Green","Green","Green","Green",6
@@ -946,7 +946,7 @@
 "CK-15","Chinook","Shuswap River_SU_0.3",2017,"Abs_Abd","Green","Green","Green","Red",NA,NA,"Green","Green","Green","Green",6
 "CK-15","Chinook","Shuswap River_SU_0.3",2018,"Abs_Abd","Green","Green","Amber","Red",NA,NA,"Green","Green","Green","Green",6
 "CK-15","Chinook","Shuswap River_SU_0.3",2019,"Abs_Abd","Green","Green","Amber","Amber",NA,NA,"Green","Green","Green","Green",6
-"CK-15","Chinook","Shuswap River_SU_0.3",2020,"Abs_Abd","Green","Green","Green","Amber",NA,NA,"Green","Green","Green","Green",6
+"CK-15","Chinook","Shuswap River_SU_0.3",2020,"Abs_Abd","Green","Green","Green","Red",NA,NA,"Green","Green","Green","Green",6
 "CK-15","Chinook","Shuswap River_SU_0.3",2021,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6
 "CK-15","Chinook","Shuswap River_SU_0.3",2022,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6
 "CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2",1995,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
@@ -1077,7 +1077,7 @@
 "CK-29","Chinook","East Vancouver Island-North_FA_0.x",2009,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
 "CK-29","Chinook","East Vancouver Island-North_FA_0.x",2010,"Rel_Idx",NA,NA,NA,"Red",NA,NA,NA,NA,NA,NA,1
 "CK-29","Chinook","East Vancouver Island-North_FA_0.x",2011,"Rel_Idx",NA,NA,NA,"Amber",NA,NA,NA,NA,NA,NA,1
-"CK-29","Chinook","East Vancouver Island-North_FA_0.x",2012,"Rel_Idx",NA,NA,NA,"Green",NA,NA,NA,NA,NA,NA,1
+"CK-29","Chinook","East Vancouver Island-North_FA_0.x",2012,"Rel_Idx",NA,NA,NA,"Amber",NA,NA,NA,NA,NA,NA,1
 "CK-29","Chinook","East Vancouver Island-North_FA_0.x",2013,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2
 "CK-29","Chinook","East Vancouver Island-North_FA_0.x",2014,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2
 "CK-29","Chinook","East Vancouver Island-North_FA_0.x",2015,"Rel_Idx",NA,NA,"Amber","Green",NA,NA,NA,NA,NA,NA,2
@@ -1102,11 +1102,11 @@
 "CK-31","Chinook","West Vancouver Island-South_FA_0.x",2007,"Abs_Abd","Red",NA,NA,"Red",NA,NA,"Red",NA,"Red",NA,3
 "CK-31","Chinook","West Vancouver Island-South_FA_0.x",2008,"Abs_Abd","Red",NA,NA,"Red",NA,NA,"Red",NA,"Red",NA,3
 "CK-31","Chinook","West Vancouver Island-South_FA_0.x",2009,"Abs_Abd","Red",NA,"Amber","Red",NA,NA,"Red",NA,"Red",NA,4
-"CK-31","Chinook","West Vancouver Island-South_FA_0.x",2010,"Abs_Abd","Red",NA,"Amber","Red",NA,NA,"Red",NA,"Red",NA,4
+"CK-31","Chinook","West Vancouver Island-South_FA_0.x",2010,"Abs_Abd","Red",NA,"Red","Red",NA,NA,"Red",NA,"Red",NA,4
 "CK-31","Chinook","West Vancouver Island-South_FA_0.x",2011,"Abs_Abd","Red",NA,"Amber","Red",NA,NA,"Red",NA,"Red",NA,4
 "CK-31","Chinook","West Vancouver Island-South_FA_0.x",2012,"Abs_Abd","Red",NA,"Amber","Red",NA,NA,"Red",NA,"Red",NA,4
-"CK-31","Chinook","West Vancouver Island-South_FA_0.x",2013,"Abs_Abd","Red",NA,"Green","Red",NA,NA,"Red",NA,"Red",NA,4
-"CK-31","Chinook","West Vancouver Island-South_FA_0.x",2014,"Abs_Abd","Red",NA,"Green","Red",NA,NA,"Red",NA,"Red",NA,4
+"CK-31","Chinook","West Vancouver Island-South_FA_0.x",2013,"Abs_Abd","Red",NA,"Green","Green",NA,NA,"Red",NA,"Red",NA,4
+"CK-31","Chinook","West Vancouver Island-South_FA_0.x",2014,"Abs_Abd","Red",NA,"Green","Green",NA,NA,"Red",NA,"Red",NA,4
 "CK-31","Chinook","West Vancouver Island-South_FA_0.x",2015,"Abs_Abd","Red",NA,"Green","Green",NA,NA,"Red",NA,"Red",NA,4
 "CK-31","Chinook","West Vancouver Island-South_FA_0.x",2016,"Abs_Abd","Red",NA,"Green","Green",NA,NA,"Red",NA,"Red",NA,4
 "CK-31","Chinook","West Vancouver Island-South_FA_0.x",2017,"Abs_Abd","Red",NA,"Green","Green",NA,NA,"Red",NA,"Red",NA,4
@@ -1118,31 +1118,31 @@
 "CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",1995,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
 "CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",1996,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
 "CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",1997,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
-"CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",1998,"Abs_Abd","Amber",NA,NA,NA,NA,NA,"Amber",NA,"Amber",NA,2
-"CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",1999,"Abs_Abd","Green",NA,NA,NA,NA,NA,"Green",NA,"Green",NA,2
-"CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",2000,"Abs_Abd","Green",NA,NA,NA,NA,NA,"Green",NA,"Green",NA,2
-"CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",2001,"Abs_Abd","Amber",NA,NA,NA,NA,NA,"Amber",NA,"Amber",NA,2
-"CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",2002,"Abs_Abd","Amber",NA,NA,NA,NA,NA,"Amber",NA,"Amber",NA,2
-"CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",2003,"Abs_Abd","Amber",NA,NA,NA,NA,NA,"Amber",NA,"Amber",NA,2
-"CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",2004,"Abs_Abd","Amber",NA,NA,NA,NA,NA,"Amber",NA,"Amber",NA,2
-"CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",2005,"Abs_Abd","Amber",NA,NA,NA,NA,NA,"Amber",NA,"Amber",NA,2
-"CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",2006,"Abs_Abd","Amber",NA,NA,"Red",NA,NA,"Amber",NA,"Amber",NA,3
+"CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",1998,"Abs_Abd","Red",NA,NA,NA,NA,NA,"Red",NA,"Red",NA,2
+"CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",1999,"Abs_Abd","Amber",NA,NA,NA,NA,NA,"Amber",NA,"Amber",NA,2
+"CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",2000,"Abs_Abd","Amber",NA,NA,NA,NA,NA,"Amber",NA,"Amber",NA,2
+"CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",2001,"Abs_Abd","Red",NA,NA,NA,NA,NA,"Red",NA,"Red",NA,2
+"CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",2002,"Abs_Abd","Red",NA,NA,NA,NA,NA,"Red",NA,"Red",NA,2
+"CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",2003,"Abs_Abd","Red",NA,NA,NA,NA,NA,"Red",NA,"Red",NA,2
+"CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",2004,"Abs_Abd","Red",NA,NA,NA,NA,NA,"Red",NA,"Red",NA,2
+"CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",2005,"Abs_Abd","Red",NA,NA,NA,NA,NA,"Red",NA,"Red",NA,2
+"CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",2006,"Abs_Abd","Red",NA,NA,"Red",NA,NA,"Red",NA,"Red",NA,3
 "CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",2007,"Abs_Abd","Red",NA,NA,"Red",NA,NA,"Red",NA,"Red",NA,3
 "CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",2008,"Abs_Abd","Red",NA,NA,"Red",NA,NA,"Red",NA,"Red",NA,3
 "CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",2009,"Abs_Abd","Red",NA,"Amber","Red",NA,NA,"Red",NA,"Red",NA,4
 "CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",2010,"Abs_Abd","Red",NA,"Amber","Red",NA,NA,"Red",NA,"Red",NA,4
-"CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",2011,"Abs_Abd","Red",NA,"Green","Red",NA,NA,"Red",NA,"Red",NA,4
+"CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",2011,"Abs_Abd","Red",NA,"Green","Green",NA,NA,"Red",NA,"Red",NA,4
 "CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",2012,"Abs_Abd","Red",NA,"Amber","Red",NA,NA,"Red",NA,"Red",NA,4
-"CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",2013,"Abs_Abd","Red",NA,"Amber","Red",NA,NA,"Red",NA,"Red",NA,4
-"CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",2014,"Abs_Abd","Red",NA,"Amber","Red",NA,NA,"Red",NA,"Red",NA,4
-"CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",2015,"Abs_Abd","Amber",NA,"Green","Green",NA,NA,"Amber",NA,"Amber",NA,4
-"CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",2016,"Abs_Abd","Amber",NA,"Green","Green",NA,NA,"Amber",NA,"Amber",NA,4
+"CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",2013,"Abs_Abd","Red",NA,"Green","Amber",NA,NA,"Red",NA,"Red",NA,4
+"CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",2014,"Abs_Abd","Red",NA,"Green","Amber",NA,NA,"Red",NA,"Red",NA,4
+"CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",2015,"Abs_Abd","Red",NA,"Green","Green",NA,NA,"Red",NA,"Red",NA,4
+"CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",2016,"Abs_Abd","Red",NA,"Green","Green",NA,NA,"Red",NA,"Red",NA,4
 "CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",2017,"Abs_Abd","Amber",NA,"Green","Green",NA,NA,"Amber",NA,"Amber",NA,4
-"CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",2018,"Abs_Abd","Green",NA,"Green","Green",NA,NA,"Green",NA,"Green",NA,4
-"CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",2019,"Abs_Abd","Green",NA,"Green","Green",NA,NA,"Green",NA,"Green",NA,4
-"CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",2020,"Abs_Abd","Green",NA,"Green","Green",NA,NA,"Green",NA,"Green",NA,4
-"CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",2021,"Abs_Abd","Green",NA,"Green","Green",NA,NA,"Green",NA,"Green",NA,4
-"CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",2022,"Abs_Abd","Green",NA,"Green","Green",NA,NA,"Green",NA,"Green",NA,4
+"CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",2018,"Abs_Abd","Amber",NA,"Green","Green",NA,NA,"Amber",NA,"Amber",NA,4
+"CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",2019,"Abs_Abd","Amber",NA,"Green","Green",NA,NA,"Amber",NA,"Amber",NA,4
+"CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",2020,"Abs_Abd","Amber",NA,"Green","Green",NA,NA,"Amber",NA,"Amber",NA,4
+"CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",2021,"Abs_Abd","Amber",NA,"Green","Green",NA,NA,"Amber",NA,"Amber",NA,4
+"CK-32","Chinook","West Vancouver Island-Nootka & Kyuquot_FA_0.x",2022,"Abs_Abd","Amber",NA,"Green","Green",NA,NA,"Amber",NA,"Amber",NA,4
 "CK-33","Chinook","West Vancouver Island-North_FA_0.x",1995,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
 "CK-33","Chinook","West Vancouver Island-North_FA_0.x",1996,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
 "CK-33","Chinook","West Vancouver Island-North_FA_0.x",1997,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
@@ -1509,7 +1509,7 @@
 "SkeenaNass-19","Sockeye","Babine Late Wild",2019,"Abs_Abd","Amber","Green","Amber","Red",NA,"Red","Amber","Green","Amber","Green",6
 "SkeenaNass-19","Sockeye","Babine Late Wild",2020,"Abs_Abd","Amber","Green","Amber","Amber",NA,"Red","Amber","Green","Amber","Green",6
 "SkeenaNass-19","Sockeye","Babine Late Wild",2021,"Abs_Abd","Red","Green","Amber","Amber",NA,"Red","Red","Green","Red","Green",6
-"SkeenaNass-19","Sockeye","Babine Late Wild",2022,"Abs_Abd","Red","Green","Amber","Red",NA,"Red","Red","Green","Red","Green",6
+"SkeenaNass-19","Sockeye","Babine Late Wild",2022,"Abs_Abd","Red","Green","Amber","Amber",NA,"Red","Red","Green","Red","Green",6
 "SkeenaNass-20","Sockeye","Babine Mid Wild",1995,"Abs_Abd","Amber","Green","Green","Green",NA,"Amber","Amber","Green","Amber","Green",6
 "SkeenaNass-20","Sockeye","Babine Mid Wild",1996,"Abs_Abd","Amber","Amber","Green","Green",NA,"Amber","Amber","Amber","Amber","Amber",6
 "SkeenaNass-20","Sockeye","Babine Mid Wild",1997,"Abs_Abd","Amber","Green","Green","Green",NA,"Amber","Amber","Green","Amber","Green",6

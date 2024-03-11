@@ -13,7 +13,7 @@ POP_ID,GFE_ID,SYS_NM,Alt_SYS_NM,Alt2_SYS_NM,popMAP,yLAT,xLONG,faz_acro,maz_acro,
 48792,771,ANGUS CREEK,,,,49.509579,-123.756272,SC,GStr,SC+GStr,CK-20,SC,TRUE,Based on enhancement rank,,UNK,No,DEL,N,,,,No,,,,No,No
 47457,160,ANTLER CREEK,,,,53.258749,-121.412017,UFR,GStr,UFR+GStr,CK-12,FR,TRUE,Based on enhancement rank,,UNK,No,P,N,,1995,,Yes,,,,No,No
 50658,828,APPLE RIVER,,,,50.717141,-125.414305,SC,SFj,SC+SFj,CK-28,SC,TRUE,Based on enhancement rank,,UNK,No,DD,N,,,,No,,,,Yes,No
-45190,7990630,BEDWELL SYSTEM,Bedwell River,,,49.388139,-125.760466,WVI,WVI,WVI+WVI,CK-31,VI,TRUE,Based on enhancement rank,Changed ENH from MOD to LOW based on area direction and LRP paper,LOW,No,P,Y,,1995,,Yes,,,,Yes,No
+52338,1329,CYPRE RIVER,Cypre Creek,,,49.275772,-125.914318,WVI,WVI,WVI+WVI,CK-31,VI,FALSE,Based on enhancement rank,,HIGH,No,P,Y,,,,Yes,,,,No,Yes
 50034,728,ASHLU CREEK,,,49928,49.897931,-123.296255,SC,GStr,SC+GStr,CK-20,SC,FALSE,Based on enhancement rank,,MOD,No,AGG,N,,,,No,Aggregated with Squamish River,,,No,Yes
 41133,1336,ATLEO RIVER,,,,49.369983,-126.05783,WVI,WVI,WVI+WVI,CK-31,VI,TRUE,Based on enhancement rank,,UNK,No,DEL,N,,,,No,,,,No,No
 40133,1219,AYUM CREEK,,,40153,48.391016,-123.658999,WVI,WVI,WVI+WVI,CK-31,VI,TRUE,Based on enhancement rank,,UNK,No,AGG,N,,,,No,Aggregated with Sooke River,,,No,No
@@ -22,7 +22,7 @@ POP_ID,GFE_ID,SYS_NM,Alt_SYS_NM,Alt2_SYS_NM,popMAP,yLAT,xLONG,faz_acro,maz_acro,
 47267,141,BAKER CREEK,,,,52.972822,-122.503469,MFR,GStr,MFR+GStr,CK-10,FR,TRUE,Based on enhancement rank,,UNK,No,DD,N,,1995,,Yes,,,,No,Yes
 46608,258,BARRIERE RIVER,,,,51.173714,-120.138737,NTh,GStr,NTh+GStr,CK-19,FR,TRUE,Based on enhancement rank,,UNK,No,P,Y,,1997,,Yes,Not reviewed,,,Yes,No
 39698,1429,BATTLE BAY RIVER,,,,50.122542,-127.592175,WVI,WVI,WVI+WVI,CK-32,VI,TRUE,Based on enhancement rank,,UNK,No,DD,N,,,,No,,,,No,No
-52338,1329,CYPRE RIVER,Cypre Creek,,,49.275772,-125.914318,WVI,WVI,WVI+WVI,CK-31,VI,FALSE,Based on enhancement rank,,HIGH,No,P,Y,,,,Yes,,,,No,Yes
+40363,1242,NITINAT RIVER,,,,48.670198,-124.851091,WVI,WVI,WVI+WVI,CK-31,VI,FALSE,Based on enhancement rank,,HIGH,No,P,Y,,1995,,Yes,,,,No,Yes
 44802,2303,BENSON RIVER,,,39958,50.419417,-127.371602,WVI,WQCI,WVI+WQCI,CK-33,VI,TRUE,Based on enhancement rank,,UNK,No,AGG,N,,,,No,Aggregated with Marble River,,,No,Yes
 46548,252,BESSETTE CREEK,,,,50.306541,-118.82311,STh,GStr,STh+GStr,CK-16,FR,TRUE,Based on enhancement rank,,UNK,No,P,Y,,1999,,Yes,Peak Counts for all years except 1997 (not inspected).,,,Yes,No
 46076,192,BIG SILVER CREEK,,,,49.575594,-121.8287,LFR,GStr,LFR+GStr,CK-06,FR,TRUE,Based on enhancement rank,,UNK,No,P,N,,2005,,Yes,,,,No,No
@@ -40,7 +40,7 @@ POP_ID,GFE_ID,SYS_NM,Alt_SYS_NM,Alt2_SYS_NM,popMAP,yLAT,xLONG,faz_acro,maz_acro,
 48922,784,BRITTAIN RIVER,,,,49.99917,-124.012707,SC,GStr,SC+GStr,CK-20,SC,TRUE,Based on enhancement rank,,UNK,No,DEL,N,,,,No,,,,No,No
 41643,1390,BRODICK CREEK,,,,49.845637,-126.899403,WVI,WVI,WVI+WVI,CK-32,VI,TRUE,Based on enhancement rank,,UNK,No,DD,N,,,,No,,,,No,No
 49878,698,BROTHERS CREEK,,,,49.32862,-123.130694,SC,GStr,SC+GStr,CK-20,SC,TRUE,Based on enhancement rank,,UNK,No,DD,N,,,,No,,,,No,No
-41178,1341,MEGIN RIVER,,,,49.437331,-126.085105,WVI,WVI,WVI+WVI,CK-31,VI,TRUE,Based on enhancement rank,,UNK,No,P,Y,,1995,,Yes,,,,Yes,No
+40253,1231,SAN JUAN RIVER,,,,48.560082,-124.398796,WVI,WVI,WVI+WVI,CK-31,VI,FALSE,Based on enhancement rank,,HIGH,No,P,Y,,1995,,No,poor coverage of spawning population,,,Yes,Yes
 41823,1408,CACHALOT CREEK,,,,49.998066,-127.164078,WVI,WVI,WVI+WVI,CK-32,VI,TRUE,Based on enhancement rank,,UNK,No,DEL,N,,,,No,,,,No,No
 586,677,CAMPBELL RIVER,L Campbell River,Little Campbell River,,49.013452,-122.778358,BB,GStr,BB+GStr,CK-02,SC,FALSE,Based on enhancement rank,,HIGH,No,P,N,,1979,1979,Yes,"Hatchery estimates, Est_Class should be reviewed.",,,No,Yes
 52918,1141,CAMPBELL RIVER,Campbell River EVI,,,50.042984,-125.260688,EVI,GStr,EVI+GStr,CK-29,SC,FALSE,Based on enhancement rank,,HIGH,Yes,P,N,,1999,,Yes,,,,Yes,Yes
@@ -55,7 +55,7 @@ POP_ID,GFE_ID,SYS_NM,Alt_SYS_NM,Alt2_SYS_NM,popMAP,yLAT,xLONG,faz_acro,maz_acro,
 40478,1254,CARNATION CREEK,,,,48.915052,-125.001987,WVI,WVI,WVI+WVI,CK-31,VI,TRUE,Based on enhancement rank,,UNK,No,DD,N,,,,No,,,,No,No
 40768,1285,CATARACT CREEK,,,,49.016448,-125.278284,WVI,WVI,WVI+WVI,CK-31,VI,TRUE,Based on enhancement rank,,UNK,No,DEL,N,,,,No,,,,No,No
 40398,1246,CAYCUSE RIVER,,,,48.796498,-124.682143,WVI,WVI,WVI+WVI,CK-31,VI,TRUE,Based on enhancement rank,,UNK,No,DD,N,,,,No,,,,No,No
-40618,1270,NAHMINT RIVER,,,,49.061964,-124.882605,WVI,WVI,WVI+WVI,CK-31,VI,TRUE,Based on enhancement rank,Changed ENH from HIGH to LOW based on area direction and LRP paper,LOW,No,P,Y,,1995,,Yes,,,,Yes,Yes
+40458,1252,SARITA RIVER,,,,48.897885,-125.009097,WVI,WVI,WVI+WVI,CK-31,VI,FALSE,Based on enhancement rank,,HIGH,No,P,Y,,1995,,Yes,,,,Yes,Yes
 39628,1422,CHAMISS CREEK,,,,50.079785,-127.289067,WVI,WVI,WVI+WVI,CK-32,VI,TRUE,Based on enhancement rank,,UNK,No,DD,N,,,,No,,,,No,No
 48672,760,CHAPMAN CREEK,,,,49.439924,-123.723048,SC,GStr,SC+GStr,CK-9007,SC,FALSE,Based on enhancement rank,,HIGH-CROSS_CU,No,DD,N,,,,No,low quality estimates,,,No,Yes
 40183,1224,CHARTERS RIVER,,,40153,48.413573,-123.711885,WVI,WVI,WVI+WVI,CK-31,VI,TRUE,Based on enhancement rank,,UNK,No,AGG,N,,,,No,Aggregated with Sooke River,,,No,No
@@ -83,13 +83,13 @@ POP_ID,GFE_ID,SYS_NM,Alt_SYS_NM,Alt2_SYS_NM,popMAP,yLAT,xLONG,faz_acro,maz_acro,
 46196,215,COLDWATER RIVER,,,,50.114645,-120.803611,LTh,GStr,LTh+GStr,CK-17,FR,FALSE,Based on enhancement rank,,HIGH,No,P,Y,,1995,,Yes,,,,Yes,Yes
 40508,1257,COLEMAN CREEK,,,,49.002925,-124.858116,WVI,WVI,WVI+WVI,CK-31,VI,TRUE,Based on enhancement rank,,UNK,No,DD,N,,,,No,,,,No,No
 40488,1255,CONSINKA CREEK,,,,48.934957,-124.97387,WVI,WVI,WVI+WVI,CK-31,VI,TRUE,Based on enhancement rank,,UNK,No,DEL,N,,,,No,,,,No,No
-41123,1335,MOYEHA RIVER,,,,49.417736,-125.912659,WVI,WVI,WVI+WVI,CK-31,VI,TRUE,Based on enhancement rank,,UNK,No,P,Y,,1995,,Yes,,,,Yes,No
+3306,11485,SOMASS-SPROAT-GC SYSTEM,Stamp River - Robertson Creek,,,49.246176,-124.820148,WVI,WVI,WVI+WVI,CK-31,VI,FALSE,Based on enhancement rank,,HIGH,Yes,P,N,,1995,1985,Yes,,1973,1972,No,No
 41413,1366,COUGAR CREEK,,,,49.72346,-126.455593,WVI,WVI,WVI+WVI,CK-32,VI,TRUE,Based on enhancement rank,,UNK,No,DEL,N,,,,No,,,,No,Yes
 40593,1267,COUS CREEK,,,,49.187137,-124.834721,WVI,WVI,WVI+WVI,CK-31,VI,TRUE,Based on enhancement rank,,UNK,No,DD,N,,,,No,,,,No,No
 40023,1208,COWICHAN RIVER,,,,48.753551,-123.637015,EVI,GStr,EVI+GStr,CK-22,SC,FALSE,Based on enhancement rank,,HIGH,Yes,P,N,,1988,1987,Yes,"Also, 1965-66 and 1976-79 are good",1985,1979,Yes,Yes
 812,253,CREIGHTON CREEK,,,,50.246078,-118.955318,STh,GStr,STh+GStr,CK-16,FR,TRUE,Based on enhancement rank,,UNK,No,P,N,,,,Yes,"Peak Counts, lots of zeros.",,,No,No
 50578,820,CUMSACK CREEK,,,50568,50.937063,-124.86395,HK,SFj,HK+SFj,CK-34,SC,TRUE,Based on enhancement rank,,UNK,No,AGG,N,,,,No,Aggregated with Homathko River,,,No,No
-40363,1242,NITINAT RIVER,,,,48.670198,-124.851091,WVI,WVI,WVI+WVI,CK-31,VI,FALSE,Based on enhancement rank,,HIGH,No,P,Y,,1995,,Yes,,,,No,Yes
+40153,1221,SOOKE RIVER,,,,48.384884,-123.700099,WVI,WVI,WVI+WVI,CK-31,VI,FALSE,Based on enhancement rank,,HIGH,No,P,N,,1995,,Yes,"Use 1996-2002, 2005, 2007, 2010 only",,,No,Yes
 40163,1222,DE MAMIEL CREEK,,,40153,48.389897,-123.709121,WVI,WVI,WVI+WVI,CK-31,VI,TRUE,Based on enhancement rank,,UNK,No,AGG,N,,,,No,Aggregated with Sooke River,,,No,No
 46216,217,DEADMAN RIVER,,,,50.744415,-120.919466,LTh,GStr,LTh+GStr,CK-17,FR,FALSE,Based on enhancement rank,,LOW,No,P,Y,,1995,,Yes,,,,Yes,Yes
 40569,1264,DEER CREEK,,,3306,49.331361,-124.914956,WVI,WVI,WVI+WVI,CK-31,VI,TRUE,Based on enhancement rank,,UNK,No,AGG,N,,,,No,"Included with SOMASS-SPROAT-GC SYSTEM estimate, not aggregated",,,No,No
@@ -132,7 +132,7 @@ POP_ID,GFE_ID,SYS_NM,Alt_SYS_NM,Alt2_SYS_NM,popMAP,yLAT,xLONG,faz_acro,maz_acro,
 47538,169,GOAT RIVER,,,,53.532273,-120.560276,UFR,GStr,UFR+GStr,CK-12,FR,TRUE,Based on enhancement rank,,UNK,No,P,Y,,1995,,Yes,"95, no records avail",,,Yes,No
 40648,1273,HENDERSON LAKE CREEK,,,,49.020593,-125.043003,WVI,WVI,WVI+WVI,CK-31,VI,FALSE,Based on enhancement rank,,HIGH,No,DD,N,,1995,,No,"Henderson Lake Creek is NI for CN 1996-present, Clemens Creek flows into Henderson Lake and has been surveyed periodically focused on SK, not consistently enough for trend analysis",,,No,No
 40053,1211,GOLDSTREAM RIVER,,,,48.484574,-123.547893,EVI,GStr,EVI+GStr,CK-21,SC,FALSE,Based on enhancement rank,,HIGH,No,P,N,,2000,,Yes,"Enhancement started earlier, fence started in 1999",,,No,Yes
-40253,1231,SAN JUAN RIVER,,,,48.560082,-124.398796,WVI,WVI,WVI+WVI,CK-31,VI,FALSE,Based on enhancement rank,,HIGH,No,P,Y,,1995,,No,poor coverage of spawning population,,,Yes,Yes
+40808,1297,THORNTON CREEK,,,,48.967016,-125.56259,WVI,WVI,WVI+WVI,CK-31,VI,FALSE,Based on enhancement rank,,HIGH,No,P,N,,1995,,Yes,Use 1995-2007,,,No,Yes
 40323,1238,GORDON RIVER,,,,48.57691,-124.414587,WVI,WVI,WVI+WVI,CK-31,VI,TRUE,Based on enhancement rank,,LOW,No,DD,N,,,,No,Inconsistent or insufficient survey methodology or effort 1995-present,,,No,No
 52868,1136,GRANITE BAY CREEK,,,,50.236722,-125.30371,SC,SFj,SC+SFj,CK-29,SC,TRUE,Based on enhancement rank,,UNK,No,DEL,N,,,,No,,,,No,No
 46111,201,GREEN RIVER,,,,50.301474,-122.7224,LILL,GStr,LILL+GStr,CK-04,FR,TRUE,Based on enhancement rank,,UNK,No,DD,N,,,,No,,,,No,No
@@ -163,7 +163,7 @@ POP_ID,GFE_ID,SYS_NM,Alt_SYS_NM,Alt2_SYS_NM,popMAP,yLAT,xLONG,faz_acro,maz_acro,
 39618,1421,JANSEN LAKE CREEK,,,,50.118205,-127.294389,WVI,WVI,WVI+WVI,CK-32,VI,TRUE,Based on enhancement rank,,UNK,No,DEL,N,,,,No,,,,No,No
 50054,733,JULY CREEK,,,49928,49.993837,-123.330478,SC,GStr,SC+GStr,CK-20,SC,TRUE,Based on enhancement rank,,UNK,No,AGG,N,,,,No,Aggregated with Squamish River,,,No,No
 50978,860,KAKWEIKEN RIVER,,,,50.814565,-126.010238,SC,SFj,SC+SFj,CK-28,SC,TRUE,Based on enhancement rank,,UNK,No,DD,N,,,,No,,,,Yes,No
-40458,1252,SARITA RIVER,,,,48.897885,-125.009097,WVI,WVI,WVI+WVI,CK-31,VI,FALSE,Based on enhancement rank,,HIGH,No,P,Y,,1995,,Yes,,,,Yes,Yes
+40798,1288,TOQUART RIVER,,,,49.034384,-125.356559,WVI,WVI,WVI+WVI,CK-31,VI,FALSE,Based on enhancement rank,,HIGH,No,P,N,,1995,,Yes,,,,No,Yes
 41813,1407,KAPOOSE CREEK,,,,49.947952,-127.220206,WVI,WVI,WVI+WVI,CK-32,VI,TRUE,Based on enhancement rank,,UNK,No,DEL,N,,,,No,,,,No,No
 40878,1418,KASHUTL RIVER,,,,50.195068,-127.309556,WVI,WVI,WVI+WVI,CK-32,VI,TRUE,Based on enhancement rank,,UNK,No,DD,N,,,,No,,,,No,No
 40868,1417,KAUWINCH RIVER,,,,50.144949,-127.26916,WVI,WVI,WVI+WVI,CK-32,VI,TRUE,Based on enhancement rank,,UNK,No,DD,Y,,,,No,Inconsistent or insufficient survey methodology or effort 1995-present,,,No,No
@@ -172,7 +172,7 @@ POP_ID,GFE_ID,SYS_NM,Alt_SYS_NM,Alt2_SYS_NM,popMAP,yLAT,xLONG,faz_acro,maz_acro,
 41538,1379,KENDRICK CREEK,,,,49.727387,-126.650121,WVI,WVI,WVI+WVI,CK-32,VI,TRUE,Based on enhancement rank,,UNK,No,DEL,N,,,,No,,,,No,No
 52088,1303,KENNEDY LAKE BEACHES,,,52118,49.041086,-125.591425,WVI,WVI,WVI+WVI,CK-31,VI,TRUE,Based on enhancement rank,,UNK,No,AGG,N,,,,No,Aggregated with Lower Kennedy River,,,No,No
 52098,7990617,KENNEDY LAKE FEEDER STREAMS,,,52118,49.128541,-125.435376,WVI,WVI,WVI+WVI,CK-31,VI,TRUE,Based on enhancement rank,,UNK,No,AGG,N,,,,No,Aggregated with Lower Kennedy River,,,No,No
-3306,11485,SOMASS-SPROAT-GC SYSTEM,Stamp River - Robertson Creek,,,49.246176,-124.820148,WVI,WVI,WVI+WVI,CK-31,VI,FALSE,Based on enhancement rank,,HIGH,Yes,P,N,,1995,1985,Yes,,1973,1972,No,No
+52218,1317,TRANQUIL CREEK,,,,49.21149,-125.671099,WVI,WVI,WVI+WVI,CK-31,VI,FALSE,Based on enhancement rank,,HIGH,No,P,Y,,1995,,Yes,Broodstock collection ended in 2000,,,No,Yes
 52108,1305,KENNEDY RIVER-UPPER,,,52118,49.128174,-125.433766,WVI,WVI,WVI+WVI,CK-31,VI,TRUE,Based on enhancement rank,,UNK,No,AGG,N,,,,No,Aggregated with Lower Kennedy River,,,No,Yes
 47467,161,KENNETH CREEK,,,,53.921136,-121.66242,UFR,GStr,UFR+GStr,CK-12,FR,TRUE,Based on enhancement rank,,UNK,No,DD,N,,,,No,checked? Sparse data,,,No,No
 52593,1108,KEOGH RIVER,,,,50.677423,-127.348231,EVI,SFj,EVI+SFj,CK-29,VI,TRUE,Based on enhancement rank,,UNK,No,DEL,N,,,,No,,,,No,No
@@ -189,7 +189,7 @@ POP_ID,GFE_ID,SYS_NM,Alt_SYS_NM,Alt2_SYS_NM,popMAP,yLAT,xLONG,faz_acro,maz_acro,
 45555,312,KUZKWA RIVER,,,,54.787687,-124.877244,MFR,GStr,MFR+GStr,CK-11,FR,TRUE,Based on enhancement rank,,UNK,No,P,N,,1999,,Yes,,,,No,No
 50908,853,KWALATE CREEK,,,,50.781434,-125.686111,SC,SFj,SC+SFj,CK-28,SC,TRUE,Based on enhancement rank,,UNK,No,DD,N,,,,No,,,,No,No
 49002,792,LANG CREEK,,,,49.776873,-124.370716,SC,GStr,SC+GStr,CK-9007,SC,FALSE,Based on enhancement rank,,HIGH-CROSS_CU,No,P,N,,1990,,Yes,"enhanced, high quality fence count",,,Yes,Yes
-40153,1221,SOOKE RIVER,,,,48.384884,-123.700099,WVI,WVI,WVI+WVI,CK-31,VI,FALSE,Based on enhancement rank,,HIGH,No,P,N,,1995,,Yes,"Use 1996-2002, 2005, 2007, 2010 only",,,No,Yes
+45190,7990630,BEDWELL SYSTEM,Bedwell River,,,49.388139,-125.760466,WVI,WVI,WVI+WVI,CK-31,VI,TRUE,Based on enhancement rank,Changed ENH from MOD to LOW based on area direction and LRP paper,LOW,No,P,Y,,1995,,Yes,,,,Yes,No
 46648,262,LEMIEUX CREEK,,,,51.423774,-120.200417,NTh,GStr,NTh+GStr,CK-19,FR,TRUE,Based on enhancement rank,,UNK,No,P,N,,1997,,Yes,Not reviewed,,,No,No
 40313,1237,LENS CREEK,,,40253,48.586929,-124.25706,WVI,WVI,WVI+WVI,CK-31,VI,TRUE,Based on enhancement rank,,UNK,No,AGG,N,,,,No,Aggregated with San Juan River,,,No,No
 47297,144,LIGHTNING CREEK,,,,53.016767,-122.112063,MFR,GStr,MFR+GStr,CK-10,FR,TRUE,Based on enhancement rank,,UNK,No,P,N,,,,,included in Cottonwood estimate,,,No,No
@@ -213,7 +213,7 @@ POP_ID,GFE_ID,SYS_NM,Alt_SYS_NM,Alt2_SYS_NM,popMAP,yLAT,xLONG,faz_acro,maz_acro,
 49933,709,MAMQUAM RIVER,,,49928,49.732181,-123.14798,SC,GStr,SC+GStr,CK-20,SC,TRUE,Based on enhancement rank,,UNK,No,AGG,N,,,,No,Aggregated with Squamish River,,,No,Yes
 49969,715,MAMQUAM SPAWNING CHANNEL,,,49928,49.731799,-123.130074,SC,GStr,SC+GStr,CK-20,SC,TRUE,Based on enhancement rank,,UNK,No,AGG,N,,,,No,Aggregated with Squamish River,,,No,No
 46678,265,MANN CREEK,,,,51.566457,-120.136607,NTh,GStr,NTh+GStr,CK-19,FR,TRUE,Based on enhancement rank,,UNK,No,DD,N,,,,No,,,,No,No
-40808,1297,THORNTON CREEK,,,,48.967016,-125.56259,WVI,WVI,WVI+WVI,CK-31,VI,FALSE,Based on enhancement rank,,HIGH,No,P,N,,1995,,Yes,Use 1995-2007,,,No,Yes
+40618,1270,NAHMINT RIVER,,,,49.061964,-124.882605,WVI,WVI,WVI+WVI,CK-31,VI,TRUE,Based on enhancement rank,Changed ENH from HIGH to LOW based on area direction and LRP paper,MOD,No,P,Y,,1995,,Yes,,,,Yes,Yes
 47096,104,MARIA SLOUGH,,,,49.227919,-121.733305,LFR,GStr,LFR+GStr,CK-07,FR,TRUE,Based on enhancement rank,,LOW,No,P,Y,,2011,,Yes,2002-present CN/CO surveys and estimates.,,,Yes,Yes
 41548,1380,MARVINAS BAY CREEK,,,,49.655921,-126.627559,WVI,WVI,WVI+WVI,CK-32,VI,TRUE,Based on enhancement rank,,UNK,No,DD,N,,,,No,,,,No,No
 49963,714,MASHITER CREEK,,,49928,49.733775,-123.114686,SC,GStr,SC+GStr,CK-20,SC,TRUE,Based on enhancement rank,,UNK,No,AGG,N,,,,No,Aggregated with Squamish River,,,No,No
@@ -225,7 +225,7 @@ POP_ID,GFE_ID,SYS_NM,Alt_SYS_NM,Alt2_SYS_NM,popMAP,yLAT,xLONG,faz_acro,maz_acro,
 45051,2401,MCKINLEY CREEK,,,46901,52.288943,-121.069347,MFR,GStr,MFR+GStr,CK-10,FR,TRUE,Based on enhancement rank,,UNK,No,AGG,N,,,,,Not reviewed,,,No,Yes
 50108,742,MCNAB CREEK,,,,49.562805,-123.381017,SC,GStr,SC+GStr,CK-20,SC,TRUE,Based on enhancement rank,,UNK,No,DEL,N,,,,No,,,,No,No
 46668,264,MCTAGGART CREEK,,,,51.411725,-120.12897,NTh,GStr,NTh+GStr,CK-18,FR,TRUE,Based on enhancement rank,,UNK,No,DEL,N,,,,,,,,No,No
-40798,1288,TOQUART RIVER,,,,49.034384,-125.356559,WVI,WVI,WVI+WVI,CK-31,VI,FALSE,Based on enhancement rank,,HIGH,No,P,N,,1995,,Yes,,,,No,Yes
+41178,1341,MEGIN RIVER,,,,49.437331,-126.085105,WVI,WVI,WVI+WVI,CK-31,VI,TRUE,Based on enhancement rank,,UNK,No,P,Y,,1995,,Yes,,,,Yes,No
 52898,1139,MENZIES CREEK,,,,50.138922,-125.392076,EVI,GStr,EVI+GStr,CK-29,SC,TRUE,Based on enhancement rank,,UNK,No,DD,N,,,,No,,,,No,No
 39608,1296,MERCANTILE CREEK,,,,48.962905,-125.557924,WVI,WVI,WVI+WVI,CK-31,VI,TRUE,Based on enhancement rank,,UNK,No,DD,N,,,,No,"No SILS 1995 to present, NI 2008-present",,,No,No
 164,2627,MESACHIE CREEK,,,40023,48.815708,-124.125347,EVI,GStr,EVI+GStr,CK-22,SC,TRUE,Based on enhancement rank,,UNK,No,AGG,N,,,,No,"Included with Cowichan River estimate, not aggregated",,,No,No
@@ -235,7 +235,7 @@ POP_ID,GFE_ID,SYS_NM,Alt_SYS_NM,Alt2_SYS_NM,popMAP,yLAT,xLONG,faz_acro,maz_acro,
 41288,1352,MOOYAH RIVER,,,,49.62784,-126.449494,WVI,WVI,WVI+WVI,CK-32,VI,TRUE,Based on enhancement rank,,LOW,No,DD,Y,,,,No,Inconsistent or insufficient survey methodology or effort 1995-present,,,No,Yes
 47528,168,MORKILL RIVER,,,,53.6126,-120.704238,UFR,GStr,UFR+GStr,CK-12,FR,TRUE,Based on enhancement rank,,LOW,No,P,Y,,1995,,Yes,,,,No,No
 53108,1160,MORRISON CREEK,,,53069,49.690287,-125.01072,EVI,GStr,EVI+GStr,CK-27,SC,TRUE,Based on enhancement rank,,UNK,No,AGG,N,,,,No,Aggregated with Puntledge River,,,No,No
-52218,1317,TRANQUIL CREEK,,,,49.21149,-125.671099,WVI,WVI,WVI+WVI,CK-31,VI,FALSE,Based on enhancement rank,,HIGH,No,P,Y,,1995,,Yes,Broodstock collection ended in 2000,,,No,Yes
+41123,1335,MOYEHA RIVER,,,,49.417736,-125.912659,WVI,WVI,WVI+WVI,CK-31,VI,TRUE,Based on enhancement rank,,UNK,No,P,Y,,1995,,Yes,,,,Yes,No
 40548,1261,SOMASS RIVER,,,3306,49.246176,-124.820148,WVI,WVI,WVI+WVI,CK-31,VI,FALSE,Based on enhancement rank,,HIGH,No,AGG,Y,,,,No,"Included with SOMASS-SPROAT-GC SYSTEM estimate, not aggregated",,,No,Yes
 52138,1308,MURIEL LAKE,,,52118,49.124046,-125.614759,WVI,WVI,WVI+WVI,CK-31,VI,TRUE,Based on enhancement rank,,UNK,No,AGG,N,,,,No,Aggregated with Lower Kennedy River,,,No,No
 47165,125,NAHATLATCH RIVER,,,,49.977915,-121.512032,FRCany,GStr,FRCany+GStr,CK-08,FR,TRUE,Based on enhancement rank,,UNK,No,P,N,,1997,,Yes,Ground Surveys - Aerial Survey in 2001 only.,,,No,No
@@ -300,9 +300,9 @@ POP_ID,GFE_ID,SYS_NM,Alt_SYS_NM,Alt2_SYS_NM,popMAP,yLAT,xLONG,faz_acro,maz_acro,
 47317,146,SALMON RIVER,Salmon River (MFR),,,54.067683,-122.558669,MFR,GStr,MFR+GStr,CK-12,FR,TRUE,Based on enhancement rank,,UNK,No,P,Y,,1995,,Yes,Not reviewed,,,Yes,Yes
 52718,1121,SALMON RIVER,Salmon River (JSN),,,50.378062,-125.944523,EVI,SFj,EVI+SFj,CK-29,VI,FALSE,Based on enhancement rank,,HIGH,No,P,Y,,1999,,Yes,,,,Yes,Yes
 42403,1489,SAN JOSEF RIVER,,,,50.678345,-128.25939,WVI,WQCI,WVI+WQCI,CK-33,VI,TRUE,Based on enhancement rank,,UNK,No,DEL,N,,,,No,,,,No,No
-41873,1413,ARTLISH RIVER,,,,50.116067,-127.084847,WVI,WVI,WVI+WVI,CK-32,VI,TRUE,Based on enhancement rank,,LOW,No,P,Y,,1995,,Yes,,,,Yes,Yes
-44536,2474,SAND RIVER,,,52118,49.113172,-125.501478,WVI,WVI,WVI+WVI,CK-31,VI,TRUE,Based on enhancement rank,,UNK,No,AGG,N,,,,No,Aggregated with Lower Kennedy River,,,No,No
 41438,1369,CONUMA RIVER,,,,49.794208,-126.440053,WVI,WVI,WVI+WVI,CK-32,VI,FALSE,Based on enhancement rank,,HIGH,No,P,Y,,1995,,Yes,,,,No,Yes
+44536,2474,SAND RIVER,,,52118,49.113172,-125.501478,WVI,WVI,WVI+WVI,CK-31,VI,TRUE,Based on enhancement rank,,UNK,No,AGG,N,,,,No,Aggregated with Lower Kennedy River,,,No,No
+41348,1358,GOLD RIVER,,,,49.680757,-126.112779,WVI,WVI,WVI+WVI,CK-32,VI,FALSE,Based on enhancement rank,,HIGH,No,P,Y,,,,No,Inconsistent or insufficient survey methodology or effort 1995-present,,,Yes,Yes
 46296,225,SCOTCH CREEK,,,,50.907093,-119.492157,STh,GStr,STh+GStr,CK-14,FR,TRUE,Based on enhancement rank,,UNK,No,DD,N,,,,,,,,No,No
 47357,150,SEEBACH CREEK,,,,54.239111,-121.858045,UFR,GStr,UFR+GStr,CK-12,FR,TRUE,Based on enhancement rank,,UNK,No,P,N,,1995,,Yes,,,,Yes,Yes
 2168,681,SERPENTINE RIVER,,,,49.081948,-122.852931,BB,GStr,BB+GStr,CK-02,SC,TRUE,Based on enhancement rank,,UNK,No,DD,N,,,,No,,,,No,Yes
@@ -331,9 +331,9 @@ POP_ID,GFE_ID,SYS_NM,Alt_SYS_NM,Alt2_SYS_NM,popMAP,yLAT,xLONG,faz_acro,maz_acro,
 40818,1298,SMITH CREEK,,,,48.978293,-125.574067,WVI,WVI,WVI+WVI,CK-31,VI,TRUE,Based on enhancement rank,,UNK,No,DD,N,,,,No,,,,No,No
 47519,167,SNOWSHOE CREEK,,,,53.622132,-120.761215,UFR,GStr,UFR+GStr,CK-12,FR,TRUE,Based on enhancement rank,,UNK,No,DD,N,,,,No,Not reviewed,,,No,No
 40638,1272,SNUG BASIN CREEK,,,,49.025178,-125.023664,WVI,WVI,WVI+WVI,CK-31,VI,TRUE,Based on enhancement rank,,UNK,No,DEL,N,,,,No,,,,No,No
-41348,1358,GOLD RIVER,,,,49.680757,-126.112779,WVI,WVI,WVI+WVI,CK-32,VI,FALSE,Based on enhancement rank,,HIGH,No,P,Y,,,,No,Inconsistent or insufficient survey methodology or effort 1995-present,,,Yes,Yes
+41713,1397,ZEBALLOS RIVER,,,,49.985267,-126.851338,WVI,WVI,WVI+WVI,CK-32,VI,FALSE,Based on enhancement rank,,HIGH,No,P,Y,,1995,,Yes,,,,No,Yes
 41458,1371,SUCWOA RIVER,,,,49.80357,-126.497941,WVI,WVI,WVI+WVI,CK-32,VI,FALSE,Based on enhancement rank,,HIGH,No,DD,Y,,1995,,Yes,,,,No,Yes
-41498,1375,LEINER RIVER,,,,49.912189,-126.643297,WVI,WVI,WVI+WVI,CK-32,VI,FALSE,Based on enhancement rank,,MOD,No,P,Y,,1995,,Yes,,,,Yes,Yes
+41873,1413,ARTLISH RIVER,,,,50.116067,-127.084847,WVI,WVI,WVI+WVI,CK-32,VI,TRUE,Based on enhancement rank,,LOW,No,P,Y,,1995,,Yes,,,,Yes,Yes
 46226,218,SOUTH THOMPSON RIVER,,,,50.680854,-120.33779,STh,GStr,STh+GStr,CK-13,FR,TRUE,Based on enhancement rank,,UNK,No,P,Y,,1997,,Yes,Not reviewed,,,Yes,Yes
 50548,817,SOUTHGATE RIVER,,,,50.886262,-124.791774,SC,SFj,SC+SFj,CK-28,SC,TRUE,Based on enhancement rank,,UNK,No,DD,N,,,,No,,,,Yes,No
 47417,156,SPAKWANIKO CREEK,,,47347,54.324624,-121.190466,UFR,GStr,UFR+GStr,CK-12,FR,TRUE,Based on enhancement rank,,UNK,No,AGG,N,,,,No,Sparse data.,,,No,No
@@ -347,7 +347,7 @@ POP_ID,GFE_ID,SYS_NM,Alt_SYS_NM,Alt2_SYS_NM,popMAP,yLAT,xLONG,faz_acro,maz_acro,
 46021,297,STELLAKO RIVER,,,,54.055641,-124.884468,MFR,GStr,MFR+GStr,CK-11,FR,TRUE,Based on enhancement rank,,UNK,No,P,Y,,,,No,Sparse data.,,,Yes,No
 42113,1460,STEPHENS CREEK,,,,50.602058,-127.571495,WVI,WQCI,WVI+WQCI,CK-33,VI,TRUE,Based on enhancement rank,,UNK,No,DEL,N,,,,No,,,,No,Yes
 45535,305,STUART RIVER,,,,53.988851,-123.540935,MFR,GStr,MFR+GStr,CK-11,FR,TRUE,Based on enhancement rank,,LOW,No,DD,Y,,,,No,,,,Yes,Yes
-41518,1377,TAHSIS RIVER,,,,49.924492,-126.65828,WVI,WVI,WVI+WVI,CK-32,VI,TRUE,Based on enhancement rank,Changed ENH from HIGH to LOW based on area direction and LRP paper,LOW,No,P,Y,,1995,,Yes,,,,Yes,Yes
+41518,1377,TAHSIS RIVER,,,,49.924492,-126.65828,WVI,WVI,WVI+WVI,CK-32,VI,TRUE,Based on enhancement rank,Changed ENH from HIGH to LOW based on area direction and LRP paper,MOD,No,P,Y,,1995,,Yes,,,,Yes,Yes
 40438,1250,SUGSAW CREEK,,,,48.837948,-125.105552,WVI,WVI,WVI+WVI,CK-31,VI,TRUE,Based on enhancement rank,,UNK,No,DEL,N,,,,No,,,,No,Yes
 2468,1991,SUS CREEK,,,47427,53.13808,-121.166187,UFR,GStr,UFR+GStr,CK-12,FR,TRUE,Based on enhancement rank,,UNK,No,AGG,N,,,,No,Not reviewed,,,No,No
 52298,1325,SUTTON MILL CREEK,,,,49.205403,-125.801834,WVI,WVI,WVI+WVI,CK-31,VI,TRUE,Based on enhancement rank,,UNK,No,DEL,N,,,,No,,,,No,No
@@ -355,7 +355,7 @@ POP_ID,GFE_ID,SYS_NM,Alt_SYS_NM,Alt2_SYS_NM,popMAP,yLAT,xLONG,faz_acro,maz_acro,
 2483,142,SWIFT RIVER,,,,53.119167,-122.610638,MFR,GStr,MFR+GStr,CK-10,FR,TRUE,Based on enhancement rank,,UNK,No,P,N,,,,,included in Cottonwood estimate,,,Yes,No
 41208,1344,SYDNEY RIVER,,,,49.513741,-126.296869,WVI,WVI,WVI+WVI,CK-31,VI,TRUE,Based on enhancement rank,,UNK,No,DD,N,,,,No,,,,No,No
 45550,309,TACHIE RIVER,,,45555,54.657821,-124.772069,MFR,GStr,MFR+GStr,CK-11,FR,TRUE,Based on enhancement rank,,UNK,No,AGG,N,,,,No,,,,No,No
-41863,1412,KAOUK RIVER,,,,50.063621,-127.098644,WVI,WVI,WVI+WVI,CK-32,VI,TRUE,Based on enhancement rank,,UNK,No,P,Y,,1995,,Yes,,,,Yes,Yes
+41498,1375,LEINER RIVER,,,,49.912189,-126.643297,WVI,WVI,WVI+WVI,CK-32,VI,FALSE,Based on enhancement rank,,MOD,No,P,Y,,1995,,Yes,,,,Yes,Yes
 41423,1367,TLUPANA RIVER,,,,49.755757,-126.385002,WVI,WVI,WVI+WVI,CK-32,VI,FALSE,Based on enhancement rank,,HIGH,No,DD,Y,,1995,,Yes,,,,No,Yes
 50498,812,TAHUMMING RIVER,,,,50.497784,-124.392101,SC,GStr,SC+GStr,CK-20,SC,TRUE,Based on enhancement rank,,UNK,No,DEL,N,,,,No,,,,No,No
 46861,287,TASEKO LAKE,,,,51.34893,-123.619087,MFR,GStr,MFR+GStr,CK-10,FR,TRUE,Based on enhancement rank,,UNK,No,DD,N,,,,No,Not reviewed,,,No,No
@@ -365,7 +365,7 @@ POP_ID,GFE_ID,SYS_NM,Alt_SYS_NM,Alt2_SYS_NM,popMAP,yLAT,xLONG,faz_acro,maz_acro,
 50014,724,TENDERFOOT CREEK,,,49928,49.817013,-123.1501,SC,GStr,SC+GStr,CK-20,SC,FALSE,Based on enhancement rank,,MOD,No,AGG,N,,,,No,Aggregated with Squamish River,,,No,Yes
 49082,800,THEODOSIA RIVER,,,,50.083025,-124.651821,SC,GStr,SC+GStr,CK-20,SC,FALSE,Based on enhancement rank,,MOD,No,DD,N,,,,No,,,,No,Yes
 46165,211,THOMPSON RIVER,,,,50.236956,-121.582161,LTh,GStr,LTh+GStr,CK-13,FR,TRUE,Based on enhancement rank,,UNK,No,P,Y,,1997,,Yes,Not reviewed,,,No,Yes
-41713,1397,ZEBALLOS RIVER,,,,49.985267,-126.851338,WVI,WVI,WVI+WVI,CK-32,VI,FALSE,Based on enhancement rank,,HIGH,No,P,Y,,1995,,Yes,,,,No,Yes
+41863,1412,KAOUK RIVER,,,,50.063621,-127.098644,WVI,WVI,WVI+WVI,CK-32,VI,TRUE,Based on enhancement rank,,UNK,No,P,Y,,1995,,Yes,,,,Yes,Yes
 46082,194,TIPELLA CREEK,,,,49.743156,-122.15088,LFR,GStr,LFR+GStr,CK-06,FR,TRUE,Based on enhancement rank,,UNK,No,DD,N,,,,No,Sparse data.,,,No,No
 41883,1414,TAHSISH RIVER,,,,50.140046,-127.105292,WVI,WVI,WVI+WVI,CK-32,VI,TRUE,Based on enhancement rank,,UNK,No,P,Y,,1995,,Yes,,,,Yes,No
 49802,808,TOBA RIVER,,,,50.497677,-124.350541,SC,GStr,SC+GStr,CK-20,SC,TRUE,Based on enhancement rank,,UNK,No,DD,N,,,,No,,,,No,No
