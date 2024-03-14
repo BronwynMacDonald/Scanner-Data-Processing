@@ -29131,15 +29131,15 @@
 "29130",2009,"CK-07","Chinook","Maria Slough_SU_0.3","IntStatus",NA,NA,NA,NA,NA,NA
 "29131",2010,"CK-07","Chinook","Maria Slough_SU_0.3","RapidStatus",NA,NA,NA,NA,NA,NA
 "29132",2010,"CK-07","Chinook","Maria Slough_SU_0.3","IntStatus",NA,NA,NA,NA,NA,NA
-"29133",2011,"CK-07","Chinook","Maria Slough_SU_0.3","RapidStatus",NA,NA,NA,NA,NA,NA
+"29133",2011,"CK-07","Chinook","Maria Slough_SU_0.3","RapidStatus",NA,NA,NA,NA,"Amber","Low"
 "29134",2011,"CK-07","Chinook","Maria Slough_SU_0.3","IntStatus",NA,NA,NA,NA,NA,NA
-"29135",2012,"CK-07","Chinook","Maria Slough_SU_0.3","RapidStatus",NA,NA,NA,NA,NA,NA
+"29135",2012,"CK-07","Chinook","Maria Slough_SU_0.3","RapidStatus",NA,NA,NA,NA,"Amber","Low"
 "29136",2012,"CK-07","Chinook","Maria Slough_SU_0.3","IntStatus",NA,NA,NA,NA,NA,NA
-"29137",2013,"CK-07","Chinook","Maria Slough_SU_0.3","RapidStatus",NA,NA,NA,NA,NA,NA
+"29137",2013,"CK-07","Chinook","Maria Slough_SU_0.3","RapidStatus",NA,NA,NA,NA,"Amber","Low"
 "29138",2013,"CK-07","Chinook","Maria Slough_SU_0.3","IntStatus",NA,NA,NA,NA,NA,NA
-"29139",2014,"CK-07","Chinook","Maria Slough_SU_0.3","RapidStatus",NA,NA,NA,NA,NA,NA
+"29139",2014,"CK-07","Chinook","Maria Slough_SU_0.3","RapidStatus",NA,NA,NA,NA,"Amber","Low"
 "29140",2014,"CK-07","Chinook","Maria Slough_SU_0.3","IntStatus",NA,NA,NA,NA,NA,NA
-"29141",2015,"CK-07","Chinook","Maria Slough_SU_0.3","RapidStatus",NA,NA,NA,NA,NA,NA
+"29141",2015,"CK-07","Chinook","Maria Slough_SU_0.3","RapidStatus",NA,NA,NA,NA,"Amber","Low"
 "29142",2015,"CK-07","Chinook","Maria Slough_SU_0.3","IntStatus",NA,NA,NA,NA,NA,NA
 "29143",2016,"CK-07","Chinook","Maria Slough_SU_0.3","RapidStatus",NA,NA,NA,NA,"Amber","Low"
 "29144",2016,"CK-07","Chinook","Maria Slough_SU_0.3","IntStatus",NA,NA,NA,NA,NA,NA
@@ -29305,9 +29305,9 @@
 "29304",2012,"CK-11","Chinook","Middle Fraser River_SU_1.3","IntStatus",NA,NA,NA,NA,"Amber",NA
 "29305",2013,"CK-11","Chinook","Middle Fraser River_SU_1.3","RapidStatus",NA,NA,NA,NA,"Red","Moderate"
 "29306",2013,"CK-11","Chinook","Middle Fraser River_SU_1.3","IntStatus",NA,NA,NA,NA,NA,NA
-"29307",2014,"CK-11","Chinook","Middle Fraser River_SU_1.3","RapidStatus",NA,NA,NA,NA,NA,NA
+"29307",2014,"CK-11","Chinook","Middle Fraser River_SU_1.3","RapidStatus",NA,NA,NA,NA,"Amber","Low"
 "29308",2014,"CK-11","Chinook","Middle Fraser River_SU_1.3","IntStatus",NA,NA,NA,NA,NA,NA
-"29309",2015,"CK-11","Chinook","Middle Fraser River_SU_1.3","RapidStatus",NA,NA,NA,NA,NA,NA
+"29309",2015,"CK-11","Chinook","Middle Fraser River_SU_1.3","RapidStatus",NA,NA,NA,NA,"Amber","Low"
 "29310",2015,"CK-11","Chinook","Middle Fraser River_SU_1.3","IntStatus",NA,NA,NA,NA,NA,NA
 "29311",2016,"CK-11","Chinook","Middle Fraser River_SU_1.3","RapidStatus",NA,NA,NA,NA,"Red","Moderate"
 "29312",2016,"CK-11","Chinook","Middle Fraser River_SU_1.3","IntStatus",NA,NA,NA,NA,NA,NA
@@ -29423,7 +29423,7 @@
 "29422",2020,"CK-18","Chinook","North Thompson_SP_1.3","IntStatus",NA,NA,NA,NA,NA,NA
 "29423",2021,"CK-18","Chinook","North Thompson_SP_1.3","RapidStatus",NA,NA,NA,NA,"Red","Moderate"
 "29424",2021,"CK-18","Chinook","North Thompson_SP_1.3","IntStatus",NA,NA,NA,NA,NA,NA
-"29425",2022,"CK-18","Chinook","North Thompson_SP_1.3","RapidStatus",NA,NA,NA,NA,NA,NA
+"29425",2022,"CK-18","Chinook","North Thompson_SP_1.3","RapidStatus",NA,NA,NA,NA,"Amber","Low"
 "29426",2022,"CK-18","Chinook","North Thompson_SP_1.3","IntStatus",NA,NA,NA,NA,NA,NA
 "29427",1995,"CK-19","Chinook","North Thompson_SU_1.3","RapidStatus",NA,NA,NA,NA,NA,NA
 "29428",1995,"CK-19","Chinook","North Thompson_SU_1.3","IntStatus",NA,NA,NA,NA,NA,NA
@@ -29635,7 +29635,7 @@
 "29634",2013,"CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2","IntStatus",NA,NA,NA,NA,NA,NA
 "29635",2014,"CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2","RapidStatus",NA,NA,NA,NA,"Red","Moderate"
 "29636",2014,"CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2","IntStatus",NA,NA,NA,NA,NA,NA
-"29637",2015,"CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2","RapidStatus",NA,NA,NA,NA,NA,NA
+"29637",2015,"CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2","RapidStatus",NA,NA,NA,NA,"Amber","Low"
 "29638",2015,"CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2","IntStatus",NA,NA,NA,NA,NA,NA
 "29639",2016,"CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2","RapidStatus",NA,NA,NA,NA,"Red","Moderate"
 "29640",2016,"CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2","IntStatus",NA,NA,NA,NA,NA,NA
@@ -32595,11 +32595,11 @@
 "32594",2000,"SEL-06-16","Sockeye","Taseko_ES","IntStatus",NA,NA,NA,NA,NA,NA
 "32595",2001,"SEL-06-16","Sockeye","Taseko_ES","RapidStatus",NA,NA,NA,NA,"Red","Moderate"
 "32596",2001,"SEL-06-16","Sockeye","Taseko_ES","IntStatus",NA,NA,NA,NA,NA,NA
-"32597",2002,"SEL-06-16","Sockeye","Taseko_ES","RapidStatus",NA,NA,NA,NA,NA,NA
+"32597",2002,"SEL-06-16","Sockeye","Taseko_ES","RapidStatus",NA,NA,NA,NA,"Amber","Low"
 "32598",2002,"SEL-06-16","Sockeye","Taseko_ES","IntStatus",NA,NA,NA,NA,NA,NA
-"32599",2003,"SEL-06-16","Sockeye","Taseko_ES","RapidStatus",NA,NA,NA,NA,NA,NA
+"32599",2003,"SEL-06-16","Sockeye","Taseko_ES","RapidStatus",NA,NA,NA,NA,"Amber","Low"
 "32600",2003,"SEL-06-16","Sockeye","Taseko_ES","IntStatus",NA,NA,NA,NA,NA,NA
-"32601",2004,"SEL-06-16","Sockeye","Taseko_ES","RapidStatus",NA,NA,NA,NA,NA,NA
+"32601",2004,"SEL-06-16","Sockeye","Taseko_ES","RapidStatus",NA,NA,NA,NA,"Amber","Low"
 "32602",2004,"SEL-06-16","Sockeye","Taseko_ES","IntStatus",NA,NA,NA,NA,NA,NA
 "32603",2005,"SEL-06-16","Sockeye","Taseko_ES","RapidStatus",NA,NA,NA,NA,"Amber","Low"
 "32604",2005,"SEL-06-16","Sockeye","Taseko_ES","IntStatus",NA,NA,NA,NA,NA,NA
