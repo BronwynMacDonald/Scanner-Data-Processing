@@ -1987,19 +1987,22 @@ if(dim(node16.df)[1] == 0){
 }
 #write.csv(node16.df,"test_node16.csv")
 
+# COMMENTED OUT MARCH 2024
 #NEW May 2023 For cases where have long trend but no short trend
-node32.na <- node16.df %>% dplyr::filter(is.na(PercChange))
-if(dim(node32.na)[1] > 0){
+#node32.na <- node16.df %>% dplyr::filter(is.na(PercChange))
+# ALSO REMOVED node32.na FROM THE OUTPUT OBJECT AT THE END
+#if(dim(node32.na)[1] > 0){
   #print("node 32 na")
-  node32.na$SynStatus <- "None"
-  node32.na$BinLabel <- "Node32.NA"
-  node32.na$BinPath <- "LongTrend > 79, but no ShortTrend, so no SynStatus"
+#  node32.na$SynStatus <- "None"
+#  node32.na$BinLabel <- "Node32.NA"
+#  node32.na$BinPath <- "LongTrend > 79, but no ShortTrend, so no SynStatus"
   #write.csv(node16.na,"test_node16NA.csv")
-}
+#}
 
-
-
-node32.df <- node16.df %>% dplyr::filter(PercChange >= -70)
+# REVISED MAR 2014 TO DEAL WITH FRASER CK CUs
+# CASES WITH NO SHORT TERM TREND
+# OLD: node32.df <- node16.df %>% dplyr::filter(PercChange >= -70)
+node32.df <- node16.df %>% dplyr::filter(PercChange >= -70 | is.na(PercChange))
 # not a leaf, so no status yet
 if(dim(node32.df)[1] == 0){
   node32.df$SynStatus <- character()
@@ -2035,7 +2038,7 @@ if(dim(node65.df)[1] > 0){
 }
 
 
-data.out <- rbind(node2.na,node16.na,node32.na,
+data.out <- rbind(node2.na,node16.na,#node32.na,# REMOVED MAR 2024
                   node3.df,node17.df,node19.df,
                   node20.df,node21.df,node22.df,node23.df,
                   node33.df,
