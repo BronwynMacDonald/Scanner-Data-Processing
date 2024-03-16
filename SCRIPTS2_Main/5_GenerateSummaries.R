@@ -106,7 +106,7 @@ cu.list
 
 
 for(cu.plot in cu.list){
-  #for(cu.plot in "CK-10"){
+#  for(cu.plot in "CK-04"){
   #"SkeenaNass-2"  # Meziadin
 
   print("_______________")
@@ -216,14 +216,23 @@ for(cu.plot in cu.list){
       axis(2,las=1,  cex.axis=1.5)
 
       # Plot BM lines
-      if(!bm.areas){
+      # TWEAKED 2024-03-16: Plot lines if main plot setting bm.areas is FALSE
+      # OR if have BM but area experts want to show them only for context, different from a metric
+      # For some Fraser cases where AbdMetric = FALSE but values are provided for
+      # variables RelAbd_LBM	and RelAbd_UBM
+      if(!bm.areas |  !cu.info.sub$AbdMetric ){  
         abline(h=lbm.plot/axis.scale,col="firebrick1",lwd=3,lty=2)
-        text(par("usr")[2],lbm.plot/axis.scale,"Lower", adj=c(1,0.5),col = "firebrick1",cex=1.2)
+        text(par("usr")[2],lbm.plot/axis.scale,"Lower\n(Ref Only)", 
+             adj=c(0.5,0.5),col = "firebrick1",cex=1.2,xpd=NA)
         abline(h=ubm.plot/axis.scale,col="green",lwd=3,lty=2)
-        text(par("usr")[2],ubm.plot/axis.scale,"Upper", adj=c(1,0.5),col = "green",cex=1.2)
+        text(par("usr")[2],ubm.plot/axis.scale,"Upper\n(Ref Only)", 
+        adj=c(0.5,0.5),col = "green",cex=1.2,xpd=NA)
       }
 
-      if(bm.areas){
+      
+      # TWEAKED 2024-03-16: as per above, only show areas if plot setting b,.areas = TRUE
+      # and AbdMetric = TRUE tp indicating to use Rel Abd metric for rapid status
+      if(bm.areas & cu.info.sub$AbdMetric){
         rect(par("usr")[1],lbm.plot/axis.scale, par("usr")[2],ubm.plot/axis.scale, col=amber.use,
              border = amber.use)
         rect(par("usr")[1],ubm.plot/axis.scale, par("usr")[2],par("usr")[4], col=green.use,
