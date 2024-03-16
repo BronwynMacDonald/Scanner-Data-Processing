@@ -112,7 +112,7 @@ POP_ID,GFE_ID,SYS_NM,Alt_SYS_NM,Alt2_SYS_NM,popMAP,yLAT,xLONG,faz_acro,maz_acro,
 40898,1420,ELAINE CREEK,,,,50.121057,-127.298483,WVI,WVI,WVI+WVI,CK-32,VI,TRUE,Based on enhancement rank,,UNK,No,DEL,N,,,,No,,,,No,No
 41783,1404,ELIZA CREEK,,,,49.944261,-127.049643,WVI,WVI,WVI+WVI,CK-32,VI,TRUE,Based on enhancement rank,,UNK,No,DD,N,,,,No,,,,No,No
 41773,1403,ELIZA EAST RIVER,,,,49.944858,-127.04388,WVI,WVI,WVI+WVI,CK-32,VI,TRUE,Based on enhancement rank,,UNK,No,DEL,N,,,,No,,,,No,No
-46871,288,ELKIN CREEK,,,,51.685887,-123.722479,MFR,GStr,MFR+GStr,CK-11,FR,TRUE,Based on enhancement rank,,UNK,No,DD,N,,,,No,"confirm if checked, not inspected anyway",,,No,No
+46871,288,ELKIN CREEK,,,,51.685887,-123.722479,MFR,GStr,MFR+GStr,CK-11,FR,TRUE,Based on enhancement rank,,UNK,No,P,N,,1995,,No,"confirm if checked, not inspected anyway",,,No,No
 45510,299,ENDAKO RIVER,,,,54.049835,-124.90405,MFR,GStr,MFR+GStr,CK-10,FR,TRUE,Based on enhancement rank,,MOD,No,P,N,,1995,,Yes,"2001,2002,2005,2006 does not include Shovel Cr. Fish",,,Yes,No
 51418,1184,ENGLISHMAN RIVER,,,,49.32911,-124.295001,EVI,GStr,EVI+GStr,CK-27,SC,FALSE,Based on enhancement rank,,HIGH,No,P,N,,1995,,Yes,,,,Yes,Yes
 41743,1400,ESPINOSA CREEK,,,,49.988767,-126.946635,WVI,WVI,WVI+WVI,CK-32,VI,TRUE,Based on enhancement rank,,UNK,No,DD,Y,,,,No,Inconsistent or insufficient survey methodology or effort 1995-present,,,No,No
@@ -359,7 +359,7 @@ POP_ID,GFE_ID,SYS_NM,Alt_SYS_NM,Alt2_SYS_NM,popMAP,yLAT,xLONG,faz_acro,maz_acro,
 41423,1367,TLUPANA RIVER,,,,49.755757,-126.385002,WVI,WVI,WVI+WVI,CK-32,VI,FALSE,Based on enhancement rank,,HIGH,No,DD,Y,,1995,,Yes,,,,No,Yes
 50498,812,TAHUMMING RIVER,,,,50.497784,-124.392101,SC,GStr,SC+GStr,CK-20,SC,TRUE,Based on enhancement rank,,UNK,No,DEL,N,,,,No,,,,No,No
 46861,287,TASEKO LAKE,,,,51.34893,-123.619087,MFR,GStr,MFR+GStr,CK-10,FR,TRUE,Based on enhancement rank,,UNK,No,DD,N,,,,No,Not reviewed,,,No,No
-2507,2636,TASEKO RIVER,,,,52.00673,-123.676998,MFR,GStr,MFR+GStr,CK-11,FR,TRUE,Based on enhancement rank,,UNK,No,DD,N,,,,No,,,,No,No
+2507,2636,TASEKO RIVER,,,,52.00673,-123.676998,MFR,GStr,MFR+GStr,CK-11,FR,TRUE,Based on enhancement rank,,UNK,No,P,N,,1995,,No,,,,No,No
 41793,1405,TATCHU CREEK,,,,49.882624,-127.175039,WVI,WVI,WVI+WVI,CK-32,VI,TRUE,Based on enhancement rank,,UNK,No,DEL,N,,,,No,,,,No,No
 50558,818,TEAQUAHAN RIVER,,,,50.930995,-124.840936,SC,SFj,SC+SFj,CK-28,SC,TRUE,Based on enhancement rank,,UNK,No,DD,N,,,,No,,,,No,No
 50014,724,TENDERFOOT CREEK,,,49928,49.817013,-123.1501,SC,GStr,SC+GStr,CK-20,SC,FALSE,Based on enhancement rank,,MOD,No,AGG,N,,,,No,Aggregated with Squamish River,,,No,Yes
