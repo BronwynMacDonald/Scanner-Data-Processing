@@ -28,7 +28,8 @@ plot.list
 for(plot.do in plot.list){
 
 specs.do <- plot.specs %>% dplyr::filter(Plot == plot.do) %>%
-              mutate(CU_ID = gsub("_","-",CU_ID))
+              mutate(CU_ID = gsub("_","-",CU_ID)) %>%
+              mutate(CU_Label = paste0(CU_Acro," (",CU_ID,")"))
 specs.do
 specs.do$CU_ID
 
@@ -51,22 +52,24 @@ par(mai=c(0.3,6,3,1))
  print(paste(plot.do,"-----------------------------"))
 
 
-plot(1:5,1:5, type="n",xlim = range(retro.yrs), ylim= c(-46,0) ,xlab="",ylab="",
+plot(1:5,1:5, type="n",xlim = range(retro.yrs), ylim= c(-46,-2) ,xlab="",ylab="",
      axes=FALSE)
 axis(3,at = pretty(retro.yrs))
-mtext(plot.do,side=3,line=2,xpd=NA,font=2,col="darkblue",cex=1.3)
+mtext(specs.do$PlotTitle ,side=3,line=2,xpd=NA,font=2,col="darkblue",cex=1.3)
 #abline(v=pretty(retro.yrs),col="darkgrey")
 
 abline(h=-specs.do$CUIndex,col="darkgrey")
 
 text(rep(par("usr")[1],length(specs.do$CUIndex)),
-     -specs.do$CUIndex, specs.do$CU_Acro,
+     -specs.do$CUIndex, specs.do$CU_Label,
      adj = c(1),xpd=NA,cex = 0.9)
 
+# only add these labels if have more than one group
+if(length(unique(specs.do$GroupIndex))>1){
 text(rep(retro.yrs[1]-4,length(grp.labels$GroupIndex)),
      -grp.labels$GroupIndex, grp.labels$Group,
      adj = 0,xpd=NA,cex = 0.9,font=2,col="darkblue")
-
+}
 
 
 for(cu.plot in specs.do$CU_ID){
@@ -74,7 +77,7 @@ print(cu.plot)
 
 #if(cu.plot == "SkeenaNass-13b"){stop()}
   
-specs.sub <- specs.do %>% dplyr::filter(CU_ID == cu.plot)
+specs.sub <- specs.do %>% dplyr::filter(CU_ID == cu.plot) 
 specs.sub
 
 #retro.sub <- retro.summary.tbl %>% dplyr::filter(CU_ID == cu.plot, Year <= 2019) %>% select(Year,RapidStatus)
