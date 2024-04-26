@@ -38,7 +38,6 @@ flat.skeenanass.sk.cu<- read.csv("DATA_PROCESSING/Cleaned_FlatFile_ByCU_SkeenaNa
 flat.ok.sk.cu <- read.csv("DATA_PROCESSING/Cleaned_FlatFile_ByCU_OkanaganSockeye.csv",stringsAsFactors = FALSE)
 
 
-
 flat.skeenanass.sk.cu %>% dplyr::filter(CU_Name == "Damdochax")
 flat.skeenanass.sk.cu %>% dplyr::filter(CU_Name == "Alastair")
 
@@ -71,7 +70,7 @@ sort(unique(flat.merged.cu$CU_Name))
 
 flat.merged.cu %>% dplyr::filter(CU_Name == "Damdochax")
 
-sum(flat.merged.cu$CU_Name=="OsoyoosLake-V1",na.rm=TRUE)
+sum(flat.merged.cu$CU_Name=="Osoyoos",na.rm=TRUE)
 
 # GP ADDED March 2023: Filter out any records before CU-specific start year
 start.yrs.df <-  read.csv("DATA_LOOKUP_FILES/MOD_MAIN_CU_LOOKUP_FOR_SOS.csv",stringsAsFactors = FALSE) %>%
@@ -79,6 +78,7 @@ start.yrs.df <-  read.csv("DATA_LOOKUP_FILES/MOD_MAIN_CU_LOOKUP_FOR_SOS.csv",str
 
 start.yrs.df
 
+unique(flat.merged.cu$CU_ID)
 
 flat.merged.cu <- flat.merged.cu %>%
                       mutate(CU_ID_Report = gsub("_","-", CU_ID)) %>%
@@ -92,7 +92,7 @@ sort(unique(flat.merged.cu$CU_Name))
 
 
 sort(unique(flat.merged.cu$CU_Name))
-sum(flat.merged.cu$CU_Name=="OsoyoosLake-V1",na.rm=TRUE)
+sum(flat.merged.cu$CU_Name=="Osoyoos Lake",na.rm=TRUE)
 
 
 

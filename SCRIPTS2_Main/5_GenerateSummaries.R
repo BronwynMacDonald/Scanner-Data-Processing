@@ -15,11 +15,6 @@
 
 
 
-
-
-
-
-
 library(tidyverse)
 library(plotrix)
 

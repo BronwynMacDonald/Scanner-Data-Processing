@@ -6,20 +6,21 @@ library(plotrix)
 plot(1,1, main=expression('Fraser Spring 4'["2"]*' Chinook')) 
 plot(1,1, main=bquote('Fraser Spring 4'['2']*' Chinook') )
 
-tmp.spec <- read_csv("DATA_LOOKUP_FILES/tmp_specs.csv")
-tmp.spec$Group[1]
+plot(1,1, main=parse(text= ' "Fraser Spring 4" ["2"] * " Chinook" '))
+
+
+# working
+label.use  <-  ' "Fraser Spring 4" ["2"] * " Chinook" '
+parse(text = label.use)
+plot(1,1, main=parse(text = label.use))
 
 # not working
-plot(1,1, main=expression(tmp.spec$Group[1])) 
-plot(1,1, main=bquote(tmp.spec$Group[1]) )
-
-plot(1,1, main=expression(paste(tmp.spec$Group[1])))
-plot(1,1, main=bquote(paste(tmp.spec$Group[1]) ))
-
+tmp.spec <- read.csv("DATA_LOOKUP_FILES/tmp_specs.csv")
 label.use <- tmp.spec$Group[1]
-eval(label.use)
-plot(1,1, main=expression(eval(label.use)))
-plot(1,1, main=bquote(eval(label.use) ))
+label.use
+parse(text = label.use)
+plot(1,1, main=parse(text = label.use))
+
 
 
 
