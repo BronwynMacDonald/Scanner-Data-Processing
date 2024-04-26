@@ -302,7 +302,7 @@
 "CU-14","Sockeye","Nahatlatch_ES",1998,"Abs_Abd",NA,"Amber","Green","Red",NA,"Green",NA,"Amber",NA,"Amber",4
 "CU-14","Sockeye","Nahatlatch_ES",1999,"Abs_Abd",NA,"Amber","Green","Red",NA,"Green",NA,"Amber",NA,"Amber",4
 "CU-14","Sockeye","Nahatlatch_ES",2000,"Abs_Abd",NA,"Amber","Green","Red",NA,"Green",NA,"Amber",NA,"Amber",4
-"CU-14","Sockeye","Nahatlatch_ES",2001,"Abs_Abd",NA,"Amber","Green","Green",NA,"Green",NA,"Amber",NA,"Amber",4
+"CU-14","Sockeye","Nahatlatch_ES",2001,"Abs_Abd",NA,"Amber","Green","Amber",NA,"Green",NA,"Amber",NA,"Amber",4
 "CU-14","Sockeye","Nahatlatch_ES",2002,"Abs_Abd",NA,"Amber","Green","Green",NA,"Green",NA,"Amber",NA,"Amber",4
 "CU-14","Sockeye","Nahatlatch_ES",2003,"Abs_Abd",NA,"Amber","Green","Green",NA,"Green",NA,"Amber",NA,"Amber",4
 "CU-14","Sockeye","Nahatlatch_ES",2004,"Abs_Abd",NA,"Amber","Green","Green",NA,"Green",NA,"Amber",NA,"Amber",4
@@ -640,7 +640,7 @@
 "CK-04","Chinook","Lower Fraser River_SP_1.3",2011,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2
 "CK-04","Chinook","Lower Fraser River_SP_1.3",2012,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2
 "CK-04","Chinook","Lower Fraser River_SP_1.3",2013,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2
-"CK-04","Chinook","Lower Fraser River_SP_1.3",2014,"Rel_Idx",NA,NA,"Green","Amber",NA,NA,NA,NA,NA,NA,2
+"CK-04","Chinook","Lower Fraser River_SP_1.3",2014,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2
 "CK-04","Chinook","Lower Fraser River_SP_1.3",2015,"Rel_Idx",NA,NA,"Green","Red",NA,NA,NA,NA,NA,NA,2
 "CK-04","Chinook","Lower Fraser River_SP_1.3",2016,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2
 "CK-04","Chinook","Lower Fraser River_SP_1.3",2017,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2
@@ -726,41 +726,41 @@
 "CK-07","Chinook","Maria Slough_SU_0.3",2013,"Rel_Idx",NA,NA,"Green",NA,NA,NA,NA,NA,NA,NA,1
 "CK-07","Chinook","Maria Slough_SU_0.3",2014,"Rel_Idx",NA,NA,"Green",NA,NA,NA,NA,NA,NA,NA,1
 "CK-07","Chinook","Maria Slough_SU_0.3",2015,"Rel_Idx",NA,NA,"Green",NA,NA,NA,NA,NA,NA,NA,1
-"CK-07","Chinook","Maria Slough_SU_0.3",2016,"Rel_Idx",NA,NA,"Green","Amber",NA,NA,NA,NA,NA,NA,2
+"CK-07","Chinook","Maria Slough_SU_0.3",2016,"Rel_Idx",NA,NA,"Green","Red",NA,NA,NA,NA,NA,NA,2
 "CK-07","Chinook","Maria Slough_SU_0.3",2017,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2
 "CK-07","Chinook","Maria Slough_SU_0.3",2018,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2
 "CK-07","Chinook","Maria Slough_SU_0.3",2019,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2
 "CK-07","Chinook","Maria Slough_SU_0.3",2020,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2
 "CK-07","Chinook","Maria Slough_SU_0.3",2021,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2
 "CK-07","Chinook","Maria Slough_SU_0.3",2022,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2
-"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",1995,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
-"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",1996,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
-"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",1997,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
-"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",1998,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
-"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",1999,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
-"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2000,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
-"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2001,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
-"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2002,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
-"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2003,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
-"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2004,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
-"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2005,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
-"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2006,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
-"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2007,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
-"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2008,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
-"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2009,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
-"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2010,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
-"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2011,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
-"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2012,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
-"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2013,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
-"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2014,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
-"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2015,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
-"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2016,"Abs_Abd",NA,NA,"Amber",NA,NA,NA,NA,NA,NA,NA,1
-"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2017,"Abs_Abd",NA,NA,"Red",NA,NA,NA,NA,NA,NA,NA,1
-"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2018,"Abs_Abd",NA,NA,"Red",NA,NA,NA,NA,NA,NA,NA,1
-"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2019,"Abs_Abd",NA,NA,"Amber",NA,NA,NA,NA,NA,NA,NA,1
-"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2020,"Abs_Abd",NA,NA,"Green",NA,NA,NA,NA,NA,NA,NA,1
-"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2021,"Abs_Abd",NA,NA,"Green",NA,NA,NA,NA,NA,NA,NA,1
-"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2022,"Abs_Abd",NA,NA,"Green",NA,NA,NA,NA,NA,NA,NA,1
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",1995,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",1996,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",1997,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",1998,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",1999,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2000,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2001,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2002,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2003,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2004,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2005,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2006,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2007,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2008,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2009,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2010,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2011,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2012,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2013,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2014,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2015,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2016,"Rel_Idx",NA,NA,"Amber",NA,NA,NA,NA,NA,NA,NA,1
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2017,"Rel_Idx",NA,NA,"Red",NA,NA,NA,NA,NA,NA,NA,1
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2018,"Rel_Idx",NA,NA,"Red",NA,NA,NA,NA,NA,NA,NA,1
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2019,"Rel_Idx",NA,NA,"Amber",NA,NA,NA,NA,NA,NA,NA,1
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2020,"Rel_Idx",NA,NA,"Green",NA,NA,NA,NA,NA,NA,NA,1
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2021,"Rel_Idx",NA,NA,"Green",NA,NA,NA,NA,NA,NA,NA,1
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2022,"Rel_Idx",NA,NA,"Green",NA,NA,NA,NA,NA,NA,NA,1
 "CK-09","Chinook","Middle Fraser River-Portage_FA_1.3",1995,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
 "CK-09","Chinook","Middle Fraser River-Portage_FA_1.3",1996,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
 "CK-09","Chinook","Middle Fraser River-Portage_FA_1.3",1997,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
@@ -1086,7 +1086,7 @@
 "CK-29","Chinook","East Vancouver Island-North_FA_0.x",2009,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
 "CK-29","Chinook","East Vancouver Island-North_FA_0.x",2010,"Rel_Idx",NA,NA,NA,"Red",NA,NA,NA,NA,NA,NA,1
 "CK-29","Chinook","East Vancouver Island-North_FA_0.x",2011,"Rel_Idx",NA,NA,NA,"Amber",NA,NA,NA,NA,NA,NA,1
-"CK-29","Chinook","East Vancouver Island-North_FA_0.x",2012,"Rel_Idx",NA,NA,NA,"Amber",NA,NA,NA,NA,NA,NA,1
+"CK-29","Chinook","East Vancouver Island-North_FA_0.x",2012,"Rel_Idx",NA,NA,NA,"Green",NA,NA,NA,NA,NA,NA,1
 "CK-29","Chinook","East Vancouver Island-North_FA_0.x",2013,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2
 "CK-29","Chinook","East Vancouver Island-North_FA_0.x",2014,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2
 "CK-29","Chinook","East Vancouver Island-North_FA_0.x",2015,"Rel_Idx",NA,NA,"Amber","Green",NA,NA,NA,NA,NA,NA,2
@@ -1409,7 +1409,7 @@
 "CM-02","Chum","Lower Fraser Chum",2014,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
 "CM-02","Chum","Lower Fraser Chum",2015,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
 "CM-02","Chum","Lower Fraser Chum",2016,"Rel_Idx",NA,NA,NA,"Red",NA,NA,NA,NA,NA,NA,1
-"CM-02","Chum","Lower Fraser Chum",2017,"Rel_Idx",NA,NA,NA,"Red",NA,NA,NA,NA,NA,NA,1
+"CM-02","Chum","Lower Fraser Chum",2017,"Rel_Idx",NA,NA,NA,"Amber",NA,NA,NA,NA,NA,NA,1
 "CM-02","Chum","Lower Fraser Chum",2018,"Rel_Idx",NA,NA,NA,"Green",NA,NA,NA,NA,NA,NA,1
 "CM-02","Chum","Lower Fraser Chum",2019,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2
 "CM-02","Chum","Lower Fraser Chum",2020,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2
@@ -2002,3 +2002,90 @@
 "SkeenaNass-7","Sockeye","Upper Nass River Type",2020,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
 "SkeenaNass-7","Sockeye","Upper Nass River Type",2021,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
 "SkeenaNass-7","Sockeye","Upper Nass River Type",2022,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"OsoSkaInd","Sockeye","Osoyoos-Skaha Indicator",1995,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"OsoSkaInd","Sockeye","Osoyoos-Skaha Indicator",1996,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"OsoSkaInd","Sockeye","Osoyoos-Skaha Indicator",1997,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"OsoSkaInd","Sockeye","Osoyoos-Skaha Indicator",1998,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"OsoSkaInd","Sockeye","Osoyoos-Skaha Indicator",1999,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"OsoSkaInd","Sockeye","Osoyoos-Skaha Indicator",2000,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"OsoSkaInd","Sockeye","Osoyoos-Skaha Indicator",2001,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"OsoSkaInd","Sockeye","Osoyoos-Skaha Indicator",2002,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"OsoSkaInd","Sockeye","Osoyoos-Skaha Indicator",2003,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"OsoSkaInd","Sockeye","Osoyoos-Skaha Indicator",2004,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"OsoSkaInd","Sockeye","Osoyoos-Skaha Indicator",2005,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"OsoSkaInd","Sockeye","Osoyoos-Skaha Indicator",2006,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"OsoSkaInd","Sockeye","Osoyoos-Skaha Indicator",2007,"Abs_Abd","Red",NA,NA,NA,NA,NA,"Red",NA,"Red",NA,2
+"OsoSkaInd","Sockeye","Osoyoos-Skaha Indicator",2008,"Abs_Abd","Amber",NA,NA,NA,NA,NA,"Amber",NA,"Amber",NA,2
+"OsoSkaInd","Sockeye","Osoyoos-Skaha Indicator",2009,"Abs_Abd","Amber",NA,NA,NA,NA,NA,"Amber",NA,"Amber",NA,2
+"OsoSkaInd","Sockeye","Osoyoos-Skaha Indicator",2010,"Abs_Abd","Green",NA,NA,NA,NA,NA,"Green",NA,"Green",NA,2
+"OsoSkaInd","Sockeye","Osoyoos-Skaha Indicator",2011,"Abs_Abd","Green",NA,NA,NA,NA,NA,"Green",NA,"Green",NA,2
+"OsoSkaInd","Sockeye","Osoyoos-Skaha Indicator",2012,"Abs_Abd","Green",NA,NA,NA,NA,NA,"Green",NA,"Green",NA,2
+"OsoSkaInd","Sockeye","Osoyoos-Skaha Indicator",2013,"Abs_Abd","Green",NA,NA,NA,NA,NA,"Green",NA,"Green",NA,2
+"OsoSkaInd","Sockeye","Osoyoos-Skaha Indicator",2014,"Abs_Abd","Green",NA,NA,NA,NA,NA,"Green",NA,"Green",NA,2
+"OsoSkaInd","Sockeye","Osoyoos-Skaha Indicator",2015,"Abs_Abd","Green",NA,NA,"Green",NA,NA,"Green",NA,"Green",NA,3
+"OsoSkaInd","Sockeye","Osoyoos-Skaha Indicator",2016,"Abs_Abd","Green",NA,NA,"Green",NA,NA,"Green",NA,"Green",NA,3
+"OsoSkaInd","Sockeye","Osoyoos-Skaha Indicator",2017,"Abs_Abd","Green",NA,NA,"Green",NA,NA,"Green",NA,"Green",NA,3
+"OsoSkaInd","Sockeye","Osoyoos-Skaha Indicator",2018,"Abs_Abd","Amber",NA,NA,"Green",NA,NA,"Amber",NA,"Amber",NA,3
+"OsoSkaInd","Sockeye","Osoyoos-Skaha Indicator",2019,"Abs_Abd","Amber",NA,NA,"Red",NA,NA,"Amber",NA,"Amber",NA,3
+"OsoSkaInd","Sockeye","Osoyoos-Skaha Indicator",2020,"Abs_Abd","Amber",NA,NA,"Red",NA,NA,"Amber",NA,"Amber",NA,3
+"OsoSkaInd","Sockeye","Osoyoos-Skaha Indicator",2021,"Abs_Abd","Amber",NA,"Green","Red",NA,NA,"Amber",NA,"Amber",NA,4
+"OsoSkaInd","Sockeye","Osoyoos-Skaha Indicator",2022,"Abs_Abd","Amber",NA,"Green","Red",NA,NA,"Amber",NA,"Amber",NA,4
+"OsoSkaInd","Sockeye","Osoyoos-Skaha Indicator",2023,"Abs_Abd","Amber",NA,"Green","Red",NA,NA,"Amber",NA,"Amber",NA,4
+"OsoSkaOkaCU","Sockeye","Osoyoos-Skaha-Okanagan CU",1995,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"OsoSkaOkaCU","Sockeye","Osoyoos-Skaha-Okanagan CU",1996,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"OsoSkaOkaCU","Sockeye","Osoyoos-Skaha-Okanagan CU",1997,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"OsoSkaOkaCU","Sockeye","Osoyoos-Skaha-Okanagan CU",1998,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"OsoSkaOkaCU","Sockeye","Osoyoos-Skaha-Okanagan CU",1999,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"OsoSkaOkaCU","Sockeye","Osoyoos-Skaha-Okanagan CU",2000,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"OsoSkaOkaCU","Sockeye","Osoyoos-Skaha-Okanagan CU",2001,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"OsoSkaOkaCU","Sockeye","Osoyoos-Skaha-Okanagan CU",2002,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"OsoSkaOkaCU","Sockeye","Osoyoos-Skaha-Okanagan CU",2003,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"OsoSkaOkaCU","Sockeye","Osoyoos-Skaha-Okanagan CU",2004,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"OsoSkaOkaCU","Sockeye","Osoyoos-Skaha-Okanagan CU",2005,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"OsoSkaOkaCU","Sockeye","Osoyoos-Skaha-Okanagan CU",2006,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"OsoSkaOkaCU","Sockeye","Osoyoos-Skaha-Okanagan CU",2007,"Abs_Abd","Red","Green",NA,NA,NA,NA,"Red","Green","Red","Green",4
+"OsoSkaOkaCU","Sockeye","Osoyoos-Skaha-Okanagan CU",2008,"Abs_Abd","Red","Green",NA,NA,NA,NA,"Red","Green","Red","Green",4
+"OsoSkaOkaCU","Sockeye","Osoyoos-Skaha-Okanagan CU",2009,"Abs_Abd","Amber","Green",NA,NA,NA,NA,"Amber","Green","Amber","Green",4
+"OsoSkaOkaCU","Sockeye","Osoyoos-Skaha-Okanagan CU",2010,"Abs_Abd","Amber","Green",NA,NA,NA,NA,"Amber","Green","Amber","Green",4
+"OsoSkaOkaCU","Sockeye","Osoyoos-Skaha-Okanagan CU",2011,"Abs_Abd","Green","Green",NA,NA,NA,NA,"Green","Green","Green","Green",4
+"OsoSkaOkaCU","Sockeye","Osoyoos-Skaha-Okanagan CU",2012,"Abs_Abd","Green","Green",NA,NA,NA,NA,"Green","Green","Green","Green",4
+"OsoSkaOkaCU","Sockeye","Osoyoos-Skaha-Okanagan CU",2013,"Abs_Abd","Green","Green",NA,NA,NA,NA,"Green","Green","Green","Green",4
+"OsoSkaOkaCU","Sockeye","Osoyoos-Skaha-Okanagan CU",2014,"Abs_Abd","Green","Green",NA,NA,NA,NA,"Green","Green","Green","Green",4
+"OsoSkaOkaCU","Sockeye","Osoyoos-Skaha-Okanagan CU",2015,"Abs_Abd","Amber","Green",NA,"Green",NA,NA,"Amber","Green","Amber","Green",5
+"OsoSkaOkaCU","Sockeye","Osoyoos-Skaha-Okanagan CU",2016,"Abs_Abd","Amber","Green",NA,"Green",NA,NA,"Amber","Green","Amber","Green",5
+"OsoSkaOkaCU","Sockeye","Osoyoos-Skaha-Okanagan CU",2017,"Abs_Abd","Amber","Green",NA,"Green",NA,NA,"Amber","Green","Amber","Green",5
+"OsoSkaOkaCU","Sockeye","Osoyoos-Skaha-Okanagan CU",2018,"Abs_Abd","Amber","Green",NA,"Green",NA,NA,"Amber","Green","Amber","Green",5
+"OsoSkaOkaCU","Sockeye","Osoyoos-Skaha-Okanagan CU",2019,"Abs_Abd","Amber","Green",NA,"Red",NA,NA,"Amber","Green","Amber","Green",5
+"OsoSkaOkaCU","Sockeye","Osoyoos-Skaha-Okanagan CU",2020,"Abs_Abd","Amber","Green",NA,"Red",NA,NA,"Amber","Green","Amber","Green",5
+"OsoSkaOkaCU","Sockeye","Osoyoos-Skaha-Okanagan CU",2021,"Abs_Abd","Amber","Green","Green","Red",NA,NA,"Amber","Green","Amber","Green",6
+"OsoSkaOkaCU","Sockeye","Osoyoos-Skaha-Okanagan CU",2022,"Abs_Abd","Amber","Green","Green","Red",NA,NA,"Amber","Green","Amber","Green",6
+"OsoSkaOkaCU","Sockeye","Osoyoos-Skaha-Okanagan CU",2023,"Abs_Abd","Amber","Green","Green","Red",NA,NA,"Amber","Green","Amber","Green",6
+"Osoyoos","Sockeye","Osoyoos Lake",1995,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"Osoyoos","Sockeye","Osoyoos Lake",1996,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"Osoyoos","Sockeye","Osoyoos Lake",1997,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"Osoyoos","Sockeye","Osoyoos Lake",1998,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"Osoyoos","Sockeye","Osoyoos Lake",1999,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"Osoyoos","Sockeye","Osoyoos Lake",2000,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"Osoyoos","Sockeye","Osoyoos Lake",2001,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"Osoyoos","Sockeye","Osoyoos Lake",2002,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"Osoyoos","Sockeye","Osoyoos Lake",2003,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"Osoyoos","Sockeye","Osoyoos Lake",2004,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"Osoyoos","Sockeye","Osoyoos Lake",2005,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"Osoyoos","Sockeye","Osoyoos Lake",2006,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"Osoyoos","Sockeye","Osoyoos Lake",2007,"Abs_Abd","Amber",NA,NA,NA,NA,NA,"Amber",NA,"Amber",NA,2
+"Osoyoos","Sockeye","Osoyoos Lake",2008,"Abs_Abd","Amber",NA,NA,NA,NA,NA,"Amber",NA,"Amber",NA,2
+"Osoyoos","Sockeye","Osoyoos Lake",2009,"Abs_Abd","Amber",NA,NA,NA,NA,NA,"Amber",NA,"Amber",NA,2
+"Osoyoos","Sockeye","Osoyoos Lake",2010,"Abs_Abd","Green",NA,NA,NA,NA,NA,"Green",NA,"Green",NA,2
+"Osoyoos","Sockeye","Osoyoos Lake",2011,"Abs_Abd","Green",NA,NA,NA,NA,NA,"Green",NA,"Green",NA,2
+"Osoyoos","Sockeye","Osoyoos Lake",2012,"Abs_Abd","Green",NA,NA,NA,NA,NA,"Green",NA,"Green",NA,2
+"Osoyoos","Sockeye","Osoyoos Lake",2013,"Abs_Abd","Green",NA,NA,NA,NA,NA,"Green",NA,"Green",NA,2
+"Osoyoos","Sockeye","Osoyoos Lake",2014,"Abs_Abd","Green",NA,NA,NA,NA,NA,"Green",NA,"Green",NA,2
+"Osoyoos","Sockeye","Osoyoos Lake",2015,"Abs_Abd","Green",NA,NA,"Green",NA,NA,"Green",NA,"Green",NA,3
+"Osoyoos","Sockeye","Osoyoos Lake",2016,"Abs_Abd","Amber",NA,NA,"Green",NA,NA,"Amber",NA,"Amber",NA,3
+"Osoyoos","Sockeye","Osoyoos Lake",2017,"Abs_Abd","Amber",NA,NA,"Red",NA,NA,"Amber",NA,"Amber",NA,3
+"Osoyoos","Sockeye","Osoyoos Lake",2018,"Abs_Abd","Red",NA,NA,"Red",NA,NA,"Red",NA,"Red",NA,3
+"Osoyoos","Sockeye","Osoyoos Lake",2019,"Abs_Abd","Amber",NA,NA,"Red",NA,NA,"Amber",NA,"Amber",NA,3
+"Osoyoos","Sockeye","Osoyoos Lake",2020,"Abs_Abd","Red",NA,NA,"Red",NA,NA,"Red",NA,"Red",NA,3
+"Osoyoos","Sockeye","Osoyoos Lake",2021,"Abs_Abd","Red",NA,"Amber","Red",NA,NA,"Red",NA,"Red",NA,4
+"Osoyoos","Sockeye","Osoyoos Lake",2022,"Abs_Abd","Amber",NA,"Amber","Red",NA,NA,"Amber",NA,"Amber",NA,4
+"Osoyoos","Sockeye","Osoyoos Lake",2023,"Abs_Abd","Amber",NA,"Amber","Red",NA,NA,"Amber",NA,"Amber",NA,4

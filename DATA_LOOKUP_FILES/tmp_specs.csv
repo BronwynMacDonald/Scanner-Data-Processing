@@ -1,8 +1,8 @@
 Plot,PlotTitle,GroupIndex,CUIndex,Species,CU_ID,CU_Name,Group,CU_Acro
-CK_SMU_FraserSpring_4_2,Chinook - Fraser Spring 1.2 (4_2),1,2,Chinook,CK_16,South Thompson-Bessette Creek_SU_1.2,"Fraser Spring 4'[""2""]*' Chinook",STh-BESS
-CK_SMU_FraserSpring_4_2,Chinook - Fraser Spring 1.2 (4_2),1,3,Chinook,CK_17,Lower Thompson_SP_1.2,"Fraser Spring 4'[""2""]*' Chinook",LTh
-CK_SMU_FraserSpring_5_2,Chinook - Fraser Spring 1.3 (5_2),1,2,Chinook,CK_04,Lower Fraser River_SP_1.3,"Fraser Spring 4'[""2""]*' Chinook",LFR-spring
-CK_SMU_FraserSpring_5_2,Chinook - Fraser Spring 1.3 (5_2),1,3,Chinook,CK_08,Middle Fraser-Fraser Canyon_SP_1.3,"Fraser Spring 4'[""2""]*' Chinook",FRCanyon
-CK_SMU_FraserSpring_5_2,Chinook - Fraser Spring 1.3 (5_2),1,4,Chinook,CK_10,Middle Fraser River_SP_1.3,"Fraser Spring 4'[""2""]*' Chinook",MFR-spring
-CK_SMU_FraserSpring_5_2,Chinook - Fraser Spring 1.3 (5_2),1,5,Chinook,CK_12,Upper Fraser River_SP_1.3,"Fraser Spring 4'[""2""]*' Chinook",UFR-spring
-CK_SMU_FraserSpring_5_2,Chinook - Fraser Spring 1.3 (5_2),1,6,Chinook,CK_18,North Thompson_SP_1.3,"Fraser Spring 4'[""2""]*' Chinook",NTh-spr
+CK_SMU_FraserSpring_4_2,Chinook - Fraser Spring 1.2 (4_2),1,2,Chinook,CK_16,South Thompson-Bessette Creek_SU_1.2,' "Fraser Spring 4" ["2"] * " Chinook" ',STh-BESS
+CK_SMU_FraserSpring_4_2,Chinook - Fraser Spring 1.2 (4_2),1,3,Chinook,CK_17,Lower Thompson_SP_1.2,' "Fraser Spring 4" ["2"] * " Chinook" ',LTh
+CK_SMU_FraserSpring_5_2,Chinook - Fraser Spring 1.3 (5_2),1,2,Chinook,CK_04,Lower Fraser River_SP_1.3,' "Fraser Spring 4" ["2"] * " Chinook" ',LFR-spring
+CK_SMU_FraserSpring_5_2,Chinook - Fraser Spring 1.3 (5_2),1,3,Chinook,CK_08,Middle Fraser-Fraser Canyon_SP_1.3,' "Fraser Spring 4" ["2"] * " Chinook" ',FRCanyon
+CK_SMU_FraserSpring_5_2,Chinook - Fraser Spring 1.3 (5_2),1,4,Chinook,CK_10,Middle Fraser River_SP_1.3,' "Fraser Spring 4" ["2"] * " Chinook" ',MFR-spring
+CK_SMU_FraserSpring_5_2,Chinook - Fraser Spring 1.3 (5_2),1,5,Chinook,CK_12,Upper Fraser River_SP_1.3,' "Fraser Spring 4" ["2"] * " Chinook" ',UFR-spring
+CK_SMU_FraserSpring_5_2,Chinook - Fraser Spring 1.3 (5_2),1,6,Chinook,CK_18,North Thompson_SP_1.3,' "Fraser Spring 4" ["2"] * " Chinook" ',NTh-spr
