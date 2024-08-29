@@ -5,9 +5,23 @@
 # datastage: "All", "Approved", "Explore", "Prep", c(list stages to include)
 # runAllout: set to FALSE to just run dashboards 
 
+if(FALSE){
+# if want to rerun all the data prep,   
+  source("SCRIPTS1_Prep/Prep3_CleanedFlatFile_SBC_Ck.R")
+  source("SCRIPTS1_Prep/Prep4_CleanedFlatFile_Fraser_Sk.R")
+  source("SCRIPTS1_Prep/Prep5_CleanedFlatFile_Fraser_Coho.R")
+  source("SCRIPTS1_Prep/Prep6_Create Fraser Pink_2.R")
+  source("SCRIPTS1_Prep/Prep7_Create Fraser Chum2.R")
+  source("SCRIPTS1_Prep/Prep8_Create ISC Chum FlatFile.R")
+  source("SCRIPTS1_Prep/Prep9_PrepCleanedFlatFile_SkeenaNassSockeye.R")
+  source("SCRIPTS1_Prep/Prep10_PrepCleanedFlatFile_OkanaganSockeye.R")  
+}
+
+
 
 # NEED A CLEAR_OUTPUT() FUNCTION
-# Testing the steps. THis seems to work. Just need to add all the locations we want to clear
+# Testing the steps. THis seems to work, but giving some weird "permission denied" warnings. 
+# Still need to add all the locations we want to clear
 if(FALSE){
   
   out.files <- c(list.files("OUTPUT/DASHBOARDS", include.dirs = T, full.names = T, recursive = T),
