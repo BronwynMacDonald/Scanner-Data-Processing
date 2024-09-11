@@ -12,7 +12,7 @@ retro.summary.tbl <- read_csv(paste0("OUTPUT/DASHBOARDS/Retro_Synoptic_Details_"
 
 plot.specs <- read_csv("DATA_LOOKUP_FILES/SMU_TimelinePlot_SpecsforSOPO.csv") %>%
                 mutate(CU_ID = gsub("_","-",CU_ID)) %>%
-                left_join(cu.info %>% select(CU_ID, Data_Stage)) %>%
+                left_join(cu.info %>% select(CU_ID=CU_ID_Alt2_CULookup, Data_Stage)) %>%
                 filter(Data_Stage %in% datastage)
 plot.specs
 #view(plot.specs)
@@ -38,7 +38,8 @@ for(plot.do in plot.list){
   #grp.labels <- specs.do %>% select(GroupIndex,Group) %>% unique()
   #grp.labels
   
-  retro.yrs <- 2010:2025
+  retro.yrs <- 2013:2022
+  if(plot.do=="Fraser Pink") retro.yrs=2013:2023
   
   unk.end <- 2022
   
@@ -53,7 +54,7 @@ for(plot.do in plot.list){
    print(paste(plot.do,"-----------------------------"))
   
   
-  plot(1:5,1:5, type="n",xlim = c(range(retro.yrs)[1]-5, range(retro.yrs)[2]), ylim= c(-46,0) ,xlab="",ylab="",
+  plot(1:5,1:5, type="n",xlim = c(range(retro.yrs)[1]-5, range(retro.yrs)[2]+1), ylim= c(-46,0) ,xlab="",ylab="",
        axes=FALSE)
   axis(3,at = pretty(retro.yrs))
   mtext(plot.do,side=3,line=3,xpd=NA,font=2,col="darkblue",cex=1.3)
@@ -86,7 +87,8 @@ for(plot.do in plot.list){
       specs.sub
       
       #retro.sub <- retro.summary.tbl %>% dplyr::filter(CU_ID == cu.plot, Year <= 2019) %>% select(Year,RapidStatus)
-      retro.sub <- retro.summary.tbl %>% dplyr::filter(CU_ID == cu.plot) %>% select(Year,RapidStatus) %>% filter(Year >=retro.yrs[1])
+      retro.sub <- retro.summary.tbl %>% dplyr::filter(CU_ID == cu.plot) %>% select(Year,RapidStatus) %>% filter(Year >=retro.yrs[1]) %>%
+                                         filter(Year <= range(retro.yrs)[2])
       retro.sub
       
       red.df <- retro.sub %>% dplyr::filter(RapidStatus == "Red")

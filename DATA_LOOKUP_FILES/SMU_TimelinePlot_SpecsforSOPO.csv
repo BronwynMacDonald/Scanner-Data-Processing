@@ -14,31 +14,31 @@ Mainland Inlet Chinook,4,Chinook,CK-35,Klinaklini_SU_1.3,Klina
 WCVI Chinook,-0.5,Chinook,CK-31,West Vancouver Island-South_FA_0.x,SWVI
 WCVI Chinook,1,Chinook,CK-32,West Vancouver Island-Nootka & Kyuquot_FA_0.x,NoKy
 WCVI Chinook,2.5,Chinook,CK-33,West Vancouver Island-North_FA_0.x,NWVI
-Fraser Fall 4sub1 Chinook,-0.5,Chinook,CK_03,Lower Fraser River_FA_0.3,LFR-fall
-Fraser Spring 4sub2 Chinook,-0.5,Chinook,CK_16,South Thompson-Bessette Creek_SU_1.2,STh-BESS
-Fraser Spring 4sub2 Chinook,1,Chinook,CK_17,Lower Thompson_SP_1.2,LTh
-Fraser Spring 5sub2 Chinook,-0.5,Chinook,CK_04,Lower Fraser River_SP_1.3,LFR-spring
-Fraser Spring 5sub2 Chinook,1,Chinook,CK_08,Middle Fraser-Fraser Canyon_SP_1.3,FRCanyon
-Fraser Spring 5sub2 Chinook,2.5,Chinook,CK_10,Middle Fraser River_SP_1.3,MFR-spring
-Fraser Spring 5sub2 Chinook,4,Chinook,CK_12,Upper Fraser River_SP_1.3,UFR-spring
-Fraser Spring 5sub2 Chinook,5.5,Chinook,CK_18,North Thompson_SP_1.3,NTh-spr
-Fraser Summer 4sub1 Chinook,-0.5,Chinook,CK_07,Maria Slough_SU_0.3,Maria
-Fraser Summer 4sub1 Chinook,1,Chinook,CK_13,South Thompson_SU_0.3,STh-0.3
-Fraser Summer 4sub1 Chinook,2.5,Chinook,CK_15,Shuswap River_SU_0.3,STh-SHUR
-Fraser Summer 5sub2 Chinook,-0.5,Chinook,CK_05,Lower Fraser River-Upper Pitt_SU_1.3,LFR-UPITT
-Fraser Summer 5sub2 Chinook,1,Chinook,CK_06,Lower Fraser River_SU_1.3,LFR-summer
-Fraser Summer 5sub2 Chinook,2.5,Chinook,CK_09,Middle Fraser River-Portage_FA_1.3,Portage
-Fraser Summer 5sub2 Chinook,4,Chinook,CK_11,Middle Fraser River_SU_1.3,MFR-summer
-Fraser Summer 5sub2 Chinook,5.5,Chinook,CK_14,South Thompson_SU_1.3,STh-1.3
-Fraser Summer 5sub2 Chinook,7,Chinook,CK_19,North Thompson_SU_1.3,NTh-sum
+Fraser Fall 4sub1 Chinook,-0.5,Chinook,CK-03,Lower Fraser River_FA_0.3,LFR-fall
+Fraser Spring 4sub2 Chinook,-0.5,Chinook,CK-16,South Thompson-Bessette Creek_SU_1.2,STh-BESS
+Fraser Spring 4sub2 Chinook,1,Chinook,CK-17,Lower Thompson_SP_1.2,LTh
+Fraser Spring 5sub2 Chinook,-0.5,Chinook,CK-04,Lower Fraser River_SP_1.3,LFR-spring
+Fraser Spring 5sub2 Chinook,1,Chinook,CK-08,Middle Fraser-Fraser Canyon_SP_1.3,FRCanyon
+Fraser Spring 5sub2 Chinook,2.5,Chinook,CK-10,Middle Fraser River_SP_1.3,MFR-spring
+Fraser Spring 5sub2 Chinook,4,Chinook,CK-12,Upper Fraser River_SP_1.3,UFR-spring
+Fraser Spring 5sub2 Chinook,5.5,Chinook,CK-18,North Thompson_SP_1.3,NTh-spr
+Fraser Summer 4sub1 Chinook,-0.5,Chinook,CK-07,Maria Slough_SU_0.3,Maria
+Fraser Summer 4sub1 Chinook,1,Chinook,CK-13,South Thompson_SU_0.3,STh-0.3
+Fraser Summer 4sub1 Chinook,2.5,Chinook,CK-15,Shuswap River_SU_0.3,STh-SHUR
+Fraser Summer 5sub2 Chinook,-0.5,Chinook,CK-05,Lower Fraser River-Upper Pitt_SU_1.3,LFR-UPITT
+Fraser Summer 5sub2 Chinook,1,Chinook,CK-06,Lower Fraser River_SU_1.3,LFR-summer
+Fraser Summer 5sub2 Chinook,2.5,Chinook,CK-09,Middle Fraser River-Portage_FA_1.3,Portage
+Fraser Summer 5sub2 Chinook,4,Chinook,CK-11,Middle Fraser River_SU_1.3,MFR-summer
+Fraser Summer 5sub2 Chinook,5.5,Chinook,CK-14,South Thompson_SU_1.3,STh-1.3
+Fraser Summer 5sub2 Chinook,7,Chinook,CK-19,North Thompson_SU_1.3,NTh-sum
 Okanagan Chinook,-0.5,Chinook,CK-01,Okanagan_1.x,OK
-Fraser Chum,-0.5,Chum,CM_02,Lower Fraser Chum,LowerFraser
-Interior Fraser Coho,-0.5,Coho,CO_01,Middle Fraser,MFr
-Interior Fraser Coho,1,Coho,CO_02,Fraser Canyon,FrCny
-Interior Fraser Coho,2.5,Coho,CO_03,Lower Thompson,Lthom
-Interior Fraser Coho,4,Coho,CO_04,North Thompson,NTh
-Interior Fraser Coho,5.5,Coho,CO_05,South Thompson,STh
-Fraser Pink,-0.5,Pink,PKO_01,Fraser Pink,Fraser
+Fraser Chum,-0.5,Chum,CM-02,Lower Fraser Chum,LowerFraser
+Interior Fraser Coho,-0.5,Coho,CO-48,Middle Fraser,MFr
+Interior Fraser Coho,1,Coho,CO-05,Fraser Canyon,FrCny
+Interior Fraser Coho,2.5,Coho,CO-07,Lower Thompson,Lthom
+Interior Fraser Coho,4,Coho,CO-09,North Thompson,NTh
+Interior Fraser Coho,5.5,Coho,CO-08,South Thompson,STh
+Fraser Pink,-0.5,Pink,PKO-01,Fraser Pink,Fraser
 Nass Sockeye,-0.5,Sockeye,SER-20,Lower Nass Sea & River Type,LNassSRT
 Nass Sockeye,1,Sockeye,SEL-24-05,Meziadin,Meziadin
 Nass Sockeye,2.5,Sockeye,SEL-24-01,Bowser,Bowser
@@ -79,26 +79,26 @@ Skeena Sockeye,41.5,Sockeye,SEL-22-11,Spawning,Spawning
 Skeena Sockeye,43,Sockeye,SEL-22-06,Kluantantan,Kluant
 Skeena Sockeye,44.5,Sockeye,SEL-22-07,Kluayaz,Kluayaz
 Skeena Sockeye,46,Sockeye,SER-18,Skeena River Type,Skeena RT
-Fraser Sockeye - Early Stuart,-0.5,Sockeye,CU_18,Takla Trembleur-Early Stuart,Estu
-Fraser Sockeye - Early Summer,-0.5,Sockeye,CU_1,Bowron-ES,ES_Bowr
-Fraser Sockeye - Early Summer,1,Sockeye,CU_14,Nahatlatch-ES,ES_Naha
-Fraser Sockeye - Early Summer,2.5,Sockeye,CU_15,Taseko-ES,ES_Tas
-Fraser Sockeye - Early Summer,4,Sockeye,CU_17,Chilliwack-ES,ES_Chill
-Fraser Sockeye - Early Summer,5.5,Sockeye,CU_19,Anderson-Seton-ES,ES_AndSet
-Fraser Sockeye - Early Summer,7,Sockeye,CU_2,Kamloops-ES,ES_Kaml
-Fraser Sockeye - Early Summer,8.5,Sockeye,CU_20,Shuswap-ES,ES_Shu
-Fraser Sockeye - Early Summer,10,Sockeye,CU_3,Nadina-Francois-ES,ES_NadFran
-Fraser Sockeye - Early Summer,11.5,Sockeye,CU_4,North Barriere-ES,ES_Nbarr
-Fraser Sockeye - Early Summer,13,Sockeye,CU_5,Pitt-ES,ES_Pitt
-Fraser Sockeye - Late,-0.5,Sockeye,CU_10,Seton-L,L_Set
-Fraser Sockeye - Late,1,Sockeye,CU_11,Harrison-U/S-L,L_HarrUS
-Fraser Sockeye - Late,2.5,Sockeye,CU_12,Lillooet-Harrison-L,L_LilHarr
-Fraser Sockeye - Late,4,Sockeye,CU_13,Harrison-D/S-L,L_HarrDS
-Fraser Sockeye - Late,5.5,Sockeye,CU_23,Shuswap-L,L_Shu
-Fraser Sockeye - Late,7,Sockeye,CU_8,Cultus-L,L_Cult
-Fraser Sockeye - Late,8.5,Sockeye,CU_16,Widgeon-RiverType,RT_Wid
-Fraser Sockeye - Summer,-0.5,Sockeye,CU_21,Takla-Trembleur-Stuart-S,S_TakTremStu
-Fraser Sockeye - Summer,1,Sockeye,CU_22,Quesnel-S,S_Ques
-Fraser Sockeye - Summer,2.5,Sockeye,CU_6,Chilko-S-ES,S_Chilko
-Fraser Sockeye - Summer,4,Sockeye,CU_7,Francois-Fraser-S,S_FranFras
-Fraser Sockeye - Summer,5.5,Sockeye,CU_9,Harrison-RiverType,RT_HarrR
+Fraser Sockeye - Early Stuart,-0.5,Sockeye,SEL-06-14,Takla Trembleur-Early Stuart,Estu
+Fraser Sockeye - Early Summer,-0.5,Sockeye,SEL-07-01,Bowron-ES,ES_Bowr
+Fraser Sockeye - Early Summer,1,Sockeye,SEL-05-02,Nahatlatch-ES,ES_Naha
+Fraser Sockeye - Early Summer,2.5,Sockeye,SEL-06-16,Taseko-ES,ES_Tas
+Fraser Sockeye - Early Summer,4,Sockeye,SEL-03-01,Chilliwack-ES,ES_Chill
+Fraser Sockeye - Early Summer,5.5,Sockeye,SEL-06-01,Anderson-Seton-ES,ES_AndSet
+Fraser Sockeye - Early Summer,7,Sockeye,SEL-10-01,Kamloops-ES,ES_Kaml
+Fraser Sockeye - Early Summer,8.5,Sockeye,SEL-09-02,Shuswap-ES,ES_Shu
+Fraser Sockeye - Early Summer,10,Sockeye,SEL-06-20,Nadina-Francois-ES,ES_NadFran
+Fraser Sockeye - Early Summer,11.5,Sockeye,SEL-10-03,North Barriere-ES,ES_Nbarr
+Fraser Sockeye - Early Summer,13,Sockeye,SEL-03-05,Pitt-ES,ES_Pitt
+Fraser Sockeye - Late,-0.5,Sockeye,SEL-06-11,Seton-L,L_Set
+Fraser Sockeye - Late,1,Sockeye,SEL-03-04,Harrison-U/S-L,L_HarrUS
+Fraser Sockeye - Late,2.5,Sockeye,SEL-04-01,Lillooet-Harrison-L,L_LilHarr
+Fraser Sockeye - Late,4,Sockeye,SEL-03-03,Harrison-D/S-L,L_HarrDS
+Fraser Sockeye - Late,5.5,Sockeye,SEL-09-03,Shuswap-L,L_Shu
+Fraser Sockeye - Late,7,Sockeye,SEL-03-02,Cultus-L,L_Cult
+Fraser Sockeye - Late,8.5,Sockeye,SER-02,Widgeon-RiverType,RT_Wid
+Fraser Sockeye - Summer,-0.5,Sockeye,SEL-06-13,Takla-Trembleur-Stuart-S,S_TakTremStu
+Fraser Sockeye - Summer,1,Sockeye,SEL-06-10,Quesnel-S,S_Ques
+Fraser Sockeye - Summer,2.5,Sockeye,SEL-06-03/SEL-06-02,Chilko-S-ES,S_Chilko
+Fraser Sockeye - Summer,4,Sockeye,SEL-06-07,Francois-Fraser-S,S_FranFras
+Fraser Sockeye - Summer,5.5,Sockeye,SER-03,Harrison-RiverType,RT_HarrR
