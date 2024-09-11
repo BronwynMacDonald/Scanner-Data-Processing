@@ -1,3 +1,5 @@
+if(!dir.exists("DATA_PROCESSING")){dir.create("DATA_PROCESSING")}
+
 source("SCRIPTS1_Prep/Prep3_CleanedFlatFile_SBC_Ck.R")
 source("SCRIPTS1_Prep/Prep4_CleanedFlatFile_Fraser_Sk.R")
 source("SCRIPTS1_Prep/Prep5_CleanedFlatFile_Fraser_Coho.R")

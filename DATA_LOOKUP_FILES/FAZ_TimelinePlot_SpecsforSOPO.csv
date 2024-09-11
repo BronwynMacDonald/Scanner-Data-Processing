@@ -1,0 +1,105 @@
+Plot,CUIndex,Species,CU_ID,CU_Name,CU_Acro
+BB,-0.5,Chinook,CK-02,Boundary Bay_FA_0.3,BB
+ECVI,-0.5,Chinook,CK-21,East Vancouver Island-Goldstream_FA_0.x,Goldstr
+ECVI,1,Chinook,CK-22,East Vancouver Island-Cowichan & Koksilah_FA_0.x,CWCH-KOK
+ECVI,-0.5,Chinook,CK-23,East Vancouver Island-Nanaimo_SP_1.x,NanR-spr
+ECVI,1,Chinook,CK-25,East Vancouver Island-Nanaimo & Chemainus_FA_0.x,EVI-fall
+ECVI,2.5,Chinook,CK-27,East Vancouver Island-Qualicum & Puntledge_FA_0.x,QP-fall
+ECVI,4,Chinook,CK-83,East Vancouver Island - Georgia Strait Summer 0.3,GS-Sum
+ECVI,-0.5,Chinook,CK-29,East Vancouver Island-North_FA_0.x,NEVI
+ECVI,-0.5,Chinook,CK-20,Southern Mainland-Georgia Strait_FA_0.x,SMn-GStr
+ECVI,1,Chinook,CK-28,Southern Mainland-Southern Fjords_FA_0.x,SMn-SFj
+ECVI,2.5,Chinook,CK-34,Homathko_SU_x.x,Homa
+ECVI,4,Chinook,CK-35,Klinaklini_SU_1.3,Klina
+Fraser Canyon,-0.5,Sockeye,SEL-05-02,Sockeye - Nahatlatch-ES,ES_Naha
+Fraser Canyon,1,Coho,CO-05,Coho - Fraser Canyon,FrCny
+Fraser Canyon,2.5,Chinook,CK-08,Chinook - Middle Fraser-Fraser Canyon_SP_1.3,FRCanyon
+Fraser Pink,-0.5,Pink,PKO-01,Fraser Pink,Fraser
+Lillooet,-0.5,Sockeye,SEL-03-03,Sockeye - Harrison-D/S-L,L_HarrDS
+Lillooet,1,Sockeye,SEL-04-01,Sockeye - Lillooet-Harrison-L,L_LilHarr
+Lillooet,2.5,Chinook,CK-06,Chinook - Lower Fraser River_SU_1.3,LFR-summer
+Lower Fraser ,-0.5,Sockeye,SEL-03-01,Sockeye - Chilliwack-ES,ES_Chill
+Lower Fraser ,1,Sockeye,SEL-03-02,Sockeye - Cultus-L,L_Cult
+Lower Fraser ,2.5,Sockeye,SER-03,Sockeye - Harrison-RiverType,RT_HarrR
+Lower Fraser ,4,Sockeye,SEL-03-04,Sockeye - Harrison-U/S-L,L_HarrUS
+Lower Fraser ,5.5,Sockeye,SEL-03-05,Sockeye - Pitt-ES,ES_Pitt
+Lower Fraser ,7,Sockeye,SER-02,Sockeye - Widgeon-RiverType,RT_Wid
+Lower Fraser ,8.5,Chum,CM-02,Chum - Lower Fraser,LowerFraser
+Lower Fraser ,10,Chinook,CK-04,Chinook - Lower Fraser River_SP_1.3,LFR-spring
+Lower Fraser ,11.5,Chinook,CK-05,Chinook - Lower Fraser River-Upper Pitt_SU_1.3,LFR-UPITT
+Lower Fraser ,13,Chinook,CK-03,Chinook - Lower Fraser River_FA_0.3,LFR-fall
+Lower Fraser ,14.5,Chinook,CK-07,Chinook - Maria Slough_SU_0.3,Maria
+Lower Thompson,-0.5,Coho,CO-07,Coho - Lower Thompson,Lthom
+Lower Thompson,1,Chinook,CK-17,Chinook - Lower Thompson_SP_1.2,LTh
+Middle Fraser,-0.5,Sockeye,SEL-06-01,Sockeye - Anderson-Seton-ES,ES_AndSet
+Middle Fraser,1,Sockeye,SEL-06-03/SEL-06-02,Sockeye - Chilko-S-ES,S_Chilko
+Middle Fraser,2.5,Sockeye,SEL-06-07,Sockeye - Francois-Fraser-S,S_FranFras
+Middle Fraser,4,Sockeye,SEL-06-20,Sockeye - Nadina-Francois-ES,ES_NadFran
+Middle Fraser,5.5,Sockeye,SEL-06-10,Sockeye - Quesnel-S,S_Ques
+Middle Fraser,7,Sockeye,SEL-06-11,Sockeye - Seton-L,L_Set
+Middle Fraser,8.5,Sockeye,SEL-06-14,Sockeye - Takla Trembleur-Early Stuart,Estu
+Middle Fraser,10,Sockeye,SEL-06-13,Sockeye - Takla-Trembleur-Stuart-S,S_TakTremStu
+Middle Fraser,11.5,Sockeye,SEL-06-16,Sockeye - Taseko-ES,ES_Tas
+Nass ,-0.5,Sockeye,SER-20,Lower Nass Sea & River Type,LNassSRT
+Nass ,1,Sockeye,SEL-24-05,Meziadin,Meziadin
+Nass ,2.5,Sockeye,SEL-24-01,Bowser,Bowser
+Nass ,4,Sockeye,SEL-24-06,Oweegee,Oweege
+Nass ,5.5,Sockeye,SEL-24-04,Kwinageese,Kwinag
+Nass ,7,Sockeye,SEL-24-03,Fred Wright,FredWr
+Nass ,8.5,Sockeye,SEL-24-02,Damdochax/Wiminasik,Damdoch
+Nass ,10,Sockeye,SER-21,Upper Nass River Type,UNassRT
+Middle Fraser,13,Coho,CO-48,Coho - Middle Fraser,MFr
+Middle Fraser,14.5,Chinook,CK-09,Chinook - Middle Fraser River-Portage_FA_1.3,Portage
+Middle Fraser,16,Chinook,CK-10,Chinook - Middle Fraser River_SP_1.3,MFR-spring
+Middle Fraser,17.5,Chinook,CK-11,Chinook - Middle Fraser River_SU_1.3,MFR-summer
+North Thompson,-0.5,Sockeye,SEL-10-01,Sockeye - Kamloops-ES,ES_Kaml
+North Thompson,1,Sockeye,SEL-10-03,Sockeye - North Barriere-ES,ES_Nbarr
+North Thompson,2.5,Coho,CO-09,Coho - North Thompson,NTh
+North Thompson,4,Chinook,CK-18,Chinook - North Thompson_SP_1.3,NTh-spr
+North Thompson,5.5,Chinook,CK-19,Chinook - North Thompson_SU_1.3,NTh-sum
+South Thompson,-0.5,Sockeye,SEL-09-02,Sockeye - Shuswap-ES,ES_Shu
+South Thompson,1,Sockeye,SEL-09-03,Sockeye - Shuswap-L,L_Shu
+South Thompson,2.5,Coho,CO-08,Coho - South Thompson,STh
+OK,-0.5,Chinook,CK-01,Okanagan_1.x,OK
+Skeena ,-0.5,Sockeye,SEL-20-05,Johnston,Johnston
+Skeena ,1,Sockeye,SEL-20-04,Ecstall,Ecstall
+Skeena ,2.5,Sockeye,SEL-20-01,Alastair,Alastair
+Skeena ,4,Sockeye,SEL-20-07,Lakelse,Lakelse
+Skeena ,5.5,Sockeye,SEL-20-06,Kitsumkalum,Kitsumk
+Skeena ,7,Sockeye,SEL-20-08,Mcdonell,Mcdonell
+Skeena ,8.5,Sockeye,SEL-20-02,Aldrich,Aldrich
+Skeena ,10,Sockeye,SEL-20-03,Dennis,Dennis
+Skeena ,11.5,Sockeye,SEL-21-05,Kitwanga,Kitwanga
+Skeena ,13,Sockeye,SEL-21-03,Upper Bulkley Lakes,Bulkley
+Skeena ,14.5,Sockeye,SEL-21-06,Maxan,Maxan
+Skeena ,16,Sockeye,SEL-21-07,Morice,Morice
+Skeena ,17.5,Sockeye,SEL-21-01,Atna,Atna
+Skeena ,19,Sockeye,SEL-21-09,Stephens,Steph
+Skeena ,20.5,Sockeye,SEL-21-10,Swan,Swan
+Skeena ,22,Sockeye,SEL-21-10-1,Club,Club
+Skeena ,23.5,Sockeye,SEL-21-2-1,Babine Early Wild,Bab-EW
+Skeena ,25,Sockeye,SEL-21-2-2,Babine Mid Wild,Bab-MW
+Skeena ,26.5,Sockeye,SEL-21-2-3,Babine Late Wild,Bab-LW
+Skeena ,28,Sockeye,SEL-22-09,Sicintine,Sicintine
+Skeena ,29.5,Sockeye,SEL-22-10,Slamgeesh,Slamg
+Skeena ,31,Sockeye,SEL-22-04,Damshilgwit,Damshil
+Skeena ,32.5,Sockeye,SEL-22-08,Motase,Motase
+Skeena ,34,Sockeye,SEL-22-03,Bear,Bear
+Skeena ,35.5,Sockeye,SEL-22-02,Azuklotz,Azukl
+Skeena ,37,Sockeye,SEL-22-01,Asitka,Asitka
+Skeena ,38.5,Sockeye,SEL-22-12,Sustut,Sustut
+Skeena ,40,Sockeye,SEL-22-05,Johansen,Johan
+Skeena ,41.5,Sockeye,SEL-22-11,Spawning,Spawning
+Skeena ,43,Sockeye,SEL-22-06,Kluantantan,Kluant
+Skeena ,44.5,Sockeye,SEL-22-07,Kluayaz,Kluayaz
+Skeena ,46,Sockeye,SER-18,Skeena River Type,Skeena RT
+South Thompson,4,Chinook,CK-16,Chinook - South Thompson-Bessette Creek_SU_1.2,STh-BESS
+South Thompson,5.5,Chinook,CK-14,Chinook - South Thompson_SU_1.3,STh-1.3
+South Thompson,7,Chinook,CK-13,Chinook - South Thompson_SU_0.3,STh-0.3
+South Thompson,8.5,Chinook,CK-15,Chinook - Shuswap River_SU_0.3,STh-SHUR
+Upper Fraser,-0.5,Sockeye,SEL-07-01,Sockeye - Bowron-ES,ES_Bowr
+Upper Fraser,1.5,Chinook,CK-12,Chinook - Upper Fraser River_SP_1.3,UFR-spring
+,,,,,
+WCVI ,-0.5,Chinook,CK-31,West Vancouver Island-South_FA_0.x,SWVI
+WCVI ,1,Chinook,CK-32,West Vancouver Island-Nootka & Kyuquot_FA_0.x,NoKy
+WCVI ,2.5,Chinook,CK-33,West Vancouver Island-North_FA_0.x,NWVI

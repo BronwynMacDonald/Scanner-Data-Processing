@@ -75,14 +75,16 @@ Run <- function(datastage="Approved"){
       source("SCRIPTS2_Main/5_GenerateSummaries.R", local=TRUE)
       print("---building timeline summary plots---")
       source("SCRIPTS2_Main/6_Summary_Timeline_Plots.R", local=TRUE)
+      print("---building SOPO plots---")
+      source("SCRIPTS2_Main/8_SMU_Summary_Timeline_PlotsforSOPO.R", local=TRUE)
       print("---creating Scanner input files---")
       source("SCRIPTS2_Main/10_GenerateScannerInputs.R", local=TRUE)
 }
 
- Run("Approved")
+ Run(c("Approved","Prep"))
 
- Run("Explore") # SkeenaNass SK in this group for now
+# Run("Explore") # SkeenaNass SK in this group for now
  
- Run("Prep")
+# Run("Prep")
  
 
