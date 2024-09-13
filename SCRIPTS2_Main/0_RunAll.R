@@ -62,7 +62,7 @@ if(FALSE){
 
 Run <- function(datastage="Approved"){
       print(paste("---running", toupper(datastage),"data---"))
-      if(datastage=="All") datastage=c("Approved", "Explore", "Prep")
+      if(datastage=="All") datastage <- c("Approved", "Explore", "Prep")
       print("---merging flat files---")
       source("SCRIPTS2_Main/1_MergeFlatFiles.R")
       print("---calculating WSP metrics---")
@@ -81,7 +81,7 @@ Run <- function(datastage="Approved"){
       source("SCRIPTS2_Main/10_GenerateScannerInputs.R", local=TRUE)
 }
 
- Run(c("Approved","Prep"))
+ Run(c("Approved"))
 
 # Run("Explore") # SkeenaNass SK in this group for now
  

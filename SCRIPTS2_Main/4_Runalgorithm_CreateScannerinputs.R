@@ -85,7 +85,11 @@ retro.summary.tbl <- retro.lt3$data %>%
                               left_join(qual.score.tab %>% 
                                                       dplyr::filter(Algorithm == "SotS3") %>% 
                                                       select(BinLabel, ConfidenceRating5, ConfidenceRating3, ConfidenceRating2),
-                                                      by = "BinLabel")
+                                                      by = "BinLabel") %>%
+                              left_join(cu.lookup %>% select(CU_ID, CU_ID_Alt2_CULookup), by="CU_ID") %>%
+                                                      select(-CU_ID) %>%
+                                                      rename(CU_ID=CU_ID_Alt2_CULookup)%>%
+                                                      relocate(CU_ID, .before=Species)
                                 
 
 

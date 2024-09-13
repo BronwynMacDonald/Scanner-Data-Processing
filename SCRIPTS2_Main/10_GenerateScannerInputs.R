@@ -180,15 +180,15 @@ write.csv(pop.clean, paste0("OUTPUT/DATA_OUT/",paste(datastage, collapse=""),"/M
 
 
 
-# Added July 2024 fix retro.summary.table to have the correct CU_IDs
+# Added July 2024 fix retro.summary.table to have the correct CU_IDs -- these are now fixed in script 4
 
-fixed.retro <- retro.summary.tbl %>% left_join(cu.lookup %>% select(CU_ID, CU_ID_Alt2_CULookup), by="CU_ID" ) %>%
-               select(-CU_ID) %>%
-               mutate(CU_ID=CU_ID_Alt2_CULookup) %>%
-               relocate(CU_ID, .before=Species)%>%
-               select(-CU_ID_Alt2_CULookup)
-
-write.csv(fixed.retro, paste0("OUTPUT/DASHBOARDS/Retro_Synoptic_Details_",paste(datastage, collapse=""),".csv"))
+# fixed.retro <- retro.summary.tbl %>% left_join(cu.lookup %>% select(CU_ID, CU_ID_Alt2_CULookup), by="CU_ID" ) %>%
+#                select(-CU_ID) %>%
+#                mutate(CU_ID=CU_ID_Alt2_CULookup) %>%
+#                relocate(CU_ID, .before=Species)%>%
+#                select(-CU_ID_Alt2_CULookup)
+# 
+# write.csv(fixed.retro, paste0("OUTPUT/DASHBOARDS/Retro_Synoptic_Details_",paste(datastage, collapse=""),".csv"))
 #
 # pop.info.adj <- pop.info %>% mutate(Comment = case_when(WSP_ts == "yes"~ "treated data used to produce CU level timeseries",
 #                                                         WSP_ts == "no" ~ "raw data - do not use for analysis"))
