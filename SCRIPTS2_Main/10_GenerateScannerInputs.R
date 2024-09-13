@@ -30,6 +30,9 @@ metrics.dummy <- read.csv("DATA_LOOKUP_FILES/METRICS_FILE_BY_CU_dummy.csv")
 
 metrics.scanner <-  metrics.long  %>%   select(-c(X, Label, DataType)) %>%
                                         filter(!Metric %in% c("ProbDeclBelowLBM", "Percentile")) %>%
+                                        left_join(cu.lookup %>% select(CU_ID, CU_ID_Alt2_CULookup), by="CU_ID" ) %>%
+                                        select(-CU_ID) %>%
+                                        rename(CU_ID=CU_ID_Alt2_CULookup) %>%
                                         # mutate(Confidence =NA) %>%
                                         # rbind(
                                         #      publ.status %>% select(CU_ID,Year,IntStatus) %>%
@@ -43,13 +46,11 @@ metrics.scanner <-  metrics.long  %>%   select(-c(X, Label, DataType)) %>%
                                                                 pivot_longer(cols=c(RapidStatus, IntStatus), names_to = "Metric", values_to="Status") %>%
                                                                 mutate(Compare=NA, LBM=NA, UBM=NA, Value=NA) %>%
                                                                 relocate(Status, .before=Value)
-                                        )%>%
-                                        left_join(cu.lookup %>% select(CU_ID, CU_ID_Alt2_CULookup), by="CU_ID" ) %>%
+                                        ) %>%
+                                        
                                         left_join((retro.summary.tbl %>% select(c(CU_ID,Year,Confidence=ConfidenceRating3)) %>% 
                                                                          mutate(Metric="RapidStatus")),
                                                                          by=c("CU_ID", "Year", "Metric")) %>%
-                                        select(-CU_ID) %>%
-                                        rename(CU_ID=CU_ID_Alt2_CULookup)%>%
                                         relocate(CU_ID, .before=Species)%>%
                                         relocate(c(Status,Confidence), .after=last_col())
 

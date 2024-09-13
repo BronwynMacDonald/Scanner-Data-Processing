@@ -123,12 +123,12 @@ for(folder.do in target.folders) {
       }
 
 
-      for(cu.plot in specs.do$CU_ID){
+      for(cu.plot in specs.do$CU_ID_Report){
         print(cu.plot)
         #stop()
         #if(cu.plot == "CK-33"){stop()}
           
-        specs.sub <- specs.do %>% dplyr::filter(CU_ID == cu.plot) 
+        specs.sub <- specs.do %>% dplyr::filter(CU_ID_Report == cu.plot) 
         specs.sub
         
         #retro.sub <- retro.summary.tbl %>% dplyr::filter(CU_ID == cu.plot, Year <= 2019) %>% select(Year,RapidStatus)

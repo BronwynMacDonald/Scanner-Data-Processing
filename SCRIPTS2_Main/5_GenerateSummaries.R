@@ -112,7 +112,7 @@ sort(unique(data.raw$Group))
 cu.list <-  cu.info %>%
                   # dplyr::filter(Area %in% c("Nass","Skeena"))   %>%
                   #select(CU_ID)
-                  filter(CU_ID %in% unique(retro.summary.tbl$CU_ID)) %>%
+                  filter(CU_ID_Alt2_CULookup %in% unique(retro.summary.tbl$CU_ID)) %>%
                   select(CU_ID_Alt2_CULookup) %>% unlist() %>% sort() %>% unique()
 
 #cu.list <- sort(intersect(unlist(cu.list), unique(data.raw$CU_ID)))
@@ -145,7 +145,7 @@ for(cu.plot in cu.list){
 
   cyclic.check <- cu.info.sub$Cyclic
 
-
+  # CU_IDs in the escapement data file are still the old incorrect CU_IDs for Fraser SK and CO
   data.sub <- data.raw  %>% dplyr::filter(CU_ID == cu.alt.id)
   head(data.sub )
 
@@ -153,7 +153,7 @@ for(cu.plot in cu.list){
 #  head(retro.values.sub )
 
 
-  retro.summary.sub <- retro.summary.tbl %>% dplyr::filter(CU_ID == cu.alt.id)
+  retro.summary.sub <- retro.summary.tbl %>% dplyr::filter(CU_ID == cu.plot) # These now align (Sept 13 2024)
 
 #  metrics.details.sub <- metrics.details %>% dplyr::filter(CU_ID == cu.plot)
 
