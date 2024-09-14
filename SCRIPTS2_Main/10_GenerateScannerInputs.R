@@ -42,12 +42,12 @@ metrics.scanner <-  metrics.long  %>%   select(-c(X, Label, DataType)) %>%
                                         # ) %>%
                                         rbind(
                                           retro.summary.tbl %>% select(CU_ID, Species, Stock, Year, RapidStatus, IntStatus=IntStatusRaw) %>%
-                                                                mutate(RapidStatus = na_if(RapidStatus, "None")) %>%
+                                                                mutate(RapidStatus = recode(RapidStatus, "None"="DD")) %>%
+                                                            #   mutate(RapidStatus = na_if(RapidStatus, "None")) %>%
                                                                 pivot_longer(cols=c(RapidStatus, IntStatus), names_to = "Metric", values_to="Status") %>%
                                                                 mutate(Compare=NA, LBM=NA, UBM=NA, Value=NA) %>%
                                                                 relocate(Status, .before=Value)
                                         ) %>%
-                                        
                                         left_join((retro.summary.tbl %>% select(c(CU_ID,Year,Confidence=ConfidenceRating3)) %>% 
                                                                          mutate(Metric="RapidStatus")),
                                                                          by=c("CU_ID", "Year", "Metric")) %>%
@@ -103,12 +103,27 @@ if(nrow(metrics.dummy %>%  filter_at(vars(Compare, LBM, UBM, Value, Status), any
 }
 
 
-metrics.out <- metrics.dummy %>% select(-Label) %>%
-                                 filter(!CU_ID %in% metrics.scanner$CU_ID) %>%
-                                 filter(!is.na(CU_ID))%>%
-                                 filter(!is.na(Stock))%>%
-                                 filter(!Metric == "IntStatus") %>%
-                                 rbind(metrics.scanner)
+metrics.out  <- metrics.dummy %>% select(-Label) %>%
+                         pivot_wider(names_from = Metric, values_from= Status) %>%
+                         left_join(cu.lookup %>% select(RapidStatus=Data_Stage, CU_ID=CU_ID_Alt2_CULookup), by="CU_ID") %>%
+                         group_by(CU_ID, Species, Stock,RapidStatus) %>% 
+                                    complete(Year=full_seq(min(metrics.scanner$Year):max(metrics.scanner$Year), 1))%>%
+                                    ungroup() %>%
+                         pivot_longer(cols=c(RelUBM, AbsUBM, IntStatus, RelLBM, AbsLBM, LongTrend, PercChange, RapidStatus), names_to="Metric", values_to="Status") %>%
+                         filter(!CU_ID %in% metrics.scanner$CU_ID) %>%
+                         filter(!is.na(CU_ID))%>%
+                         filter(!is.na(Stock))%>%
+                         filter(!Metric == "IntStatus") %>%
+                         relocate(Year, .before=CU_ID) %>% relocate(Metric, .before=Compare) %>% relocate(Confidence, .after=last_col()) %>%
+                         rbind(metrics.scanner)
+
+
+# metrics.out <- metrics.dummy %>% select(-Label) %>%
+#                                  filter(!CU_ID %in% metrics.scanner$CU_ID) %>%
+#                                  filter(!is.na(CU_ID))%>%
+#                                  filter(!is.na(Stock))%>%
+#                                  filter(!Metric == "IntStatus") %>%
+#                                  rbind(metrics.scanner)
 # metrics.out <- metrics.dummy %>% select(-X) %>%
 #                                  filter(!CU_ID %in% metrics.scanner$CU_ID) %>%
 #                                  filter(!is.na(CU_ID))%>%
