@@ -19,7 +19,7 @@ library(tidyverse)
 
 
 # ************** Bmac changed read in file ******************************************
-fr.sk.bypop.raw <- read.csv("DATA_IN/SOURCES/Fraser Sockeye/SKAll (June 2024_EStu Preliminaries).csv",fileEncoding="UTF-8-BOM",stringsAsFactors = FALSE)
+fr.sk.bypop.raw <- read.csv("DATA_IN/SOURCES/Fraser Sockeye/SKAll (June 2024_noEStu).csv",fileEncoding="UTF-8-BOM",stringsAsFactors = FALSE)
 # *********************************************************************************
 cu.lookup <- read.csv("DATA_LOOKUP_FILES/MOD_MAIN_CU_LOOKUP_FOR_SOS.csv",stringsAsFactors = FALSE) # ADDED jULY 2023
 

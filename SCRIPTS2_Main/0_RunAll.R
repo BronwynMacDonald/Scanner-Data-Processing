@@ -81,7 +81,7 @@ Run <- function(datastage="Approved"){
       source("SCRIPTS2_Main/10_GenerateScannerInputs.R", local=TRUE)
 }
 
- Run(c("Approved"))
+ Run(c("Approved", "Data Deficient"))
 
 # Run("Explore") # SkeenaNass SK in this group for now
  
