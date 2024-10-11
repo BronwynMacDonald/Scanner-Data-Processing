@@ -1,6 +1,6 @@
 
 # IMPORTANT: This script is called within a function in script 0_RunAll.R
-# that function provides a required argument: datastages 
+# that function provides a required argument: datastages
 
 # ALSO NOTE: OPTION TO INSTALL METRICS PACKAGES HAS BEEN MOVED THERE
 
@@ -189,9 +189,9 @@ if( dim(cu.lookup.sub)[1]==1){ # do only if have exactly 1 matching CU_ID in the
 
 
 	if(cu.lookup.sub$Cyclic==TRUE){
-	  
-    print(paste("starting  BMAC changes for", cu.name, series.do))	  
-	  
+
+    print(paste("starting  BMAC changes for", cu.name, series.do))
+
         # Set to NA first (AbsAbd BMs don't need to be changed)
         metrics.tmp[metrics.tmp$Metric == "RelAbd", c("Value","LBM","UBM","Status")] <- NA
        # metrics.tmp[metrics.tmp$Metric == "AbsAbd", c("Value","Status")] <- NA   # Changed Nov 9 2021 as we decided to use the geom average for
@@ -228,10 +228,10 @@ if( dim(cu.lookup.sub)[1]==1){ # do only if have exactly 1 matching CU_ID in the
         # Insert Statuses
         metrics.tmp <- metrics.tmp %>%
                                mutate(Status = ifelse(Value <= LBM, "Red", ifelse(Value > UBM, "Green", "Amber")))
-        
-        
+
+
         print(paste("ending  BMAC changes for", cu.name, series.do))
-        
+
   } # end cyclic
 
 
@@ -261,8 +261,8 @@ if( dim(cu.lookup.sub)[1]==1){ # do only if have exactly 1 matching CU_ID in the
 
     if(FALSE){ # for debug only
       num.yrs.use <- (cu.avggen *cu.slope.specs$num.gen) + cu.slope.specs$extra.yrs
-      num.yrs.use  
-      
+      num.yrs.use
+
     test.out  <- WSPMetrics::calcPercChangeMCMC(vec.in = log(tail(trend.series,num.yrs.use)),
                                    method = "jags",
                                    model.in = NULL, # this defaults to the BUGS code in the built in function trend.bugs.1()

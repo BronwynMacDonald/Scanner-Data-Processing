@@ -2,7 +2,7 @@
 # Run all integrated data prep steps
 
 # Filtering occurs in the scripts
-# datastage: "Approved" or c("Approved", "In Progress")
+# datastage: "Approved" or c("Approved", "Data Deficient", "Extinct", "In Progress")
 # runAllout: set to FALSE to just run dashboards 
 
 if(FALSE){
