@@ -19,7 +19,7 @@ library(tidyverse)
 
 
 # ************** Bmac changed read in file ******************************************
-fr.sk.bypop.raw <- read.csv("DATA_IN/SOURCES/Fraser Sockeye/SKAll (June 2024_EStu Preliminaries).csv",fileEncoding="UTF-8-BOM",stringsAsFactors = FALSE)
+fr.sk.bypop.raw <- read.csv("DATA_IN/SOURCES/Fraser Sockeye/SKAll (June 2024_noEStu).csv",fileEncoding="UTF-8-BOM",stringsAsFactors = FALSE)
 # *********************************************************************************
 cu.lookup <- read.csv("DATA_LOOKUP_FILES/MOD_MAIN_CU_LOOKUP_FOR_SOS.csv",stringsAsFactors = FALSE) # ADDED jULY 2023
 
@@ -94,10 +94,12 @@ vars.drop <- c("spnpeak","arrival","jacks","males","remarks","Estimate.Method","
 fr.sk.bypop.cleaned <-  fr.sk.bypop.raw  %>%
                          filter(!Stock.Name.stream. %in% c("Early Nadina River","Late Nadina River" )) %>% # Feb 2024 - keep Nadina Channel in dataset
                          rbind(add.nadina) %>%
-                          mutate(SpnForTrend_Wild = Total,
-                                 SpnForAbd_Wild = Total,
-                                 SpnForAbd_Total =  Total) %>%
-                          rename(SpnForTrend_Total = Total, #eff_fem,                    CHANGED THIS APRIL 2021 because SpnForTrend is now the RAW data for Pop_level (PROBABLY - to confirm)
+                         mutate(SpnForTrend_Wild = (males + females)*spawn./100,   # Sept 2024 - changed from Total to the EFS so this will match the CU aggregate totals
+                                 SpnForAbd_Wild = (males + females)*spawn./100,
+                                 SpnForAbd_Total =  (males + females)*spawn./100,
+                                 SpnForTrend_Total = (males + females)*spawn./100
+                                 ) %>%
+                          rename(#SpnForTrend_Total = Total, #eff_fem,                    CHANGED THIS APRIL 2021 because SpnForTrend is now the RAW data for Pop_level (PROBABLY - to confirm)
                                  CU_Name = CU.Name,
                                  Pop_Name = Stock.Name.stream.,
                                  EstClass = est_type)  %>%
@@ -121,6 +123,15 @@ fr.sk.bypop.cleaned <-  fr.sk.bypop.raw  %>%
                                       rename(CU_ID=Pop_TimeSeriesData_CU_ID),
                                     by="CU_ID" )
 
+# Add fix for Birkenhead & Taseko since these values get infilled/filled with NAs in the ETS - Sept 2024
+  fr.sk.bypop.cleaned$SpnForAbd_Wild[fr.sk.bypop.cleaned$Pop_Name=="Birkenhead River" & fr.sk.bypop.cleaned$Year==2002] <- mean(c(
+    fr.sk.bypop.cleaned$SpnForAbd_Wild[fr.sk.bypop.cleaned$Pop_Name=="Birkenhead River" & fr.sk.bypop.cleaned$Year==1998],
+    fr.sk.bypop.cleaned$SpnForAbd_Wild[fr.sk.bypop.cleaned$Pop_Name=="Birkenhead River" & fr.sk.bypop.cleaned$Year==2006])
+  )
+  fr.sk.bypop.cleaned$SpnForAbd_Wild[fr.sk.bypop.cleaned$Pop_Name=="Taseko Lake" & fr.sk.bypop.cleaned$Year %in% c(1965,1968:1992)] <- NA
+  fr.sk.bypop.cleaned <- fr.sk.bypop.cleaned %>% mutate(SpnForTrend_Wild=SpnForAbd_Wild) %>%
+                                                 mutate(SpnForAbd_Total=SpnForAbd_Wild) %>%
+                                                 mutate(SpnForTrend_Total=SpnForAbd_Wild)
 
 # ****************************************************************************************************** BMAC
 fr.sk.bypop.cleaned <- fr.sk.bypop.cleaned %>% mutate( Timing.Group = ifelse(Timing.Group=="t5", "t4" ,Timing.Group))
@@ -236,7 +247,7 @@ for(cu.do in cu.list.fr.sk[cu.list.fr.sk!="Cultus_L"]){
 
     #info.sub <-   filter(cu.info.sos,Conservation_Unit == cu.do)
     info.sub <-   filter(cu.lookup, CU_Name == cu.do)
-    
+
     cu.id <-  info.sub$CU_ID
     stk.id <- info.sub$STK_ID
   #  stk.name <- info.sub$StkNm

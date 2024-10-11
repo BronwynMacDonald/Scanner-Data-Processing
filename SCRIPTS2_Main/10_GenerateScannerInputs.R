@@ -9,15 +9,15 @@ if(!dir.exists(paste0("OUTPUT/DATA_OUT/", paste(datastage, collapse="")))){dir.c
 # READ IN DATA
 
 # Lookup files
-cu.lookup <- read_csv("DATA_LOOKUP_FILES/MOD_MAIN_CU_LOOKUP_FOR_SOS.csv") %>%
+cu.lookup <- read.csv("DATA_LOOKUP_FILES/MOD_MAIN_CU_LOOKUP_FOR_SOS.csv", stringsAsFactors = FALSE) %>%
                       dplyr::mutate(CU_ID = gsub("_","-",CU_ID))
 
 # Escapement data
-cu.data <- read.csv("DATA_PROCESSING/MERGED_ESC_BY_CU_SUB.csv",stringsAsFactors = FALSE) 
+cu.data <- read.csv("DATA_PROCESSING/MERGED_ESC_BY_CU_SUB.csv",stringsAsFactors = FALSE)
 pop.data <- read.csv("DATA_PROCESSING/MERGED_ESC_BY_POP_SUB.csv")
 
 # Retrospective metrics
-retro.summary.tbl <- read_csv(paste0("OUTPUT/DASHBOARDS/Retro_Synoptic_Details_",paste(datastage, collapse=""),".csv"))
+retro.summary.tbl <- read.csv(paste0("OUTPUT/DASHBOARDS/Retro_Synoptic_Details_",paste(datastage, collapse=""),".csv"),stringsAsFactors = FALSE)
 metrics.long <- read.csv(paste0("DATA_PROCESSING/FILTERED_DATA/Metrics_Longform_SUB_",paste(datastage, collapse=""),".csv"))
 
 # Full metrics dummy file with all CUS (should be empty)
@@ -42,13 +42,13 @@ metrics.scanner <-  metrics.long  %>%   select(-c(X, Label, DataType)) %>%
                                         # ) %>%
                                         rbind(
                                           retro.summary.tbl %>% select(CU_ID, Species, Stock, Year, RapidStatus, IntStatus=IntStatusRaw) %>%
-                                                                mutate(RapidStatus = na_if(RapidStatus, "None")) %>%
+                                                                mutate(RapidStatus = recode(RapidStatus, "None"="DD")) %>%
+                                                            #   mutate(RapidStatus = na_if(RapidStatus, "None")) %>%
                                                                 pivot_longer(cols=c(RapidStatus, IntStatus), names_to = "Metric", values_to="Status") %>%
                                                                 mutate(Compare=NA, LBM=NA, UBM=NA, Value=NA) %>%
                                                                 relocate(Status, .before=Value)
                                         ) %>%
-                                        
-                                        left_join((retro.summary.tbl %>% select(c(CU_ID,Year,Confidence=ConfidenceRating3)) %>% 
+                                        left_join((retro.summary.tbl %>% select(c(CU_ID,Year,Confidence=ConfidenceRating3)) %>%
                                                                          mutate(Metric="RapidStatus")),
                                                                          by=c("CU_ID", "Year", "Metric")) %>%
                                         relocate(CU_ID, .before=Species)%>%
@@ -103,12 +103,27 @@ if(nrow(metrics.dummy %>%  filter_at(vars(Compare, LBM, UBM, Value, Status), any
 }
 
 
-metrics.out <- metrics.dummy %>% select(-Label) %>%
-                                 filter(!CU_ID %in% metrics.scanner$CU_ID) %>%
-                                 filter(!is.na(CU_ID))%>%
-                                 filter(!is.na(Stock))%>%
-                                 filter(!Metric == "IntStatus") %>%
-                                 rbind(metrics.scanner)
+metrics.out  <- metrics.dummy %>% select(-Label) %>%
+                         pivot_wider(names_from = Metric, values_from= Status) %>%
+                         left_join(cu.lookup %>% select(RapidStatus=Data_Stage, CU_ID=CU_ID_Alt2_CULookup), by="CU_ID") %>%
+                         group_by(CU_ID, Species, Stock,RapidStatus) %>%
+                                    complete(Year=full_seq(min(metrics.scanner$Year):max(metrics.scanner$Year), 1))%>%
+                                    ungroup() %>%
+                         pivot_longer(cols=c(RelUBM, AbsUBM, IntStatus, RelLBM, AbsLBM, LongTrend, PercChange, RapidStatus), names_to="Metric", values_to="Status") %>%
+                         filter(!CU_ID %in% metrics.scanner$CU_ID) %>%
+                         filter(!is.na(CU_ID))%>%
+                         filter(!is.na(Stock))%>%
+                         filter(!Metric == "IntStatus") %>%
+                         relocate(Year, .before=CU_ID) %>% relocate(Metric, .before=Compare) %>% relocate(Confidence, .after=last_col()) %>%
+                         rbind(metrics.scanner)
+
+
+# metrics.out <- metrics.dummy %>% select(-Label) %>%
+#                                  filter(!CU_ID %in% metrics.scanner$CU_ID) %>%
+#                                  filter(!is.na(CU_ID))%>%
+#                                  filter(!is.na(Stock))%>%
+#                                  filter(!Metric == "IntStatus") %>%
+#                                  rbind(metrics.scanner)
 # metrics.out <- metrics.dummy %>% select(-X) %>%
 #                                  filter(!CU_ID %in% metrics.scanner$CU_ID) %>%
 #                                  filter(!is.na(CU_ID))%>%
@@ -144,12 +159,12 @@ cu.clean <-  cu.data %>% select(-c(SpnForTrend_Total, SpnForTrend_Wild, Abd_Star
                          left_join(cu.lookup %>% select(CU_ID, CU_ID_Alt2_CULookup,Data_Stage), by="CU_ID" ) %>%
                          #left_join(cu.lookup %>% select(CU_ID=CU_ID_Report, CU_ID_Alt2_CULookup), by="CU_ID" ) %>%  # Use CU_ID_Report to match to the CU_ID in CU data file where this differs from the CU_ID in the lookup file
                          #mutate(CU_ID=coalesce(CU_ID_Alt2_CULookup.x, CU_ID_Alt2_CULookup.y)) %>%   # coalesce will take items from the first vector unless they are missing, in which case it will take items from the second vector
-                         mutate(CU_ID=CU_ID_Alt2_CULookup) %>%                       
+                         mutate(CU_ID=CU_ID_Alt2_CULookup) %>%
                          left_join(select(relabd.metric, CU_ID, Year, Compare), by=c("CU_ID","Year")) %>%
                          rename(RelAbd_metric_ts=Compare)%>%
                          relocate(c(CU_ID, DU_ID, CU_Name), .after=Species) %>%
                          #select(-c(CU_ID_Report, CU_ID_Alt2_CULookup.x, CU_ID_Alt2_CULookup.y)) %>%
-                         select(-c(CU_ID_Alt2_CULookup))%>%                       
+                         select(-c(CU_ID_Alt2_CULookup))%>%
                          filter(!CU_ID=="", Data_Stage %in% datastage) %>%
                          select(-Data_Stage)
 
@@ -172,7 +187,7 @@ pop.clean <- pop.data %>% select(-c(SpnForTrend_Total, SpnForTrend_Wild)) %>%
                           #mutate(CU_ID=coalesce(CU_ID_Alt2_CULookup.x, CU_ID_Alt2_CULookup.y)) %>%
                           mutate(CU_ID=CU_ID_Alt2_CULookup) %>%
                           #select(-c(CU_ID_Alt2_CULookup.x, CU_ID_Alt2_CULookup.y)) %>%
-                          select(-CU_ID_Alt2_CULookup) %>%                       
+                          select(-CU_ID_Alt2_CULookup) %>%
                           mutate(Escapement_Wild = case_when(CU_ID == "CO_02" ~ Escapement_Total, TRUE ~  Escapement_Wild)) %>% # Note this is the CU_ID from the WSP process not NuSEDs
                           filter(Data_Stage %in% datastage) %>%
                           select(-Data_Stage)
@@ -188,7 +203,7 @@ write.csv(pop.clean, paste0("OUTPUT/DATA_OUT/",paste(datastage, collapse=""),"/M
 #                mutate(CU_ID=CU_ID_Alt2_CULookup) %>%
 #                relocate(CU_ID, .before=Species)%>%
 #                select(-CU_ID_Alt2_CULookup)
-# 
+#
 # write.csv(fixed.retro, paste0("OUTPUT/DASHBOARDS/Retro_Synoptic_Details_",paste(datastage, collapse=""),".csv"))
 #
 # pop.info.adj <- pop.info %>% mutate(Comment = case_when(WSP_ts == "yes"~ "treated data used to produce CU level timeseries",
